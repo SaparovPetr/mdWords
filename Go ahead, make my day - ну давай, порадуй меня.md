@@ -1,1 +1,0 @@
-Klint Istwood said "go ahead, make my day".

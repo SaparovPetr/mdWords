@@ -1,1 +1,0 @@
-We walked from dusk till dawn.

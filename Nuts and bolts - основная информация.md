@@ -1,1 +1,0 @@
-Could you describe me nuts and bolts?
