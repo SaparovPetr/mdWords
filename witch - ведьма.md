@@ -1,5 +1,3 @@
-Here are 7 collocations with "witch" meaning "ведьма" and example sentences in different tenses:
-
 Collocations:
 - witch hunt
 - witch trials 
