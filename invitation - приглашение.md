@@ -1,8 +1,5 @@
 # Invitation - приглашение
 
-Created: April 19, 2023 12:12 PM
-Updated: September 2, 2023 12:10 PM
-
 - invitation to the wedding
 - decline an invitation
 - accept an invitation
