@@ -1,8 +1,5 @@
 # tear - рвать
 
-Created: October 27, 2023 11:39 AM
-Updated: October 27, 2023 11:40 AM
-
 Here are 4 more simple collocations with "tear" meaning to rip or pull apart, and an example sentence in different tenses with simplified vocabulary:
 
 Collocations:
