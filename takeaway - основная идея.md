@@ -1,8 +1,5 @@
 # takeaway - основная идея
 
-Created: October 15, 2023 2:21 PM
-Updated: October 15, 2023 2:21 PM
-
 Here are 4 more collocations with the word "takeaway" meaning the main idea or key message:
 
 1. Key takeaway
