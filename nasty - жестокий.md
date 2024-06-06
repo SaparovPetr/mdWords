@@ -1,3 +1,0 @@
-# Nasty - жестокий
-
-- nasty husband

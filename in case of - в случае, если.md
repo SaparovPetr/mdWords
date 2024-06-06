@@ -1,3 +1,0 @@
-- In case of win
-- In case of fail
-- In case of defeat

@@ -1,3 +1,0 @@
-- Worn-out jeans
-- Worn-out things
-- Worn-out shirt

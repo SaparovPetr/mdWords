@@ -1,1 +1,0 @@
-Sounds wafted into the room.
