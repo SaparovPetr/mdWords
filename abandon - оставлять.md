@@ -1,3 +1,4 @@
 # Abandon - оставлять
 
-- abandoned yachtabandoned village
+- abandoned yach
+- tabandoned village
