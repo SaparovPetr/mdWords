@@ -1,19 +1,11 @@
 # Overtake - обгонять
 
-Created: November 7, 2022 7:01 PM
-Updated: April 30, 2023 4:30 PM
-
 - overtake another racer
 - Overtake on the road
 
-Самые распространенные словосочетания с глаголом "overtake" (обгонять) это:
-
 1. Overtake a car - обгонять машину
-
 2. Overtake a competitor - обгонять конкурента
-
 3. Overtake a cyclist - обгонять велосипедиста
-
 4. Overtake a truck - обгонять грузовик
 
 Примеры использования глагола "overtake" в разных временах:

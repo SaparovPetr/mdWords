@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "923e9083dc974647",
+    "type": "split",
+    "children": [
+      {
+        "id": "37d7eba4258c9f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aef2ab7ec5e34ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "515f180b6e1e0b7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf36382ba9e81a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c993be562407e42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b81a109807332983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "886abcdd09a4a6bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f5adaafa0bbbfec",
+    "type": "split",
+    "children": [
+      {
+        "id": "649a6d93bf3a2251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2acc0bc6476753a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9b9a9e3e9c11188",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b087a94519e00da1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42d943032cd5ec80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1aef2ab7ec5e34ec",
+  "lastOpenFiles": [
+    "absence - отсутствие.md",
+    "youngster - ребенок.md",
+    "youngster - ребёнок.md",
+    "slender - стройный.md",
+    "site - сайт.md",
+    "site - место.md",
+    "feel suffocated - чувствовать себя в ловушке.md",
+    "above - наверху.md",
+    "windy - ветреный.md.md",
+    "wrap - покрывало.md"
+  ]
+}
