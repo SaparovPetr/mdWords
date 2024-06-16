@@ -1,7 +1,5 @@
 # go through - просматривать
 
-Created: November 7, 2023 2:27 PM
-Updated: November 7, 2023 2:28 PM
 
 Here are 4 more collocations with "go through" meaning "to look over":
 
@@ -9,8 +7,6 @@ Here are 4 more collocations with "go through" meaning "to look over":
 - Go through documents
 - Go through files
 - Go through receipts
-
-Examples:
 
 Present Perfect:
 
