@@ -1,16 +1,10 @@
 # thrill -  возбуждение
 
-Created: September 16, 2023 11:38 AM
-Updated: September 16, 2023 11:43 AM
-
 Here are 4 more popular collocations with the phrase "thrill" without translation:
 
 1. thrill of the chase
-
 2. thrill seeker
-
 3. thrill ride
-
 4. thrills and spills
 
 And here is one example sentence using "thrill" in different tenses:

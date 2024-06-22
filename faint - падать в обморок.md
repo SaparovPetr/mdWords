@@ -1,19 +1,12 @@
 # faint - падать в обморок
 
-Created: October 15, 2023 12:21 PM
-Updated: October 15, 2023 12:21 PM
-
-Here are 4 more collocations with the word "faint" meaning to lose consciousness:
 
 1. Faint from exhaustion
-
 2. Faint with fever
-
 3. Faint from hunger
-
 4. Faint due to shock
 
-Examples:
+
 
 Present Perfect:
 

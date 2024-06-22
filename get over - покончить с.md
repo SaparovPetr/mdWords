@@ -1,7 +1,5 @@
 # Get over - покончить с
 
-Created: September 27, 2022 6:52 PM
-Updated: October 10, 2022 1:54 PM
 
 - Let's get over with it.
 

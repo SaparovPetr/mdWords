@@ -7,14 +7,9 @@ Updated: September 5, 2023 9:37 PM
 - preconceived opinion
 
 1. Preconceived notion
-
 2. Preconceived idea
-
 3. Preconceived opinion
-
 4. Preconceived bias
-
-Примеры:
 
 - Present Perfect: I have realized that my preconceived ideas about this person were completely wrong.
 - Past Simple: She realized she had a preconceived opinion about the situation.

@@ -1,19 +1,12 @@
 # Prominent - выдающийся
 
-Created: July 29, 2023 6:15 PM
-Updated: September 4, 2023 6:51 PM
 
 Примерное определение слова "prominent": выдающийся, заметный, известный, знаменитый.
 
-Четыре распространенных словосочетания с "prominent":
-
-1. Prominent feature - выдающаяся черта
-
-2. Prominent figure - известная личность
-
-3. Prominent role - заметная роль
-
-4. Prominent position - высокое положение
+1. Prominent feature
+2. Prominent figure
+3. Prominent role
+4. Prominent position
 
 Примеры:
 
