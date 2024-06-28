@@ -1,16 +1,13 @@
 # Coincidence - совпадение
 
-Created: January 2, 2023 12:56 PM
-Updated: July 24, 2023 3:21 PM
 
 Coincidence? I don't think!
 
+
+
 1. By coincidence - случайно, совершенно случайно
-
 2. Coincidence theory - теория случайностей
-
 3. Mere coincidence - простое совпадение
-
 4. Coincidence detection - обнаружение совпадений
 
 Примеры:
