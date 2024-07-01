@@ -1,12 +1,5 @@
 # Defamation - клевета
 
-Created: October 22, 2023 3:36 PM
-Updated: October 22, 2023 3:42 PM
-
-Here are 4 more collocations with the word "defamation" and example sentences in different tenses:
-
-Collocations:
-
 - defamation lawsuit
 - defamation claim
 - defamation case

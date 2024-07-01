@@ -1,10 +1,7 @@
 
-
 - apply a tool
 - Apply knowledgies
 - apply in a real life
-
-
 
 Collocations:
 1. apply rules
