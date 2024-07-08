@@ -1,7 +1,5 @@
 # Susceptible - восприимчивый
 
-Created: August 29, 2023 11:23 AM
-Updated: August 29, 2023 11:25 AM
 
 - susceptible to plant pollen
 

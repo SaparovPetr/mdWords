@@ -1,4 +1,3 @@
-## Collocations with "indispensable" (meaning: irreplaceable, essential):
 
 1. **indispensable member:** He is an indispensable member of the team.
 2. **indispensable contribution:** Her research made an indispensable contribution to the project.
@@ -14,5 +13,3 @@
 - **Past Simple:** The doctor's quick thinking saved his life and proved indispensable.
 - **Past Continuous:** We were planning the event when a key member became unavailable, making her contributions indispensable.
 - **Past Perfect:** By the time I arrived, they had already finished the project, with her skills proving indispensable.
-
-I haven't included any personal comments or paraphrased the term "indispensable." I hope this information is helpful!
