@@ -1,7 +1,5 @@
-# Neat - изящный, аккуратный, опрятный, точный, искуссный
+# Neat - складный, искуссный
 
-Created: February 14, 2023 2:58 PM
-Updated: April 29, 2023 5:02 PM
 
 - neat work
 - neat turn

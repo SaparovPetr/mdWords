@@ -1,7 +1,7 @@
-Here are 7 collocations with "intrusive" meaning "навязчивый" and example sentences in different tenses:
-
 Collocations:
+
 - intrusive thoughts
+- intrusive seller
 - intrusive questions
 - intrusive behavior
 - intrusive advertising
