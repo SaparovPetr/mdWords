@@ -2,9 +2,9 @@
 
 Collocations with "lovely":
 
-lovely weather
-lovely smile
-lovely time
+lovely weather 
+lovely smile 
+lovely time 
 lovely place
 lovely day
 lovely person
