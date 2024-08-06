@@ -1,9 +1,5 @@
 # Subsequent - последующий
 
-Created: August 29, 2023 11:15 AM
-Updated: August 29, 2023 11:16 AM
-
-Вот 4 распространенных словосочетания с словом subsequent и их переводы на русский язык:
 
 1. subsequent events - последующие события
 

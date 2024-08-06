@@ -1,7 +1,5 @@
 # Inclination - предпочтение
 
-Created: April 13, 2023 2:05 PM
-Updated: August 9, 2023 3:37 PM
 
 - inclination to leave
 - Inclination for art

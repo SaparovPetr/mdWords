@@ -1,10 +1,5 @@
 # Duration - длительность
 
-Created: October 22, 2023 4:02 PM
-Updated: October 22, 2023 4:04 PM
-
-Here are 4 more collocations with the word "duration" and example sentences in different tenses:
-
 Collocations:
 
 - duration of time
@@ -12,7 +7,6 @@ Collocations:
 - duration of treatment
 - duration of stay
 
-Example sentences:
 
 Present Perfect:
 

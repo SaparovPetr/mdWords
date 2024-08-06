@@ -1,16 +1,10 @@
 # idle away - бездельничать
 
-Created: September 26, 2023 11:41 AM
-Updated: September 26, 2023 11:42 AM
-
 Here are 4 more popular colloquial collocations with "idle away":
 
 1. Idle away the hours
-
 2. Idle away the afternoon
-
 3. Idle away time
-
 4. Idle away the day
 
 And here is one example sentence using "idle away" in different tenses:

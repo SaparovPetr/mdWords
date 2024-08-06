@@ -1,13 +1,6 @@
-
-
 - devise the plan
 - devise the project
-
-
- Here are 4 more collocations with "devise" and an example sentence in different tenses:
-
-- devise a plan
-- devise a strategy 
+ - devise a strategy 
 - devise a solution 
 - devise an experiment
 
