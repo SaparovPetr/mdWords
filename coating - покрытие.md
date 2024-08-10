@@ -1,5 +1,3 @@
-Here are 7 simple and popular collocations with "coating" and example sentences in different tenses:
-
 Coating collocations:
 
 - Protective coating

@@ -1,8 +1,5 @@
 # Worthwhile - стоящий
 
-Created: August 13, 2022 6:20 PM
-Updated: August 19, 2023 9:47 PM
-
 - Worthwhile suggestion
 - worthwhile proposal
 
@@ -13,7 +10,6 @@ Updated: August 19, 2023 9:47 PM
 2. Worthwhile investment - выгодная инвестиция
 
 3. Worthwhile cause - благое дело
-
 4. Worthwhile effort - усилия, которые того стоят
 
 Примеры:

@@ -1,7 +1,6 @@
 # adjacent - примыкающий
 
-Created: November 24, 2023 1:18 PM
-Updated: November 24, 2023 1:19 PM
+
 
 Here are 4 more collocations with "adjacent" and example sentences in different tenses:
 

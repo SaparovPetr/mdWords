@@ -1,13 +1,9 @@
-Updated: November 29, 2023 9:06 PM
 
 Here are 4 more collocations with the phrase "miss out on":
 
 1. Miss out on a chance
-
 2. Miss out on an opportunity
-
 3. Miss out on an experience
-
 4. Miss out on the fun
 
 Examples:

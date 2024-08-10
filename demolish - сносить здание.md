@@ -1,8 +1,5 @@
 # Demolish - сносить здание
 
-Created: July 11, 2023 1:19 PM
-Updated: July 11, 2023 1:19 PM
-
 Словосочетания с выражением "demolish" (сносить здание):
 
 1. demolish a building - снести здание

@@ -1,10 +1,22 @@
 # Draw - привлекать
 
-Created: March 2, 2023 4:06 AM
-Updated: July 12, 2023 6:07 PM
 
 - draw visitors
 - Draw customers
+1. draw attention
+2. draw interest
+3. draw a crowd
+4. draw inspiration
+5. draw criticism
+6. draw comparisons
+7. draw conclusions
+
+Examples:
+
+- **Present Perfect**: The new art exhibit has **drawn a lot of attention** in the community.
+- **Past Simple**: The politician's controversial statement **drew harsh criticism** from the media.
+- **Past Continuous**: The street performer was **drawing a crowd** of onlookers with their impressive acrobatics.
+- **Past Perfect**: By the time the project was completed, the team had **drawn inspiration** from numerous sources.
 
 1. Draw attention - привлекать внимание
 

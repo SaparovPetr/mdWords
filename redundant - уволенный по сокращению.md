@@ -15,6 +15,9 @@ Collocations with "redundant":
 7. redundancy package
 
 Present Perfect: The company has made 100 employees redundant due to budget cuts.
+
 Past Simple: Many factory workers became redundant when automation was introduced last year.
+
 Past Continuous: While the company was making staff redundant, unions were negotiating severance packages.
+
 Past Perfect: By the time the new management took over, several departments had already been made redundant.

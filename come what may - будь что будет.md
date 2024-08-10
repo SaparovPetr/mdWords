@@ -1,7 +1,5 @@
 # Come what may - будь что будет
 
-Created: March 26, 2023 7:05 PM
-Updated: July 14, 2023 4:24 PM
 
 - come what may with that problem
 

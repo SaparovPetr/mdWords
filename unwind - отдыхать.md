@@ -1,8 +1,5 @@
 # Unwind - отдыхать
 
-Created: September 28, 2022 10:26 AM
-Updated: September 13, 2023 6:55 PM
-
 - Unwind on holidays
 - Unwind during vacation
 - Unwind on the fresh air

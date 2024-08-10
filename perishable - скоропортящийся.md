@@ -1,9 +1,6 @@
 
 # Perishable - скоропортящийся
 
-Created: December 4, 2023 11:13 PM
-Updated: December 4, 2023 11:16 PM
-
 Here are 4 more collocations with "perishable":
 
 - perishable goods
