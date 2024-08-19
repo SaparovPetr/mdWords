@@ -1,17 +1,11 @@
 # Antsy - беспокойный
 
-Created: March 22, 2023 11:07 AM
-Updated: May 1, 2023 3:53 PM
-
 - Antsy character
 
-1. Antsy behavior - беспокойное поведение
-
-2. Antsy feeling - чувство беспокойства
-
-3. Antsy mood - беспокойное настроение
-
-4. Antsy anticipation - беспокойное ожидание
+1. Antsy behavior
+2. Antsy feeling 
+3. Antsy mood
+4. Antsy anticipation
 
 Примеры:
 
