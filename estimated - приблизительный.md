@@ -1,16 +1,8 @@
 # Estimated - приблизительный
 
-Created: February 6, 2023 2:40 PM
-Updated: March 26, 2023 12:24 PM
-
 - estimated cost
 - estimated arrival time
 - Estimated translation
-
-Here are 7 simple and popular collocations with "estimated" and example sentences in different tenses:
-
-Collocations:
-
 - estimated time/cost/price
 - estimated value 
 - estimated earnings 
