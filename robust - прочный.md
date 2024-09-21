@@ -1,8 +1,5 @@
 # Robust - прочный
 
-Created: December 9, 2023 11:21 AM
-Updated: December 9, 2023 11:22 AM
-
 ## Collocations with "Robust" - прочный
 
 1. Robust health - прочное здоровье

@@ -7,8 +7,6 @@
 
 She was charged for her actions.
 
-
-
 Here are 4 common collocations with the phrase "charge" meaning to accuse someone of something:
 
 - Press charges (e.g. The victim pressed charges against her attacker)
