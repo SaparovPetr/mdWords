@@ -1,7 +1,5 @@
 # Spark - вызывать
 
-Created: February 20, 2023 10:32 PM
-Updated: July 7, 2023 5:15 PM
 
 - spark the domino effect
 - spark the reaction
@@ -10,9 +8,6 @@ Updated: July 7, 2023 5:15 PM
 - Spark debates
 - Spark criticism
 
-Spark в значении "вызывать" означает вызывать или возбуждать какую-либо реакцию или процесс.
-
-Некоторые распространенные словосочетания с spark:
 
 1. Spark interest (возбуждать интерес) - это означает, что что-то вызывает интерес у людей или пробуждает их любопытство.
 

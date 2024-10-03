@@ -1,4 +1,4 @@
-#### Collocations
+Collocations
 
 1. make up for lost time
 2. make up for mistakes
@@ -8,7 +8,7 @@
 6. make up for lost opportunities
 7. make up for poor performance
 
-#### Examples
+Examples
 
 - Present Perfect: I have tried to **make up for lost time** on my projects.
 - Past Simple: He **made up for his mistakes** by working extra hours.
