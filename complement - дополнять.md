@@ -1,7 +1,5 @@
 # complement  - дополнять
 
-Created: December 22, 2023 1:41 PM
-Updated: December 22, 2023 1:42 PM
 
 Here are 4 more collocations with "complement" and example sentences in different tenses:
 

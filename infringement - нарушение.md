@@ -3,8 +3,6 @@
 
 - infringement of substantial conditions of contract
 
-
-
 Here are 4 simple and popular collocations with "infringement" meaning "нарушение":
 
 1. Copyright infringement

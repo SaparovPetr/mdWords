@@ -1,5 +1,3 @@
- Here are 4 more collocations with "complementary" and an example sentence in different tenses:
-
 Collocations:
 
 - Complementary colors

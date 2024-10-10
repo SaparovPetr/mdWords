@@ -1,8 +1,5 @@
 # Fatigue - утомление
 
-Created: September 26, 2022 6:58 PM
-Updated: September 26, 2022 7:07 PM
-
 - Moral fatigue
 - physical fatigue
 - extreme fatigue
