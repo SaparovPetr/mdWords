@@ -1,1 +1,0 @@
-# automatically - автоматически.md
