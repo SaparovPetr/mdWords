@@ -1,4 +1,3 @@
-Here are 7 collocations with "distrust" meaning "недоверие" and example sentences in different tenses:
 
 Collocations:
 - deep distrust

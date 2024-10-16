@@ -1,10 +1,5 @@
 # Ponder - размышлять
 
-Created: November 24, 2023 1:00 PM
-Updated: November 24, 2023 1:00 PM
-
-Here are 4 more collocations with "ponder" and example sentences in different tenses:
-
 Collocations:
 
 - Ponder an idea

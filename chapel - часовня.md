@@ -1,10 +1,12 @@
 # Chapel - часовня
 
-Created: December 19, 2023 5:58 AM
-Updated: December 19, 2023 5:58 AM
 
-Here are 4 collocations with the word "chapel" and example sentences:
-Collocations:1. Wedding chapel2. Chapel of rest 3. Chapel service  4. University chapel
+Collocations:
+1. Wedding chapel
+2. Chapel of rest 
+3. Chapel service  
+4. University chapel
+
 Examples:
 Present Perfect:Many couples have gotten married in the beautiful wedding chapel.  
 Past Simple: We attended a lovely chapel service last Sunday to honor the deceased.

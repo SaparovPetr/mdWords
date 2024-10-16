@@ -1,10 +1,5 @@
 # Interrogate - допрашивать
 
-Created: December 18, 2023 10:34 PM
-Updated: December 21, 2023 1:49 PM
-
-Here are 4 more collocations with "interrogate" meaning "to question intensively" or "to interrogate":
-
 1. interrogate a suspect
 2. interrogate witnesses
 3. interrogate thoroughly
