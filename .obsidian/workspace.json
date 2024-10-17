@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37d7eba4258c9f2d",
+        "id": "2bb030531d862794",
         "type": "tabs",
         "children": [
           {
-            "id": "1aef2ab7ec5e34ec",
+            "id": "b93e70ce81cbdc0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "a - неопределённый артикль.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a - неопределённый артикль"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -58,11 +68,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "abandon - оставлять.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для abandon - оставлять"
             }
           },
           {
@@ -98,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "abandon - оставлять.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из abandon - оставлять"
             }
           },
           {
@@ -111,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -119,15 +138,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "abandon - оставлять.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура abandon - оставлять"
+            }
+          },
+          {
+            "id": "785c47adbce489fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,11 +169,27 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aef2ab7ec5e34ec",
+  "active": "b93e70ce81cbdc0c",
   "lastOpenFiles": [
+    "abundance - распространенность.md",
+    "abundance - изобилие.md",
+    "abandon - оставлять.md",
+    "a.m. - в утренние часы.md",
+    "abandon - прекращать.md",
+    "accommodation - временное жильё.md",
+    "accidental - случайный.md",
+    "accident - случайность.md",
+    "accident - несчастный случай.md",
+    "accessible - доступный.md",
+    "access - проход.md",
+    "according to - согласно.md",
+    "above - наверху.md",
+    "from dusk till dawn - от заката до рассвета.md",
+    "Без названия.canvas",
     "absence - отсутствие.md",
     "youngster - ребенок.md",
     "youngster - ребёнок.md",
@@ -148,7 +197,6 @@
     "site - сайт.md",
     "site - место.md",
     "feel suffocated - чувствовать себя в ловушке.md",
-    "above - наверху.md",
     "windy - ветреный.md.md",
     "wrap - покрывало.md"
   ]
