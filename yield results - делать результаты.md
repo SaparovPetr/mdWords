@@ -1,5 +1,4 @@
 
-Certainly! Here are 7 collocations with "yield results" meaning "делать результаты" and example sentences in different tenses:
 
 Collocations:
 - yield positive results

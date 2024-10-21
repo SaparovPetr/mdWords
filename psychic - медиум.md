@@ -1,7 +1,4 @@
-# Psychic - медиум, экстрасенс
-
-Created: October 22, 2023 4:00 PM
-Updated: October 22, 2023 4:00 PM
+# Psychic - медиум
 
 Here are 4 more collocations with the word "psychic" and example sentences in different tenses:
 

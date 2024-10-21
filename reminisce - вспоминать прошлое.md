@@ -1,12 +1,8 @@
 
-Here are 4 simple and popular collocations with "reminisce" meaning "вспоминать прошлое":
-
 1. Reminisce about childhood 
 2. Reminisce about old friends
 3. Reminisce about school days
 4. Reminisce about a vacation 
-
-And here is an intermediate level example sentence in different tenses:
 
 Present Perfect:
 My grandparents have reminisced fondly about the early days of their marriage.

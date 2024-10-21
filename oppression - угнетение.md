@@ -1,4 +1,4 @@
- Here are 7 more collocations with "oppression" in the meaning of угнетение:
+
 
 - Racial oppression
 - Political oppression

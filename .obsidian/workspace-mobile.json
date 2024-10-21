@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hectic - суматошный; лихорадочный.md",
+                "file": "soothe - утешать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hectic - суматошный; лихорадочный"
+              "title": "soothe - утешать"
             }
           }
         ]
@@ -160,12 +160,31 @@
   },
   "active": "2a5d272762f788a9",
   "lastOpenFiles": [
+    "prosperity - преуспевание.md",
+    "soothe - утешать.md",
+    "soothe - успокаивать.md",
+    "speak up - высказываться.md",
+    "faint - падать в обморок.md",
+    "apprehend - арестовать.md",
+    "slayer - убийца.md",
+    "prominent - выдающийся.md",
+    "yield results - делать результаты.md",
+    "reminisce - вспоминать прошлое.md",
+    "lust - вожделение.md",
+    "unsolicited - непрошенный.md",
+    "oppression - угнетение.md",
+    "repel - отталкивать.md",
+    "vicious - злой.md",
+    "horde - орда.md",
+    "creature comforts - земные блага.md",
+    "calm - спокойный.md",
+    "ill at ease - не по себе, неловко.md",
+    "psychic - медиум.md",
+    "hectic - суматошный; лихорадочный.md",
+    "discourage - препятствовать.md",
     "enigmatic - загадочный.md",
     "spontaneity - непосредственность.md",
     "defer - откладывать.md",
-    "odd - странный.md",
-    "obstacle - препятствие.md",
-    "х-ray - рентген.md",
-    "a - неопределённый артикль.md"
+    "odd - странный.md"
   ]
 }

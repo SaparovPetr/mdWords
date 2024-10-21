@@ -1,8 +1,6 @@
 # Prominent - выдающийся
 
 
-Примерное определение слова "prominent": выдающийся, заметный, известный, знаменитый.
-
 1. Prominent feature
 2. Prominent figure
 3. Prominent role
