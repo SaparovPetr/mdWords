@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "х-ray - рентген.md",
+                "file": "odd - странный.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "х-ray - рентген"
+              "title": "odd - странный"
             }
           }
         ]
@@ -133,9 +133,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "484a91617ffe5580",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +160,8 @@
   },
   "active": "2a5d272762f788a9",
   "lastOpenFiles": [
-    "a - неопределённый артикль.md",
-    "х-ray - рентген.md"
+    "obstacle - препятствие.md",
+    "х-ray - рентген.md",
+    "a - неопределённый артикль.md"
   ]
 }
