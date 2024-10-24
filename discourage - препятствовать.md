@@ -1,7 +1,4 @@
 
-
-Here are 4 more collocations with the word "discourage" and example sentences in different tenses:
-
 Collocations:
 
 - discourage participation
