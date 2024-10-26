@@ -1,8 +1,5 @@
 # Bulb - лампочка
 
-Created: October 24, 2022 8:27 AM
-Updated: July 27, 2023 3:17 PM
-
 - electric bulb
 - energy-saving bulb
 - Bright bulb
