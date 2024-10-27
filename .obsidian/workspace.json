@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a couple of - несколько.md",
+                "file": "trousers - брюки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a couple of - несколько"
+              "title": "trousers - брюки"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -175,9 +175,16 @@
   },
   "active": "5cc0c54478ad6548",
   "lastOpenFiles": [
+    "a couple of - несколько.md",
+    "shelf life - срок годности.md",
+    "inherent - неотъемлемый.md",
+    "disincline - отбивать охоту.md",
+    "determination - определение.md",
+    "counsellor - адвокат.md",
+    "a lot of - много.md",
+    "daycare - детский сад.md",
     "a - неопределённый артикль.md",
     "x-ray - рентген.md",
-    "a lot of - много.md",
     "soothe - утешать.md",
     "horde - орда.md",
     "ill at ease - не по себе, неловко.md",
@@ -194,13 +201,6 @@
     "accommodation - временное жильё.md",
     "accidental - случайный.md",
     "accident - случайность.md",
-    "accident - несчастный случай.md",
-    "accessible - доступный.md",
-    "access - проход.md",
-    "according to - согласно.md",
-    "above - наверху.md",
-    "from dusk till dawn - от заката до рассвета.md",
-    "Без названия.canvas",
-    "absence - отсутствие.md"
+    "Без названия.canvas"
   ]
 }
