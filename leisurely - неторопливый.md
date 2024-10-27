@@ -1,9 +1,5 @@
 # leisurely - неторопливый
 
-Created: November 7, 2023 2:33 PM
-Updated: November 7, 2023 2:34 PM
-
-Here are 4 more collocations with "leisurely":
 
 - Leisurely stroll
 - Leisurely pace

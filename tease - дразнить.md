@@ -1,18 +1,14 @@
 
-
 - tease the sister
 
 Are you teasing me?
 
-
-Here are 4 simple and popular collocations with "tease" meaning "дразнить":
 
 1. Tease someone mercilessly
 2. Tease someone about their crush
 3. Tease someone for being clumsy
 4. Tease someone for wearing silly clothes
 
-And here is an intermediate level sentence example in different tenses: 
 
 Present Perfect:
 The bullies have teased him for years about his red hair and freckles.

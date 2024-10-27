@@ -1,11 +1,8 @@
 # Oncoming - надвигающийся
 
-Created: January 24, 2023 4:40 PM
-Updated: April 30, 2023 9:43 AM
 
 - Oncoming thunderstorm
 
-Некоторые из самых распространённых словосочетаний с "oncoming" в значении "надвигающийся" в английском языке:
 
 1. Oncoming traffic - Надвигающийся транспорт
 
