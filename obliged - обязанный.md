@@ -1,8 +1,6 @@
 # obliged - обязанный
 
 
-obliged - обязанный
-
 Collocations:
 
 1. financial obligations

@@ -1,6 +1,6 @@
 # tuna - тунец
 
-collocations of: tuna
+
 1. canned tuna
 2. fresh tuna
 3. raw tuna

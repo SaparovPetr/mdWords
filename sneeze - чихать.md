@@ -2,8 +2,6 @@
 
 - sneeze in the handkerchief
 
-7 Collocations with the term: Sneeze
-
 1. sudden sneeze
 2. violent sneeze
 3. involuntary sneeze

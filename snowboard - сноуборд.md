@@ -1,8 +1,6 @@
 # snowboard - сноуборд
 
- 
-
-snowboard - сноуборд
+ snowboard - сноуборд
 Collocations:
 
 1. beginner snowboard

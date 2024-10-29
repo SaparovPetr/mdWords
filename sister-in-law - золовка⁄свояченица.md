@@ -1,9 +1,6 @@
 # sister-in-law - золовка⁄свояченица
  
 
-sister-in-law - золовка⁄свояченица
-Collocations:
-
 1. family sister-in-law
 2. married sister-in-law
 3. sister-in-law and brother-in-law

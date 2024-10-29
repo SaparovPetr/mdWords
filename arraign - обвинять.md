@@ -1,8 +1,6 @@
 # Arraign - обвинять
 
-  arraign - обвинять
 
-Collocations:
 
 1. formal arraignment
 2. preliminary arraignment
@@ -13,7 +11,6 @@ Collocations:
 7. criminal arraignment
 
 Examples:
-
 - Present: The defendant will be put on trial after a formal arraignment.
 - Past: The court conducted a preliminary arraignment before the trial started.
 
@@ -22,5 +19,4 @@ Examples:
 - Arraign in the infringement
 
 She arraigns me in this nuisance.
-
 Don't arraign me! It's your guilt.
