@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "disability - инвалидность.md",
+                "file": "line - строка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "disability - инвалидность"
+              "title": "line - строка"
             }
           }
         ]
@@ -39,7 +39,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Файловый менеджер"
         }
       },
       {
@@ -128,20 +128,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "х-ray - рентген.md"
+            "file": "offencively - оскорбительно.md"
           },
           "icon": "lucide-list",
-          "title": "Outline"
-        }
-      },
-      {
-        "id": "484a91617ffe5580",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "title": "Структура"
         }
       }
     ],
@@ -149,17 +139,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "aa8205a54c2a18ef",
   "lastOpenFiles": [
+    "due to - из-за.md",
+    "session - заседание.md",
+    "omit - не включать в себя.md",
+    "walk in the park - легкое задание, пустяк.md",
+    "bonnet - капот.md",
+    "on a whim - под влиянием момента.md",
+    "walk down the aisle - идти под венец.md",
+    "rough - ухабистый.md",
+    "offencively - оскорбительно.md",
+    "heart attack - инфаркт.md",
+    "lump - болван.md",
+    "impression - впечатление.md",
+    "impart - передавать.md",
+    "cut down - срубать.md",
+    "irritably - раздраженно.md",
+    "disability - инвалидность.md",
+    "pure - чистый.md",
+    "outside - снаружи.md",
     "stain - пятно.md",
     "boredom - скука.md",
     "trousers - брюки.md",
@@ -167,24 +174,6 @@
     "determination - определение.md",
     "leisurely - неторопливый.md",
     "counsellor - адвокат.md",
-    "supplement - дополнение.md",
-    "empower - уполномочивать.md",
-    "shelf life - срок годности.md",
-    "slump - спад.md",
-    "tease - дразнить.md",
-    "impoverished - нуждающийся.md",
-    "oncoming - надвигающийся.md",
-    "daycare - детский сад.md",
-    "splatter - брызгать.md",
-    "desperate - испытывающий острую нужду.md",
-    "bulb - лампочка.md",
-    "lane - просёлочная дорога.md",
-    "lavatory - уборная.md",
-    "internalise - усваивать.md",
-    "approximately - приблизительно.md",
-    "deception - обман.md",
-    "disincline - отбивать охоту.md",
-    "vibrant - энергичный.md",
-    "distant - дальний.md"
+    "supplement - дополнение.md"
   ]
 }
