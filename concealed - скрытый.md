@@ -1,8 +1,5 @@
 # Concealed - скрытый
 
-Created: November 23, 2022 8:46 AM
-Updated: September 5, 2023 9:06 PM
-
 - concealed part
 - concealed possibilities
 - Concealed capabilities
@@ -11,7 +8,6 @@ Updated: September 5, 2023 9:06 PM
 
 The biggest part of the iceberg was concealed under water.
 
-Here are 4 popular collocations with the word "concealed" and example sentences in different verb tenses:
 
 Collocations:
 

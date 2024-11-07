@@ -25,7 +25,3 @@ I was assembling a dresser for the guest bedroom all afternoon.
 
 Past Perfect:
 I had assembled the patio set before the party started so people would have places to sit outside.
-
-I tried to use simple vocabulary related to assembling furniture in these sentences. Please let me know if you need any clarification or would like additional example sentences using the phrase "assemble furniture" in different tenses.
-
-Super team assembled!

@@ -1,6 +1,25 @@
 # Silly - незначительный
 
-Created: July 4, 2022 8:38 AM
-Updated: July 4, 2022 8:38 AM
+- silly matter
+- silly problem
+- Silly point
 
-- silly mattersilly problemSilly point
+• silly mistake
+• silly idea
+• silly question
+• silly behavior
+• silly comment
+• silly argument
+• silly excuse
+
+Present Perfect:
+She has made some silly mistakes in her report.
+
+Past Simple:
+He had a silly argument with his friend over nothing.
+
+Past Continuous:
+They were making silly comments during the presentation.
+
+Past Perfect: 
+By the time I realized it, I had already given a silly excuse.

@@ -1,8 +1,5 @@
 # Convince - убеждать
 
-Created: June 22, 2022 8:49 AM
-Updated: September 5, 2022 6:58 PM
-
 - convince and reassure are synonyms
 - Convince colleagues
 - Convince judge
