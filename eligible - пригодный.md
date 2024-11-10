@@ -1,7 +1,4 @@
-# eligible - пригодный, правомочный
-
-Created: November 4, 2023 3:44 PM
-Updated: November 4, 2023 4:16 PM
+# eligible - пригодный
 
 - eligible candidate
 - eligible voter

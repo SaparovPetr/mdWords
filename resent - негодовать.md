@@ -1,11 +1,8 @@
-Вот 4 дополнительных простых и популярных словосочетания с глаголом "resent" в значении "негодовать":
 
 1. Resent unfair treatment
 2. Resent someone's behavior
 3. Resent being ignored
 4. Resent criticism  
-
-
 
 Present Perfect: 
 I have resented his unkind comments over the years.

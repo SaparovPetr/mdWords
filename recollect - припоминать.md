@@ -1,8 +1,5 @@
 # recollect - припоминать
 
-Created: December 22, 2023 1:45 PM
-Updated: December 22, 2023 1:45 PM
-
 Here are 4 more collocations with "recollect" and example sentences in different tenses:
 
 Collocations:
