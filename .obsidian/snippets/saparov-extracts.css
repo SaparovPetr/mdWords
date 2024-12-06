@@ -1,0 +1,71 @@
+/* ширина контейнера со всем текстом */
+body {
+  --file-line-width: 1100px;
+}
+
+pre {
+  line-height: 0.3;
+  font-size: 16px;
+}
+
+
+/* выравнивание текста по ширине и красная строка */
+
+/* p, .cm-s-obsidian {
+  text-align: justify;
+  text-indent: 50px;
+} */
+
+/* выключение красной строки для коллаутов */
+/* .HyperMD-codeblock, .HyperMD-codeblock-bg .callout-title-inner .language-html .language-javascript {} */
+/* text-indent: 0;   */
+
+
+
+.cm-header-1, .inline-title, h1, .markdown-rendered h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(188, 14, 14);
+}
+
+.cm-header-2, h2, .markdown-rendered h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(177, 177, 12);
+}
+
+.cm-header-3, h3, .markdown-rendered h3 {
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(10, 113, 10);
+}
+
+.cm-header-4, h4, .markdown-rendered h4 {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(62, 142, 207);
+}
+
+
+/* выделение кода */
+.cm-s-obsidian span.cm-inline-code, .markdown-rendered code  {
+  color: rgb(167 94 94);
+  background-color: #111c30;
+}
+
+
+/* ДЕКОР УПРАВЛЯЮЩИХ  */
+
+/* кнопка закрытия */
+.mod-close {
+  background-color: rgb(130, 128, 69);
+}
+
+.status-bar {
+  color: rgb(203, 200, 102);
+} 
+
+/* иконки боковых панелей */
+.sidebar-toggle-button .clickable-icon {
+  color: rgb(203, 200, 102);
+}
