@@ -1,10 +1,5 @@
 # eventual - конечный
 
-Created: October 25, 2023 9:24 PM
-Updated: October 25, 2023 9:25 PM
-
-Here are 4 more collocations with "eventual" and an example sentence in different tenses:
-
 Collocations:
 
 - eventual outcome
