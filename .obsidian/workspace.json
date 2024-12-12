@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "192b106551a6255a",
+        "id": "2d4104639bed9ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "898bd6c6a24be678",
+            "id": "76e63869018ad82a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".trash/rattled - ошеломленный.md",
-                "staged": true
+                "file": "spark - искра.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (rattled - ошеломленный)"
+              "icon": "lucide-file",
+              "title": "spark - искра"
             }
           }
         ]
@@ -172,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "898bd6c6a24be678",
+  "active": "76e63869018ad82a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "goals.md",
