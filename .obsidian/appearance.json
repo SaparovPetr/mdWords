@@ -1,7 +1,11 @@
 {
   "baseFontSizeAction": true,
   "baseFontSize": 18,
+<<<<<<< HEAD
   "enabledCssSnippets": [
     "saparov-extracts"
   ]
+=======
+  "enabledCssSnippets": []
+>>>>>>> origin/main
 }

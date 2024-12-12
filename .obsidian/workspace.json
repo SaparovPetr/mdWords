@@ -11,10 +11,13 @@
             "id": "898bd6c6a24be678",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": ".trash/rattled - ошеломленный.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (rattled - ошеломленный)"
             }
           }
         ]
@@ -171,6 +174,8 @@
   },
   "active": "898bd6c6a24be678",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "goals.md",
     "vertebra - позвонок.md",
     "spread out - разворачивать.md",
     "pitch in - налегать.md",
@@ -195,8 +200,6 @@
     "disincline - отбивать охоту.md",
     "determination - определение.md",
     "counsellor - адвокат.md",
-    "a lot of - много.md",
-    "daycare - детский сад.md",
     "Без названия.canvas"
   ]
 }

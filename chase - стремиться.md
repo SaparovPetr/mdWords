@@ -1,8 +1,5 @@
 # Chase - стремиться
 
-Created: February 5, 2023 12:37 AM
-Updated: July 11, 2023 12:00 PM
-
 - chase to the top
 - chase to the aim
 - chase to the win
@@ -15,7 +12,7 @@ Updated: July 11, 2023 12:00 PM
 
 3. chase happiness - стремиться к счастью
 
-4. chase your goals - стремиться к достижению своих целей
+4. chase your goals- стремиться к достижению своих целей
 
 Примеры:
 

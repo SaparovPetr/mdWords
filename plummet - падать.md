@@ -1,21 +1,14 @@
 # Plummet - падать
 
-Created: December 7, 2022 8:57 AM
-Updated: April 30, 2023 5:35 PM
-
 - plummet on the ground
 - Water is plummeting from the highth
 
 Leafs were plaummeting on her.
 
-Слово "plummet" (падать) может употребляться в следующих словосочетаниях:
 
 1. Stock prices plummet - цены на акции резко падают
-
 2. Temperatures plummet - температура резко падает
-
 3. Sales plummet - продажи резко снижаются
-
 4. Airplane/plane/plunge/plummet - самолет падает
 
 Примеры использования слова "plummet" в разных временах:

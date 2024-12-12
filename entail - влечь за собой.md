@@ -1,5 +1,4 @@
 # Entail - влечь за собой
-  Here are 7 simple and popular collocations with "entail" meaning "влечь за собой":
 
 1. Entail risk
 2. Entail responsibility 

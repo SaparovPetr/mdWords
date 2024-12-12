@@ -1,4 +1,3 @@
-Based on the updated phrase in Russian, here are some collocations for using "omit" to mean "не включать в себя" (to not include):
 
 Collocations:
 
