@@ -1,9 +1,6 @@
 # Coincide - совпадать
 
-Created: August 26, 2023 11:34 AM
-Updated: August 26, 2023 11:35 AM
 
-Вот 4 распространенных словосочетания с выражением "coincide" в значении "совпадать":
 
 - coincide in time - совпадать во времени
 - views coincide - взгляды совпадают

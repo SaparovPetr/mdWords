@@ -1,16 +1,11 @@
 # eager - стремящийся
 
-Created: September 11, 2023 1:39 PM
-Updated: September 11, 2023 1:41 PM
-
-Here are 4 more popular collocations with the word "eager" meaning having or showing keen interest, enthusiasm, or desire:
 
 - Eager to please
 - Eager to learn
 - Eagerly waiting
 - Eager anticipation
 
-Example sentences:
 
 Present Perfect:
 

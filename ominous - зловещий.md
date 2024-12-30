@@ -1,8 +1,5 @@
 # Ominous - зловещий
 
-Created: November 22, 2022 11:21 AM
-Updated: July 27, 2023 4:39 PM
-
 - Ominous rain cloud
 - Ominous storm cloud
 - Ominous lough
