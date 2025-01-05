@@ -1,7 +1,5 @@
 # Slant - уклон
 
-Created: October 20, 2023 12:49 PM
-Updated: October 20, 2023 12:49 PM
 
 Here are 4 more common collocations with "slant" without translation:
 
