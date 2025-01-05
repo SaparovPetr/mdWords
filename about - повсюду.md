@@ -1,8 +1,5 @@
 # About - повсюду
 
-
-
-
 People were rushing about.
 
 They hear someone walking about outside.

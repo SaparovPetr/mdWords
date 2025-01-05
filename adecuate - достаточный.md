@@ -1,8 +1,5 @@
 # adecuate - достаточный
 
-
-
-
 Here are 4 more collocations with the phrase "adequate" meaning "sufficient" or "enough":
 
 1. adequate funding

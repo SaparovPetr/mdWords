@@ -1,8 +1,5 @@
 # Accept - признавать
 
-
-
-
 - accept the mistake
 - accept the major role
 
