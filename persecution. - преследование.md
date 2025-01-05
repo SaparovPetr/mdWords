@@ -1,1 +1,1 @@
-# persecution. - преследование
+# persecution - преследование
