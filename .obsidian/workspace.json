@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chase - стремиться.md",
+                "file": "abuse - злоупотребление.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chase - стремиться"
+              "title": "abuse - злоупотребление"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Created",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -73,7 +73,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,6 +176,9 @@
   },
   "active": "76e63869018ad82a",
   "lastOpenFiles": [
+    "adoption - принятие.md",
+    "chase - стремиться.md",
+    "go past - пройти мимо чего-то.md",
     "meliorate - улучшать.md",
     "spark - искра.md",
     "conflict-files-obsidian-git.md",
@@ -198,9 +202,6 @@
     "translation - перевод.md",
     "trousers - брюки.md",
     "a couple of - несколько.md",
-    "shelf life - срок годности.md",
-    "inherent - неотъемлемый.md",
-    "disincline - отбивать охоту.md",
     "Без названия.canvas"
   ]
 }

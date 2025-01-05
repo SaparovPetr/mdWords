@@ -1,32 +1,6 @@
 # Abuse - злоупотребление
 
-Created: July 14, 2022 5:16 PM
-Updated: July 14, 2022 5:16 PM
 
-- alcohol abuseAbuse of fat food
+- alcohol abuse
+- Abuse of fat food
 
-- Created: July 14, 2022 5:16 PM
-Updated: July 14, 2022 5:16 PM
-
-- alcohol abuseAbuse of fat food
-
-Created: July 14, 2022 5:16 PM
-Updated: July 14, 2022 5:16 PM
-
-- alcohol abuseAbuse of fat food
-
-Created: July 14, 2022 5:16 PM
-Updated: July 14, 2022 5:16 PM
-
-- alcohol abuseAbuse of fat food
-
-Created: July 14, 2022 5:16 PM
-Updated: July 14, 2022 5:16 PM
-
-- alcohol abuseAbuse of fat food
-
-Created: July 14, 2022 5:16 PM
-Updated: July 14, 2022 5:16 PM
-
-- alcohol abuseAbuse of fat food
-- 
