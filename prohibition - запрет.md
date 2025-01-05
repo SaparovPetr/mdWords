@@ -1,7 +1,7 @@
 # prohibition - запрет
 
-Created: October 24, 2022 7:11 PM
-Updated: January 27, 2023 6:30 PM
+
+
 
 - prohibition of walking the dog
 - smoking prohibition

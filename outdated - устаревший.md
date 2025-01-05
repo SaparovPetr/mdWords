@@ -1,7 +1,7 @@
 # Outdated - устаревший
 
-Created: September 30, 2023 2:24 PM
-Updated: September 30, 2023 2:25 PM
+
+
 
 Here are 4 more popular collocations with "outdated" meaning "old-fashioned/obsolete":
 

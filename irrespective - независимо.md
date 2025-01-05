@@ -1,7 +1,7 @@
 # irrespective - независимо
 
-Created: November 7, 2023 1:49 PM
-Updated: November 7, 2023 1:49 PM
+
+
 1
 Here are 4 more collocations with "irrespective":
 

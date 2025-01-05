@@ -1,7 +1,7 @@
 # Stray - бродячий
 
-Created: December 22, 2022 7:05 PM
-Updated: August 23, 2023 5:44 PM
+
+
 
 - stray dog
 - Stray man

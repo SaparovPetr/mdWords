@@ -1,7 +1,7 @@
 # luminosity - свечение
 
-Created: November 7, 2023 1:55 PM
-Updated: November 7, 2023 1:56 PM
+
+
 
 Here are 4 more collocations with "luminosity":
 

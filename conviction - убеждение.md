@@ -1,7 +1,7 @@
 # Conviction - убеждение
 
-Created: July 27, 2022 8:30 AM
-Updated: August 7, 2023 3:12 PM
+
+
 
 - deep conviction
 - Old conviction

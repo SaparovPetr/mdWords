@@ -1,7 +1,7 @@
 # Manse - особняк
 
-Created: August 17, 2022 9:39 AM
-Updated: August 24, 2023 8:02 PM
+
+
 
 - we don't afford the manse.
 

@@ -1,7 +1,7 @@
 # adgeways - боком
 
-Created: December 21, 2023 1:32 PM
-Updated: December 21, 2023 1:46 PM
+
+
 
 Okay, now I understand. Here are 4 collocations with "edgeways" meaning "sideways" or "at an angle":
 

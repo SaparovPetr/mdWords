@@ -1,7 +1,7 @@
 # Polite - вежливый
 
-Created: September 3, 2023 12:04 PM
-Updated: September 3, 2023 12:04 PM
+
+
 
 Here are 4 common collocations with "polite" meaning "courteous" or "well-mannered":
 

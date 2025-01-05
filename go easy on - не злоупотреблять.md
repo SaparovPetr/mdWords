@@ -1,7 +1,7 @@
 # @ Go easy on - не злоупотреблять
 
-Created: April 27, 2023 8:38 AM
-Updated: December 9, 2023 9:05 AM
+
+
 
 - go easy on sweets
 - go easy on smocking

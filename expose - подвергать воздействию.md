@@ -1,7 +1,7 @@
 # Expose - подвергать воздействию
 
-Created: December 23, 2023 3:29 PM
-Updated: December 23, 2023 3:31 PM
+
+
 
 Here are 4 more collocations with "expose" and example sentences in different tenses:
 Collocations:

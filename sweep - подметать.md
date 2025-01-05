@@ -1,7 +1,7 @@
 # Sweep - подметать
 
-Created: September 1, 2022 7:23 PM
-Updated: January 10, 2023 8:17 AM
+
+
 
 - sweep a floor
 

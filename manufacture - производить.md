@@ -1,7 +1,7 @@
 # Manufacture - производить
 
-Created: September 2, 2023 12:56 PM
-Updated: September 2, 2023 12:56 PM
+
+
 
 Here are 4 popular collocations with "manufacture" meaning to produce/make:
 

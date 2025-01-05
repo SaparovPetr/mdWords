@@ -1,7 +1,7 @@
 # Anticipate - ожидать
 
-Created: July 9, 2023 4:00 PM
-Updated: July 9, 2023 4:00 PM
+
+
 
 "Anticipate" означает "ожидать", "предвидеть".
 

@@ -1,7 +1,7 @@
 # sentence - предложение
 
-Created: October 27, 2023 11:44 AM
-Updated: October 27, 2023 11:44 AM
+
+
 
 Here are 4 more simple collocations with "sentence" and an example sentence in different tenses with simplified vocabulary:
 

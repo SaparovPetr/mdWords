@@ -1,7 +1,7 @@
 # Condemn - порицать
 
-Created: February 21, 2023 1:16 PM
-Updated: July 26, 2023 11:20 PM
+
+
 
 - condemn the government
 - condemn the police

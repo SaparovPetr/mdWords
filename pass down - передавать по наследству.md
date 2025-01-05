@@ -1,7 +1,7 @@
 # Pass down - передавать по наследству
 
-Created: September 13, 2023 9:53 AM
-Updated: September 13, 2023 9:54 AM
+
+
 
 Here are 4 more popular collocations with the phrase "pass down":
 

@@ -1,7 +1,7 @@
 # Disrupt - разрушать
 
-Created: November 10, 2022 8:53 AM
-Updated: November 10, 2022 8:53 AM
+
+
 
 - disrupted house
 Collocations:

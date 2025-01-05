@@ -1,7 +1,7 @@
 # fall down - падать
 
-Created: November 7, 2023 2:04 PM
-Updated: December 10, 2023 1:19 PM
+
+
 
 Here are 4 more collocations with "fall down":
 

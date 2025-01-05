@@ -1,7 +1,7 @@
 # highland - возвышенность
 
-Created: November 4, 2023 3:58 PM
-Updated: November 4, 2023 3:59 PM
+
+
 
 Here are 4 common collocations with "highland":
 

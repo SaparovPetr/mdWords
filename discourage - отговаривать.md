@@ -1,7 +1,7 @@
 # discourage - отговаривать
 
-Created: September 11, 2023 1:54 PM
-Updated: September 11, 2023 1:54 PM
+
+
 
 Here are 4 more popular collocations with the word "discourage" meaning to persuade against something:
 

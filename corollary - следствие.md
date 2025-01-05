@@ -1,7 +1,7 @@
 # Corollary - следствие
 
-Created: August 15, 2023 5:17 PM
-Updated: August 15, 2023 5:17 PM
+
+
 
 1. Логическое следствие - Logical corollary
 

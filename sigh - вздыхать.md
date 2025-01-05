@@ -1,7 +1,7 @@
 # Sigh - вздыхать
 
-Created: December 19, 2023 6:39 AM
-Updated: December 21, 2023 12:54 PM
+
+
 
 Here are some collocations for "sigh" meaning "вздыхать" (to exhale loudly showing feelings like sadness, relief, etc.) and example sentences:
 Collocations1. Sigh with longing 2. Sigh with regret  3. Sigh heavily  4. Sigh in frustration

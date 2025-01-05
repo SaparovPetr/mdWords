@@ -1,7 +1,7 @@
 # Precious - драгоценный
 
-Created: July 21, 2022 2:46 PM
-Updated: September 14, 2022 7:24 PM
+
+
 
 - precious ring
 - precious time

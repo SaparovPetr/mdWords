@@ -1,7 +1,7 @@
 # Keep someone posted - держать в курсе
 
-Created: August 10, 2023 5:53 PM
-Updated: August 10, 2023 5:54 PM
+
+
 
 Самые распространенные словосочетания с "keep someone posted" и их перевод:
 

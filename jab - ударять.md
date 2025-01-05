@@ -1,7 +1,7 @@
 # Jab - ударять
 
-Created: July 23, 2022 3:37 PM
-Updated: July 23, 2022 3:37 PM
+
+
 
 He jabbed me in the face and broke my nose.
 

@@ -1,7 +1,7 @@
 # Deception - ложь
 
-Created: August 5, 2023 6:00 PM
-Updated: August 5, 2023 6:02 PM
+
+
 
 Самые распространенные словосочетания со словом "deception" (ложь) включают:
 

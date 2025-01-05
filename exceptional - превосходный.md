@@ -1,7 +1,7 @@
 # Exceptional - превосходный
 
-Created: July 11, 2023 12:59 PM
-Updated: July 11, 2023 1:02 PM
+
+
 
 1. exceptional talent - исключительный талант
 2. exceptional service - превосходное обслуживание

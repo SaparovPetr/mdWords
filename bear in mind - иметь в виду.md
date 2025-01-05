@@ -1,7 +1,7 @@
 # Bear in mind - иметь в виду
 
-Created: August 23, 2023 7:19 AM
-Updated: August 23, 2023 7:20 AM
+
+
 
 Вот 4 распространенных словосочетания с выражением bear in mind и их перевод:
 

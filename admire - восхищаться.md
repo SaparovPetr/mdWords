@@ -1,7 +1,7 @@
 # Admire - восхищаться
 
-Created: September 2, 2023 12:19 PM
-Updated: September 2, 2023 12:19 PM
+
+
 
 Here are 4 popular English collocations with the word "admire" meaning to admire or be impressed by someone or something:
 

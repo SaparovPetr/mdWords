@@ -1,7 +1,7 @@
 # Proper - настоящий
 
-Created: June 30, 2022 7:01 PM
-Updated: August 28, 2023 9:44 PM
+
+
 
 - proper job
 - Proper result

@@ -1,7 +1,7 @@
 # Farther - дальше
 
-Created: August 31, 2023 12:16 PM
-Updated: August 31, 2023 12:16 PM
+
+
 
 Here are 4 common collocations with the word "farther":
 

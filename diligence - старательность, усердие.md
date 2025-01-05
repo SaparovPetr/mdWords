@@ -1,7 +1,7 @@
 # Diligence - старательность, усердие
 
-Created: August 5, 2023 6:14 PM
-Updated: August 5, 2023 6:19 PM
+
+
 
 - diligence in work
 

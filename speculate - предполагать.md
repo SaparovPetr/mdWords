@@ -1,7 +1,7 @@
 # Speculate - предполагать
 
-Created: August 29, 2023 12:02 PM
-Updated: August 29, 2023 12:02 PM
+
+
 
 Вот 4 распространенных словосочетания со словом speculate и их переводы:
 

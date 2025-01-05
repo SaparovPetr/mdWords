@@ -1,7 +1,7 @@
 # Nap - короткий сон (дремота)
 
-Created: August 2, 2022 9:19 PM
-Updated: August 2, 2022 9:19 PM
+
+
 
 - Short nap
 - like a nap in the middle day

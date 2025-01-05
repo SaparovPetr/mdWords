@@ -1,7 +1,7 @@
 # run errands - бегать по делам
 
-Created: September 18, 2023 1:11 PM
-Updated: September 18, 2023 1:13 PM
+
+
 
 Here are 4 more popular collocations with "run errands":
 

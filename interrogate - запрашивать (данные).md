@@ -1,7 +1,7 @@
 # Interrogate - запрашивать (данные)
 
-Created: December 18, 2023 6:01 PM
-Updated: December 19, 2023 6:23 AM
+
+
 
 Okay, with the meaning "запрашивать (данные)" (to request/retrieve data), here are some collocations for "interrogate" and example sentences:
 Collocations:1. Interrogate a database2. Interrogate the system3. Interrogate the network4. Interrogate the model

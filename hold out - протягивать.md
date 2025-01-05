@@ -1,7 +1,7 @@
 # Hold out - протягивать
 
-Created: October 4, 2022 7:16 PM
-Updated: September 13, 2023 10:17 AM
+
+
 
 - hold out the tablet with blank
 - hold out a hand

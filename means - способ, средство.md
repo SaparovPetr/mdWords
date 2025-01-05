@@ -1,7 +1,7 @@
 # Means - способ, средство
 
-Created: June 19, 2023 5:06 PM
-Updated: June 20, 2023 5:59 PM
+
+
 
 - means of creating
 - means of remembering

@@ -1,7 +1,7 @@
 # Parcel - часть
 
-Created: January 18, 2023 12:39 PM
-Updated: July 14, 2023 5:15 PM
+
+
 
 - parcel of cake
 

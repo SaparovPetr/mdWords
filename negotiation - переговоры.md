@@ -1,7 +1,7 @@
 # Negotiation - переговоры
 
-Created: November 17, 2022 7:08 PM
-Updated: April 30, 2023 8:11 AM
+
+
 
 - To sum up negotiation
 - fruitful negotiation

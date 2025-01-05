@@ -1,7 +1,7 @@
 # Rash - опрометчивый
 
-Created: July 8, 2023 2:16 PM
-Updated: July 8, 2023 2:17 PM
+
+
 
 - Rash act
 

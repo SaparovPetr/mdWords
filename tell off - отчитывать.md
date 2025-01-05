@@ -1,7 +1,7 @@
 # Tell off - отчитывать
 
-Created: July 20, 2023 6:15 PM
-Updated: July 20, 2023 6:16 PM
+
+
 
 1. Tell someone off - отчитать кого-либо
 

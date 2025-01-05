@@ -1,7 +1,7 @@
 # Funnel - воронка
 
-Created: February 19, 2023 7:14 PM
-Updated: September 3, 2023 12:01 PM
+
+
 
 - coffee funnel
 

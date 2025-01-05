@@ -1,7 +1,7 @@
 # Blush - краснеть
 
-Created: July 15, 2022 12:31 AM
-Updated: August 3, 2023 12:09 PM
+
+
 
 I often blush when I perform on public.
 

@@ -1,7 +1,7 @@
 # Disciple - последователь (ученик)
 
-Created: April 29, 2023 2:11 PM
-Updated: July 18, 2023 12:45 PM
+
+
 
 - religion disciple
 

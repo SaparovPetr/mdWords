@@ -1,7 +1,7 @@
 # Splice - склеивать
 
-Created: November 24, 2023 1:08 PM
-Updated: November 24, 2023 1:08 PM
+
+
 
 Here are 4 more collocations with "splice" and examples in different tenses:
 

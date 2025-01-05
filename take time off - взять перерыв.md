@@ -1,7 +1,7 @@
 # Take time off - взять перерыв
 
-Created: August 10, 2023 11:40 PM
-Updated: August 10, 2023 11:40 PM
+
+
 
 Самые распространенные словосочетания с "take time off" (взять перерыв) и их перевод:
 

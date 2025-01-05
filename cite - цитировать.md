@@ -1,7 +1,7 @@
 # Cite - цитировать
 
-Created: September 3, 2023 9:38 PM
-Updated: September 3, 2023 9:40 PM
+
+
 
 Here are 4 more popular collocations with "cite" meaning "to quote":
 

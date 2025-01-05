@@ -1,7 +1,7 @@
 # Gibber - болтать
 
-Created: July 13, 2022 12:52 AM
-Updated: July 22, 2022 8:45 AM
+
+
 
 Stop gibber, please!
 

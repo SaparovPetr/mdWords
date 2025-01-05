@@ -1,7 +1,7 @@
 # Shard - осколок
 
-Created: August 25, 2022 8:48 PM
-Updated: August 26, 2023 12:35 PM
+
+
 
 - Shard of ice
 - shard of stone

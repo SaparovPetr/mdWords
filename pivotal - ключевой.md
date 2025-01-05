@@ -1,7 +1,7 @@
 # Pivotal - ключевой
 
-Created: December 23, 2023 3:32 PM
-Updated: December 23, 2023 3:33 PM
+
+
 
 Here are 4 collocations with "pivotal" and example sentences using different verb tenses:
 Collocations:

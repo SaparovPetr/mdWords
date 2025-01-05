@@ -1,7 +1,7 @@
 # Ripe - зрелый
 
-Created: November 30, 2022 6:50 PM
-Updated: September 12, 2023 1:18 PM
+
+
 
 - ripe cherry
 - Ripe fruit

@@ -1,7 +1,7 @@
 # Woo - ухаживать
 
-Created: August 1, 2022 7:02 PM
-Updated: August 3, 2023 12:02 PM
+
+
 
 He likes woo her.
 

@@ -1,7 +1,7 @@
 # muddy - грязный
 
-Created: September 11, 2023 12:04 PM
-Updated: September 11, 2023 12:09 PM
+
+
 
 Here are 4 more popular collocations with the word "muddy" meaning dirty:
 

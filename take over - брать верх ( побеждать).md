@@ -1,7 +1,7 @@
 # Take over - брать верх ( побеждать)
 
-Created: August 19, 2022 6:52 PM
-Updated: August 24, 2023 8:10 PM
+
+
 
 - take over competitors
 - Take over the enemy

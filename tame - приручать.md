@@ -1,7 +1,7 @@
 # Tame - приручать
 
-Created: November 22, 2022 8:40 AM
-Updated: August 26, 2023 11:20 AM
+
+
 
 - Tame the tiger
 - Tame the pet

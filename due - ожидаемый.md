@@ -1,7 +1,7 @@
 # Due - ожидаемый
 
-Created: March 14, 2023 2:54 PM
-Updated: March 14, 2023 2:54 PM
+
+
 
 - due train
 Here are 7 simple and popular collocations with "due" and example sentences in different tenses:

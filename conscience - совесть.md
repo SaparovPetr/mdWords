@@ -1,7 +1,7 @@
 # Conscience - совесть
 
-Created: November 3, 2022 9:21 AM
-Updated: September 5, 2023 8:46 PM
+
+
 
 You just don't have a conscience.
 

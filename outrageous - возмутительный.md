@@ -1,7 +1,7 @@
 # Outrageous - возмутительный
 
-Created: November 3, 2022 9:09 AM
-Updated: November 3, 2022 9:09 AM
+
+
 
 - outrageous phrase
 - Outrageous result

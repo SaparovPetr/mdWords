@@ -1,7 +1,7 @@
 # Demise - конец
 
-Created: October 20, 2023 1:39 PM
-Updated: October 20, 2023 1:40 PM
+
+
 
 Here are 4 more common collocations with "demise" without translation:
 

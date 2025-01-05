@@ -1,7 +1,7 @@
 # Inhibit - сдерживать
 
-Created: February 21, 2023 1:01 PM
-Updated: July 6, 2023 10:47 PM
+
+
 
 - inhibit emotions
 - inhibit the rush

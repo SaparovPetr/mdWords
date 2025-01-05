@@ -1,7 +1,7 @@
 # Shortly - скоро
 
-Created: September 27, 2022 12:25 PM
-Updated: July 8, 2023 12:41 PM
+
+
 
 She had read the book and was asleep shortly.
 

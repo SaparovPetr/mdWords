@@ -1,7 +1,7 @@
 # Pile-up - столкновение
 
-Created: August 25, 2022 8:40 PM
-Updated: September 13, 2023 10:00 AM
+
+
 
 - pile-up of cars
 - pile-up on the road

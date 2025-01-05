@@ -1,7 +1,7 @@
 # Comprehensive - всесторонний
 
-Created: June 20, 2022 8:48 AM
-Updated: June 20, 2022 8:48 AM
+
+
 
 - Comprehensive outlook
 - Comprehensive report

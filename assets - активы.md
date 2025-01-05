@@ -1,7 +1,7 @@
 # Assets - активы
 
-Created: September 1, 2023 10:49 AM
-Updated: September 1, 2023 10:49 AM
+
+
 
 Here are 4 popular collocations with the word "assets" and example sentences using different tenses:
 

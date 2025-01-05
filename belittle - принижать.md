@@ -1,7 +1,7 @@
 # Belittle - принижать
 
-Created: March 26, 2023 10:41 AM
-Updated: August 27, 2023 1:49 PM
+
+
 
 - belittle capabilities
 - belittle opinion

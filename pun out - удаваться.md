@@ -1,7 +1,7 @@
 # Pun out - удаваться
 
-Created: December 12, 2023 3:38 PM
-Updated: December 12, 2023 3:40 PM
+
+
 
 I'm afraid there is no common English idiom "pun out" that means "to succeed" or "to turn out well". Perhaps there was a mix-up with a similar phrase. However, here is my best attempt:
 Collocations:

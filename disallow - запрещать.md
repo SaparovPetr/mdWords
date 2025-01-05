@@ -1,7 +1,7 @@
 # Disallow - запрещать
 
-Created: October 20, 2023 1:45 PM
-Updated: October 20, 2023 8:56 PM
+
+
 
 Here are 4 more common collocations with "disallow" without translation:
 

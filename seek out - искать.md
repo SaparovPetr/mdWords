@@ -1,7 +1,7 @@
 # seek out - искать
 
-Created: November 7, 2023 2:30 PM
-Updated: December 9, 2023 11:07 AM
+
+
 
 Here are 4 more collocations with "seek out":
 

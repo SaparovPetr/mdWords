@@ -1,7 +1,7 @@
 # Impairment - инвалидность
 
-Created: October 20, 2023 12:41 PM
-Updated: October 20, 2023 12:43 PM
+
+
 
 Here are 4 more common collocations with "impairment" without translation:
 

@@ -1,7 +1,7 @@
 # Skid - скользить
 
-Created: September 5, 2022 8:34 AM
-Updated: September 5, 2023 8:51 PM
+
+
 
 - skid on ice
 - Skid on the floor

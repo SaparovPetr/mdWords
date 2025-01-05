@@ -1,7 +1,7 @@
 # Eagerness - рвение, стремление
 
-Created: December 26, 2022 10:28 AM
-Updated: September 5, 2023 9:40 PM
+
+
 
 I like her eagerness to learning.
 

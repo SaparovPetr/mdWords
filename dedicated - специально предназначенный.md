@@ -1,7 +1,7 @@
 # Dedicated - специально предназначенный
 
-Created: August 15, 2022 8:31 AM
-Updated: October 3, 2022 8:40 AM
+
+
 
 - dedicated tool
 - dedicated chanel

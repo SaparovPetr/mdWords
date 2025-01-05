@@ -1,7 +1,7 @@
 # Enclose - вложить
 
-Created: March 2, 2023 4:13 AM
-Updated: July 12, 2023 6:08 PM
+
+
 
 Enclose the pepper into the box.
 

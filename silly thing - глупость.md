@@ -1,7 +1,7 @@
 # Silly thing - глупость
 
-Created: August 15, 2022 8:35 AM
-Updated: August 15, 2022 8:37 AM
+
+
 
 Don't tell me that silly things.
 

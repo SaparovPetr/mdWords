@@ -1,7 +1,7 @@
 # Compose - составлять
 
-Created: January 30, 2023 12:12 PM
-Updated: September 23, 2023 11:24 AM
+
+
 
 - composed from members
 - Composed from warriors

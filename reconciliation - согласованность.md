@@ -1,7 +1,7 @@
 # Reconciliation - согласованность
 
-Created: August 5, 2022 6:22 PM
-Updated: August 25, 2023 8:37 AM
+
+
 
 - reconciliation in decisions
 - Reconciliation in movements

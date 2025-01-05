@@ -1,7 +1,7 @@
 # Permit - позволять
 
-Created: November 18, 2022 8:56 AM
-Updated: September 5, 2023 8:47 PM
+
+
 
 - permit signal
 - Permit the movement

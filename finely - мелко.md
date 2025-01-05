@@ -1,7 +1,7 @@
 # Finely - мелко
 
-Created: December 22, 2022 5:29 PM
-Updated: August 8, 2023 3:30 PM
+
+
 
 - cut finely
 - mince finely

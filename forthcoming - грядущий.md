@@ -1,7 +1,7 @@
 # forthcoming - грядущий
 
-Created: December 22, 2023 1:47 PM
-Updated: December 22, 2023 1:48 PM
+
+
 
 Here are 4 more collocations with "forthcoming" and example sentences in various tenses:
 

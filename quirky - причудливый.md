@@ -1,7 +1,7 @@
 # quirky - причудливый
 
-Created: October 27, 2023 11:51 AM
-Updated: October 27, 2023 11:53 AM
+
+
 
 - quirky haircut
 

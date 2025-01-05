@@ -1,7 +1,7 @@
 # Fascinated - очарованный
 
-Created: November 17, 2022 8:55 AM
-Updated: May 23, 2023 9:58 AM
+
+
 
 - fascinated by her beautiful
 - fascinated by woman

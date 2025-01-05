@@ -1,7 +1,7 @@
 # Provision - обеспечение
 
-Created: August 29, 2023 12:08 PM
-Updated: August 29, 2023 12:09 PM
+
+
 
 Вот 4 распространенных словосочетания со словом provision и их переводы:
 

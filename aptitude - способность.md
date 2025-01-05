@@ -1,7 +1,7 @@
 # Aptitude - способность
 
-Created: July 11, 2023 12:26 PM
-Updated: September 13, 2023 5:13 PM
+
+
 
 Словосочетания с выражением "aptitude" (способность):
 

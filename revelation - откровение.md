@@ -1,7 +1,7 @@
 # Revelation - откровение
 
-Created: July 20, 2023 6:18 PM
-Updated: August 4, 2023 8:19 PM
+
+
 
 It's a revelation for me.
 

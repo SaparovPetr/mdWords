@@ -1,7 +1,7 @@
 # sweep - нестись
 
-Created: November 7, 2023 2:22 PM
-Updated: November 7, 2023 2:23 PM
+
+
 
 Here are 4 more collocations with "sweep" meaning "to rush":
 

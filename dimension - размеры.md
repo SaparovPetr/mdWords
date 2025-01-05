@@ -1,7 +1,7 @@
 # Dimension - размеры
 
-Created: November 22, 2022 8:49 AM
-Updated: July 25, 2023 4:22 PM
+
+
 
 - measure a dimensions
 - Room dimensions

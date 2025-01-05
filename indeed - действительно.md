@@ -1,7 +1,7 @@
 # Indeed - действительно
 
-Created: September 3, 2023 11:45 AM
-Updated: September 3, 2023 11:46 AM
+
+
 
 Here are 4 popular colloquial expressions using the word "indeed" to mean "truly" or "really":
 

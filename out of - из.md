@@ -1,7 +1,7 @@
 # Out of - из
 
-Created: August 13, 2022 6:07 PM
-Updated: August 30, 2022 8:13 PM
+
+
 
 - out of wood
 - Out of metal

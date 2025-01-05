@@ -1,7 +1,7 @@
 # Involve - включать в себя
 
-Created: July 22, 2023 11:48 AM
-Updated: July 22, 2023 11:50 AM
+
+
 
 This decision involves many changes.
 

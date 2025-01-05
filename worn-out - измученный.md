@@ -1,7 +1,7 @@
 # Worn-out - измученный
 
-Created: June 17, 2022 11:11 AM
-Updated: June 21, 2022 9:06 AM
+
+
 
 - Worn-out by sun
 

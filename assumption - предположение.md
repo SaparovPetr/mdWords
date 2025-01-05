@@ -1,7 +1,7 @@
 # Assumption - предположение
 
-Created: July 14, 2022 4:45 PM
-Updated: August 28, 2023 12:00 PM
+
+
 
 - make an assumption
 - brave assumption

@@ -1,7 +1,7 @@
 # Fair - порядочный
 
-Created: July 6, 2022 7:27 PM
-Updated: July 6, 2022 7:29 PM
+
+
 
 - fair amount of time
 - Fair amount of money

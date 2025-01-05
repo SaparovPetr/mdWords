@@ -1,7 +1,7 @@
 # at once - сразу
 
-Created: November 24, 2023 10:05 AM
-Updated: November 24, 2023 10:05 AM
+
+
 
 Here are 4 more collocations with "at once" and example sentences in different tenses:
 

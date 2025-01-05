@@ -1,7 +1,7 @@
 # take action - начать действовать
 
-Created: December 21, 2023 1:33 PM
-Updated: December 21, 2023 1:33 PM
+
+
 
 Here are 4 more collocations with "take action" meaning "to start doing something":
 

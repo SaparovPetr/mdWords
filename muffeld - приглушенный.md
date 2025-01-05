@@ -1,7 +1,7 @@
 # Muffeld - приглушенный
 
-Created: August 9, 2022 8:49 AM
-Updated: August 19, 2023 9:44 PM
+
+
 
 - muffeld tune
 - Muffeld light

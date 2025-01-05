@@ -1,7 +1,7 @@
 # Misty - туманный
 
-Created: November 4, 2022 2:56 PM
-Updated: November 6, 2022 3:20 PM
+
+
 
 Here are 7 simple and popular collocations with "misty" and example sentences in different tenses:
 

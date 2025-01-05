@@ -1,7 +1,7 @@
 # Stammer - запинаться, бормотать, заикаться
 
-Created: August 23, 2022 7:32 PM
-Updated: December 9, 2023 10:00 PM
+
+
 
 - slowly stammer
 - to have tendency to stummer

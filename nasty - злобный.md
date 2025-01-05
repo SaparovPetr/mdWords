@@ -1,7 +1,7 @@
 # Nasty - злобный
 
-Created: December 9, 2023 10:58 AM
-Updated: December 9, 2023 11:03 AM
+
+
 
 ## Collocations with "Nasty" (злобный):
 

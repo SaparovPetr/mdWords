@@ -1,7 +1,7 @@
 # Genuine - подлинный
 
-Created: November 17, 2022 8:43 AM
-Updated: April 14, 2023 2:48 PM
+
+
 
 - genuine bill
 - Genuine banknote

@@ -1,7 +1,7 @@
 # Stamp out - уничтожать
 
-Created: April 14, 2023 2:34 PM
-Updated: July 27, 2023 3:37 PM
+
+
 
 - stamp out the fire
 - stamp out the poverty

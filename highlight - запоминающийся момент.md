@@ -1,7 +1,7 @@
 # Highlight - запоминающийся момент
 
-Created: November 11, 2022 6:25 PM
-Updated: August 13, 2023 12:57 PM
+
+
 
 - highlight of the performance
 - Highlight of speech

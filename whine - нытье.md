@@ -1,7 +1,7 @@
 # Whine - нытье
 
-Created: July 17, 2022 4:33 PM
-Updated: September 6, 2022 6:51 PM
+
+
 
 - Child's whine
 - Shrill whine

@@ -1,7 +1,7 @@
 # Even - ровный
 
-Created: June 28, 2022 8:46 AM
-Updated: July 22, 2023 11:57 AM
+
+
 
 - even floor
 - Even surface

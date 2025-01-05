@@ -1,7 +1,7 @@
 # Bail out - выручать из беды
 
-Created: July 22, 2022 9:38 AM
-Updated: July 22, 2022 9:38 AM
+
+
 
 I appreciate you. You bailed out me.
 

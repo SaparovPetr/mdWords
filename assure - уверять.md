@@ -1,7 +1,7 @@
 # Assure - уверять
 
-Created: December 5, 2022 8:25 PM
-Updated: September 11, 2023 12:13 PM
+
+
 
 He assured me in his innocent.
 

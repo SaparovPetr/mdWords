@@ -1,7 +1,7 @@
 # Grant - разрешать
 
-Created: November 3, 2022 8:51 AM
-Updated: August 9, 2023 11:56 AM
+
+
 
 - grant to act
 - grant to built

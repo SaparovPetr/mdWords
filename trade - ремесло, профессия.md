@@ -1,7 +1,7 @@
 # Trade - ремесло, профессия
 
-Created: October 26, 2022 9:41 AM
-Updated: January 27, 2023 8:09 PM
+
+
 
 - tradeschool
 

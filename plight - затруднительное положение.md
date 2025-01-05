@@ -1,7 +1,7 @@
 # Plight - затруднительное положение
 
-Created: August 21, 2023 1:55 PM
-Updated: August 21, 2023 1:57 PM
+
+
 
 I am in the plight.
 

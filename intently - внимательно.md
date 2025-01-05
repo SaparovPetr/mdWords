@@ -1,7 +1,7 @@
 # Intently - внимательно
 
-Created: August 10, 2022 7:31 PM
-Updated: August 23, 2022 12:44 PM
+
+
 
 - Hear intently
 - Follow intently

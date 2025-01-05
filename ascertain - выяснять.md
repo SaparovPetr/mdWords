@@ -1,7 +1,7 @@
 # ascertain - выяснять
 
-Created: October 11, 2022 8:37 AM
-Updated: April 20, 2023 10:45 AM
+
+
 
 - ascertain a route
 - ascertain a source of problem

@@ -1,7 +1,7 @@
 # Cover - преодолевать
 
-Created: March 16, 2023 6:09 AM
-Updated: December 12, 2023 3:30 PM
+
+
 
 - Cover the distance
 

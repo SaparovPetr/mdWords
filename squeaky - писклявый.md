@@ -1,7 +1,7 @@
 # Squeaky - писклявый
 
-Created: July 29, 2022 6:22 PM
-Updated: August 18, 2022 6:58 PM
+
+
 
 - squeaky voice
 - Squeaky mouse

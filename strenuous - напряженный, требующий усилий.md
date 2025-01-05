@@ -1,7 +1,7 @@
 # strenuous - напряженный, требующий усилий
 
-Created: November 7, 2023 2:01 PM
-Updated: November 7, 2023 2:02 PM
+
+
 
 Here are 4 more collocations with "strenuous":
 

@@ -1,7 +1,7 @@
 # Densely - густо
 
-Created: December 22, 2022 7:22 PM
-Updated: July 14, 2023 3:40 PM
+
+
 
 - densely growing
 

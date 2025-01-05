@@ -1,7 +1,7 @@
 # Devour - пожирать
 
-Created: May 22, 2023 3:04 PM
-Updated: May 22, 2023 3:06 PM
+
+
 
 - devour donats
 - Devour sweetness

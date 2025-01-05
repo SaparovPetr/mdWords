@@ -1,7 +1,7 @@
 # Exhaustion - изнеможение
 
-Created: January 26, 2023 8:59 PM
-Updated: January 27, 2023 6:32 PM
+
+
 
 - total exhaustion
 

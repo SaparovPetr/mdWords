@@ -1,7 +1,7 @@
 # share - участвовать
 
-Created: September 5, 2023 9:22 PM
-Updated: September 5, 2023 9:25 PM
+
+
 
 Here are 4 more popular collocations with the phrase "share" meaning "to participate" and an example sentence in each tense:
 

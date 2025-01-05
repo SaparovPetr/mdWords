@@ -1,7 +1,7 @@
 # Respectively - соответственно
 
-Created: July 19, 2023 5:55 PM
-Updated: October 14, 2023 10:15 PM
+
+
 
 
 

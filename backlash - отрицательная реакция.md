@@ -1,7 +1,7 @@
 # backlash -  отрицательная реакция
 
-Created: September 18, 2023 12:50 PM
-Updated: September 18, 2023 12:51 PM
+
+
 
 Here are 4 more popular collocations with the phrase "backlash":
 

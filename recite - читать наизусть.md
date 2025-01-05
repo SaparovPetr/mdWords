@@ -1,7 +1,7 @@
 # recite - читать наизусть
 
-Created: September 3, 2023 9:42 PM
-Updated: September 3, 2023 9:44 PM
+
+
 
 Here are 4 more popular collocations with "recite" meaning "to say or read aloud from memory":
 

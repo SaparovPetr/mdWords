@@ -1,7 +1,7 @@
 
 
-Created: October 20, 2023 9:17 PM
-Updated: October 20, 2023 9:18 PM
+
+
 
 Here are 4 more common collocations with "thoughtful" without translation:
 

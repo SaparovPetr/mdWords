@@ -1,7 +1,7 @@
 # foresee - предвидеть
 
-Created: September 11, 2023 12:30 PM
-Updated: September 11, 2023 12:31 PM
+
+
 
 Admittedly, I did not foresee how popular the product would become.
 

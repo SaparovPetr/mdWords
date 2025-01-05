@@ -1,7 +1,7 @@
 # Setting - расположение
 
-Created: February 16, 2023 11:00 AM
-Updated: April 29, 2023 5:47 PM
+
+
 
 I need to know about the setting place of the concert.
 

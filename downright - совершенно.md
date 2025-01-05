@@ -1,7 +1,7 @@
 # Downright - совершенно
 
-Created: August 11, 2022 8:49 AM
-Updated: July 20, 2023 6:26 PM
+
+
 
 - downright right
 - Downright useless

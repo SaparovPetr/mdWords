@@ -1,7 +1,7 @@
 # Steadily - неуклонно, устойчиво
 
-Created: November 15, 2022 7:39 PM
-Updated: August 5, 2023 6:41 PM
+
+
 
 - steadily increasing
 - Steadily rising

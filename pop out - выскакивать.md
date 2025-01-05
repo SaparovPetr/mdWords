@@ -1,7 +1,7 @@
 # Pop out - выскакивать
 
-Created: December 9, 2023 11:15 AM
-Updated: December 9, 2023 11:21 AM
+
+
 
 ## Simple and Popular Collocations with "Pop out" (выскакивать)
 

@@ -1,7 +1,7 @@
 # Charge - стремительно атаковать
 
-Created: October 29, 2022 4:02 PM
-Updated: August 11, 2023 1:19 PM
+
+
 
 - charged by enemy
 

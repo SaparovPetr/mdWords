@@ -1,7 +1,7 @@
 # Stand by - поддерживать
 
-Created: December 23, 2023 3:35 PM
-Updated: December 23, 2023 3:37 PM
+
+
 
 Here are 4 collocations with "stand by" and example sentences in different tenses:
 Collocations:

@@ -1,7 +1,7 @@
 # Jerk - придурок
 
-Created: June 13, 2022 1:15 PM
-Updated: June 14, 2022 9:24 PM
+
+
 
 - Absolutely jerkHe is a just jerk.Don't be a jerk!
 Here are 7 collocations with "jerk" meaning "pridurok" (idiot, fool) in Russian:

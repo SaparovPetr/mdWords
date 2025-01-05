@@ -1,7 +1,7 @@
 # Decipher - расшифровать
 
-Created: November 19, 2022 7:40 PM
-Updated: August 11, 2023 12:07 AM
+
+
 
 - decipher a code
 - Decipher a meaning

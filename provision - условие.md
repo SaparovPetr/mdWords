@@ -1,7 +1,7 @@
 # Provision - условие
 
-Created: June 15, 2022 11:16 AM
-Updated: September 20, 2023 4:12 PM
+
+
 
 - accept plan with a provision
 

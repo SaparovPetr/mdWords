@@ -1,7 +1,7 @@
 # hands-on - вовлеченный
 
-Created: November 4, 2023 2:51 PM
-Updated: November 4, 2023 2:51 PM
+
+
 
 Here are 4 more simple and popular collocations with the phrase "hands-on":
 

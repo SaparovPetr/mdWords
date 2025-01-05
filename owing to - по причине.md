@@ -1,7 +1,7 @@
 # Owing to - по причине
 
-Created: July 9, 2023 3:02 PM
-Updated: December 19, 2023 6:49 AM
+
+
 
 - owing to the bad weather
 

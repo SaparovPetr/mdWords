@@ -1,7 +1,7 @@
 # Pitfall - подвох, ловушка, преграда, ошибка
 
-Created: July 20, 2023 6:08 PM
-Updated: July 20, 2023 6:09 PM
+
+
 
 1. Potential pitfalls - потенциальные подводные камни
 

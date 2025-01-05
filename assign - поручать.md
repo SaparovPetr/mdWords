@@ -1,7 +1,7 @@
 # Assign - поручать
 
-Created: August 24, 2022 10:02 AM
-Updated: August 19, 2023 8:39 PM
+
+
 
 - assign to an inspection
 - Assign to workers

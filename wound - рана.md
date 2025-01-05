@@ -1,7 +1,7 @@
 # Wound - рана
 
-Created: November 29, 2022 8:57 PM
-Updated: September 5, 2023 8:42 PM
+
+
 
 - bloody wound
 

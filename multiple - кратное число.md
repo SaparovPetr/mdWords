@@ -1,7 +1,7 @@
 # Multiple - кратное число
 
-Created: December 9, 2023 9:48 PM
-Updated: December 9, 2023 9:49 PM
+
+
 
 - Multiple choice - a type of test or question where the respondent has to choose the correct answer from several options.
 - Multiple sclerosis - a chronic autoimmune disease that affects the central nervous system.

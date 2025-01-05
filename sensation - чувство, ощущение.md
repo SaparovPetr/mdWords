@@ -1,7 +1,7 @@
 # Sensation - чувство, ощущение
 
-Created: February 20, 2023 3:03 PM
-Updated: August 31, 2023 12:35 PM
+
+
 
 - sensation of dangerous
 

@@ -1,7 +1,7 @@
 # Postpone - откладывать
 
-Created: August 10, 2022 7:36 PM
-Updated: September 13, 2023 10:06 AM
+
+
 
 - postpone matters
 - Postpone issue

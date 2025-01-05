@@ -1,7 +1,7 @@
 # @ Be in awe of - восхищаться
 
-Created: July 11, 2023 11:50 AM
-Updated: December 9, 2023 9:05 AM
+
+
 
 - be in awe of gorgeousness
 

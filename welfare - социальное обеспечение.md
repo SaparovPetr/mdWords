@@ -1,7 +1,7 @@
 # Welfare - социальное обеспечение
 
-Created: May 1, 2023 4:06 PM
-Updated: May 1, 2023 4:07 PM
+
+
 
 1. Welfare state - государство благосостояния
 

@@ -1,7 +1,7 @@
 # Charitable - благотворительный
 
-Created: December 9, 2023 10:54 AM
-Updated: December 9, 2023 10:56 AM
+
+
 
 The phrase "charitable" in the meaning: благотворительный.
 

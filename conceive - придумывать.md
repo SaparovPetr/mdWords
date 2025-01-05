@@ -1,7 +1,7 @@
 # Conceive - придумывать
 
-Created: July 24, 2023 3:31 PM
-Updated: November 12, 2023 8:30 AM
+
+
 
 - conceive the solution
 

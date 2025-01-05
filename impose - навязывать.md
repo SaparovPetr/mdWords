@@ -1,7 +1,7 @@
 # Impose - навязывать
 
-Created: June 15, 2022 8:37 AM
-Updated: April 29, 2023 3:41 PM
+
+
 
 - Impose an opinion
 - Impose a point of view

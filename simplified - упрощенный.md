@@ -1,7 +1,7 @@
 # Simplified - упрощенный
 
-Created: August 14, 2023 11:11 PM
-Updated: August 14, 2023 11:11 PM
+
+
 
 Самые распространенные словосочетания с выражением "simplified" и их перевод:
 

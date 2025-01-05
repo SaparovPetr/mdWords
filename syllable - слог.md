@@ -1,7 +1,7 @@
 # Syllable - слог
 
-Created: September 13, 2022 6:56 PM
-Updated: August 27, 2023 7:39 PM
+
+
 
 - Unstressed syllable
 - Short syllable

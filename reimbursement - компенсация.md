@@ -1,7 +1,7 @@
 # reimbursement  - компенсация
 
-Created: September 26, 2023 12:28 PM
-Updated: October 12, 2023 9:27 PM
+
+
 
 Here are 4 more popular collocations with "reimbursement":
 

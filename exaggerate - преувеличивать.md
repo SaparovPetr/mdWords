@@ -1,7 +1,7 @@
 # Exaggerate - преувеличивать
 
-Created: October 25, 2022 8:55 AM
-Updated: October 26, 2022 9:45 AM
+
+
 
 - Don't exaggerate!
 - You exaggerate the problem.

@@ -1,7 +1,7 @@
 # Towards - по направлению к
 
-Created: July 9, 2023 4:05 PM
-Updated: July 9, 2023 4:07 PM
+
+
 
 - towards the door
 - towards the exit

@@ -1,7 +1,7 @@
 # Dip - падать
 
-Created: December 22, 2022 7:12 PM
-Updated: September 16, 2023 5:15 PM
+
+
 
 - prices dipped
 

@@ -1,7 +1,7 @@
 # Lay (laid-laid) down - устанавливать
 
-Created: August 4, 2022 7:47 PM
-Updated: August 28, 2023 10:04 PM
+
+
 
 - lay down a time on the wristwatch
 - lay down a low

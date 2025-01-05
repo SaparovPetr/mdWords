@@ -1,7 +1,7 @@
 # Emerge - появляться
 
-Created: September 13, 2022 6:53 PM
-Updated: July 29, 2023 6:18 PM
+
+
 
 Crawny cat emerged on the fence.
 

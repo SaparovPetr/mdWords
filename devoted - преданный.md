@@ -1,7 +1,7 @@
 # Devoted - преданный
 
-Created: January 9, 2023 6:36 PM
-Updated: August 11, 2023 6:11 PM
+
+
 
 - devoted friend
 - devoted dog

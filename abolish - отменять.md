@@ -1,7 +1,7 @@
 # Abolish - отменять
 
-Created: November 15, 2022 5:12 PM
-Updated: July 18, 2023 1:31 PM
+
+
 
 - abolish the flight
 - abolish a concert

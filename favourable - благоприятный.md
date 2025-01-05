@@ -1,7 +1,7 @@
 # Favourable - благоприятный
 
-Created: December 6, 2022 8:34 AM
-Updated: April 30, 2023 4:34 PM
+
+
 
 - favourable environment
 

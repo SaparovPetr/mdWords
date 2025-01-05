@@ -1,7 +1,7 @@
 # Inefficiently - неэффективно
 
-Created: July 14, 2023 3:46 PM
-Updated: July 14, 2023 3:46 PM
+
+
 
 1. Inefficiently designed - Неэффективно спроектированный
 

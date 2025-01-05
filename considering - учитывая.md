@@ -1,7 +1,7 @@
 # Considering - учитывая
 
-Created: January 13, 2023 8:34 AM
-Updated: August 10, 2023 11:30 PM
+
+
 
 - considering circumstances
 - considering facts

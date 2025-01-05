@@ -1,7 +1,7 @@
 # Strainer - сито
 
-Created: September 4, 2023 6:52 PM
-Updated: September 4, 2023 6:52 PM
+
+
 
 Here are 4 popular collocations with "strainer" meaning sieve:
 

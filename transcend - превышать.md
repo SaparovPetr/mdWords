@@ -1,7 +1,7 @@
 # Transcend - превышать
 
-Created: February 7, 2023 3:17 PM
-Updated: February 11, 2023 12:18 AM
+
+
 
 - transcend the possibilities
 - Transcend the limit

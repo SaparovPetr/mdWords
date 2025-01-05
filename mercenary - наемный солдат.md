@@ -1,7 +1,7 @@
 # Mercenary - наемный солдат
 
-Created: October 20, 2023 9:10 PM
-Updated: October 20, 2023 9:11 PM
+
+
 
 Here are 4 more common collocations with "mercenary" without translation:
 

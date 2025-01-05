@@ -1,7 +1,7 @@
 # Vertigo - головокружение
 
-Created: February 3, 2023 2:30 PM
-Updated: February 3, 2023 2:30 PM
+
+
 
 - Vertigo because of hight
 

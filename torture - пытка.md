@@ -1,7 +1,7 @@
 # Torture - пытка
 
-Created: July 5, 2023 4:54 PM
-Updated: July 6, 2023 10:03 PM
+
+
 
 - sadistic torture
 

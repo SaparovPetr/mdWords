@@ -1,7 +1,7 @@
 # Relay - эстафета
 
-Created: February 20, 2023 10:15 PM
-Updated: July 31, 2023 10:58 PM
+
+
 
 - the relay is a kind of competition
 

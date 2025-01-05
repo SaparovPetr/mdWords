@@ -1,7 +1,7 @@
 # Ingenious - находчивый
 
-Created: January 2, 2023 1:09 PM
-Updated: August 9, 2023 10:51 AM
+
+
 
 - Ingenious guy
 - Ingenious entrepreneur

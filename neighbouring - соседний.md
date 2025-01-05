@@ -1,7 +1,7 @@
 # neighbouring - соседний
 
-Created: August 23, 2023 5:49 PM
-Updated: August 23, 2023 5:52 PM
+
+
 
 - neighbouring house
 

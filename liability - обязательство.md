@@ -1,7 +1,7 @@
 # liability - обязательство
 
-Created: October 27, 2023 11:58 AM
-Updated: October 27, 2023 11:59 AM
+
+
 
 Here are 4 more simple collocations with "liability" and an example sentence in different tenses with simplified vocabulary:
 

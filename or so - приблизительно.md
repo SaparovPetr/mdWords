@@ -1,7 +1,7 @@
 # or so - приблизительно
 
-Created: November 7, 2023 2:09 PM
-Updated: November 7, 2023 2:09 PM
+
+
 
 Here are 4 more collocations with "or so":
 

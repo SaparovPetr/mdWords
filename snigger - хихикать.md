@@ -1,7 +1,7 @@
 # Snigger - хихикать
 
-Created: October 11, 2022 8:39 AM
-Updated: September 13, 2023 10:13 AM
+
+
 
 - don't snigger at me
 

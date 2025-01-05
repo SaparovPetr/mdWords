@@ -1,7 +1,7 @@
 # Peculiar - странный
 
-Created: February 11, 2023 11:22 PM
-Updated: July 8, 2023 2:28 PM
+
+
 
 - Peculiar haircut
 - peculiar idea

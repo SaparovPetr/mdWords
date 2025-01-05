@@ -1,7 +1,7 @@
 # In charge of - быть ответственным за
 
-Created: October 20, 2023 9:06 PM
-Updated: October 20, 2023 9:07 PM
+
+
 
 Here are 4 more common collocations with "in charge of" without translation:
 

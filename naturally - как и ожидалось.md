@@ -1,7 +1,7 @@
 # Naturally - как и ожидалось
 
-Created: April 29, 2023 1:46 PM
-Updated: August 5, 2023 6:06 PM
+
+
 
 Naturally, he was late.
 

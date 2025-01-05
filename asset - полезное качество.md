@@ -1,7 +1,7 @@
 # Asset - полезное качество
 
-Created: September 19, 2023 11:38 AM
-Updated: September 19, 2023 11:46 AM
+
+
 
 Here are 4 more popular collocations with the phrase "asset":
 

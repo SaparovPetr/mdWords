@@ -1,7 +1,7 @@
 # Deprive - лишать
 
-Created: November 26, 2022 9:47 AM
-Updated: July 20, 2023 6:00 PM
+
+
 
 - deprive of freedom
 - deprive of entitlements

@@ -1,7 +1,7 @@
 # Inspirational - воодушевляющий
 
-Created: January 19, 2023 6:49 PM
-Updated: May 17, 2023 10:08 AM
+
+
 
 - inspirational speech
 - Inspirational example

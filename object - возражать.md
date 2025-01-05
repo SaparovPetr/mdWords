@@ -1,7 +1,7 @@
 # Object - возражать
 
-Created: April 29, 2023 1:32 PM
-Updated: April 29, 2023 1:32 PM
+
+
 
 - object against reform
 Here are 7 collocations with "object" meaning "возражать" and example sentences in different tenses:

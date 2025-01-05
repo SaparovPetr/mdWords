@@ -1,7 +1,7 @@
 # Desperation - отчаяние
 
-Created: June 17, 2022 8:43 AM
-Updated: October 3, 2022 8:24 AM
+
+
 
 - Sense of desperation
 - Feel desperation

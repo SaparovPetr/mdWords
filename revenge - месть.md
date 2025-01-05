@@ -1,7 +1,7 @@
 # Revenge - месть
 
-Created: October 31, 2022 8:37 AM
-Updated: August 9, 2023 11:51 AM
+
+
 
 We must take revenge!
 

@@ -1,7 +1,7 @@
 # Stern - строгий
 
-Created: July 12, 2022 3:42 PM
-Updated: May 1, 2023 3:56 PM
+
+
 
 - stern deadline
 - stern rule

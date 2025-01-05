@@ -1,7 +1,7 @@
 # Stroke - поглаживать
 
-Created: July 23, 2022 4:23 PM
-Updated: August 13, 2022 1:12 PM
+
+
 
 I like stroke cats.
 

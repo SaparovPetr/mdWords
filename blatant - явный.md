@@ -1,7 +1,7 @@
 # Blatant - явный
 
-Created: September 1, 2023 11:05 AM
-Updated: September 1, 2023 11:07 AM
+
+
 
 Here are 4 popular collocations with "blatant" and example sentences in different tenses:
 

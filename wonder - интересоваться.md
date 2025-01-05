@@ -1,7 +1,7 @@
 # Wonder - интересоваться
 
-Created: August 19, 2022 9:29 AM
-Updated: August 3, 2023 12:06 PM
+
+
 
 Which example is your wondered?
 

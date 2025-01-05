@@ -1,7 +1,7 @@
 # Hoist - поднимать
 
-Created: October 24, 2022 8:38 AM
-Updated: September 15, 2023 9:36 PM
+
+
 
 - hoist baby over head
 - Hoist the flag

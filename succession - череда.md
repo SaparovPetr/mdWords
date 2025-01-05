@@ -1,7 +1,7 @@
 # Succession - череда
 
-Created: February 10, 2023 5:04 PM
-Updated: August 27, 2023 1:25 PM
+
+
 
 - succession of occasions
 

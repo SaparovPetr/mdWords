@@ -1,7 +1,7 @@
 # Chuckle - посмеиваться, хихикать
 
-Created: August 3, 2022 8:26 AM
-Updated: August 3, 2022 8:28 AM
+
+
 
 - Irritably chuckle
 - Chuckle about outfit

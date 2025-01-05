@@ -1,7 +1,7 @@
 # Outskirts - окраина, окрестности
 
-Created: December 10, 2022 11:37 PM
-Updated: May 1, 2023 4:25 PM
+
+
 
 - outskirts of Moscow
 

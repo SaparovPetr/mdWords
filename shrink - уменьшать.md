@@ -1,7 +1,7 @@
 # Shrink - уменьшать
 
-Created: May 17, 2023 11:55 AM
-Updated: May 17, 2023 11:57 AM
+
+
 
 - shrink the measure
 - Shrink portions

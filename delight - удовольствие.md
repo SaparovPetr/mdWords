@@ -1,7 +1,7 @@
 # Delight - удовольствие
 
-Created: May 1, 2023 4:12 PM
-Updated: May 1, 2023 4:16 PM
+
+
 
 - read with delight
 - Meet with delight

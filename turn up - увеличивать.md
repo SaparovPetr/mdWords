@@ -1,7 +1,7 @@
 # Turn up - увеличивать
 
-Created: June 20, 2022 9:32 AM
-Updated: October 27, 2023 11:51 AM
+
+
 
 - Turn up the volume
 - Turn up a gain

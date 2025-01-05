@@ -1,7 +1,7 @@
 # Awkward - неловкий
 
-Created: May 1, 2023 4:17 PM
-Updated: July 14, 2023 3:36 PM
+
+
 
 - awkward moment
 - Awkward situation

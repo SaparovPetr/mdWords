@@ -1,7 +1,7 @@
 # Smash - разбивать
 
-Created: January 24, 2023 5:51 PM
-Updated: August 23, 2023 5:47 PM
+
+
 
 - smash a piggy bank
 - smash a plate

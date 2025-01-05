@@ -1,7 +1,7 @@
 # Multistory - многоэтажный
 
-Created: August 4, 2022 9:08 AM
-Updated: August 3, 2023 11:59 AM
+
+
 
 - Multistory house
 - Multistory parking

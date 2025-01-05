@@ -1,7 +1,7 @@
 # Lunacy - безумие
 
-Created: September 2, 2023 12:12 PM
-Updated: September 2, 2023 12:15 PM
+
+
 
 Here are 4 more popular collocations with "lunacy" and example sentences in different tenses:
 

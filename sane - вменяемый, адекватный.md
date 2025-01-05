@@ -1,7 +1,7 @@
 # Sane - вменяемый, адекватный
 
-Created: June 17, 2022 9:25 AM
-Updated: March 22, 2023 12:35 PM
+
+
 
 Experts told that criminal is sane.
 

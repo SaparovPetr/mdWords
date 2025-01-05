@@ -1,7 +1,7 @@
 # Shrill - кричащий (в значении яркий)
 
-Created: July 14, 2022 3:30 PM
-Updated: July 14, 2022 3:30 PM
+
+
 
 - shrill and vivid socks
 Collocations:

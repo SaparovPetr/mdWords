@@ -1,7 +1,7 @@
 # Savour - насладиться
 
-Created: May 20, 2023 4:19 AM
-Updated: May 20, 2023 4:21 AM
+
+
 
 - savour tasty food
 

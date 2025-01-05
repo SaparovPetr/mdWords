@@ -1,7 +1,7 @@
 # Way - намного
 
-Created: September 29, 2023 9:58 AM
-Updated: September 29, 2023 9:59 AM
+
+
 
 Here are 4 more popular collocations with "way" meaning "much more/far more":
 

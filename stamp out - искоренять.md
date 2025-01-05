@@ -1,7 +1,7 @@
 # Stamp out - искоренять
 
-Created: December 18, 2022 6:41 PM
-Updated: April 14, 2023 7:19 PM
+
+
 
 - stamp out the poverty
 - Stamp out mosquitoes

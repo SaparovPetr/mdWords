@@ -1,7 +1,7 @@
 # Dinky - крохотный
 
-Created: July 21, 2022 11:12 AM
-Updated: September 12, 2023 1:55 PM
+
+
 
 - dinky single room
 - dinky hotel

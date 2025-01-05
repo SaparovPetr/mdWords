@@ -1,7 +1,7 @@
 # Assignment - задание
 
-Created: July 25, 2023 4:52 PM
-Updated: August 27, 2023 1:52 PM
+
+
 
 Самые распространенные словосочетания с "assignment" и их перевод:
 

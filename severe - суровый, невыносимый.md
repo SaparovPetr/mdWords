@@ -1,7 +1,7 @@
 # Severe - суровый, невыносимый
 
-Created: August 9, 2022 7:03 PM
-Updated: November 7, 2023 2:33 PM
+
+
 
 - Severe winter
 - Severe looking

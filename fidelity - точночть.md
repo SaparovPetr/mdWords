@@ -1,7 +1,7 @@
 # Fidelity - точночть
 
-Created: July 18, 2023 12:50 PM
-Updated: July 18, 2023 12:51 PM
+
+
 
 Слово "fidelity" означает "точность" или "верность".
 

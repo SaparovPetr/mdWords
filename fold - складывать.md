@@ -1,7 +1,7 @@
 # Fold - складывать
 
-Created: July 25, 2023 5:12 PM
-Updated: July 25, 2023 5:14 PM
+
+
 
 - fold the paper
 - Fold the origami

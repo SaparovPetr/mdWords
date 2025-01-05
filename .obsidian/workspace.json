@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abuse - злоупотребление.md",
+                "file": "addition - дополнение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abuse - злоупотребление"
+              "title": "addition - дополнение"
             }
           }
         ]
@@ -176,6 +176,8 @@
   },
   "active": "76e63869018ad82a",
   "lastOpenFiles": [
+    "abolish - отменять.md",
+    "abuse - злоупотребление.md",
     "adoption - принятие.md",
     "chase - стремиться.md",
     "go past - пройти мимо чего-то.md",
@@ -200,8 +202,6 @@
     "year - год.md",
     "sneeze - чихать.md",
     "translation - перевод.md",
-    "trousers - брюки.md",
-    "a couple of - несколько.md",
     "Без названия.canvas"
   ]
 }

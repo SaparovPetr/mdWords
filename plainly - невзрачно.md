@@ -1,7 +1,7 @@
 # Plainly - невзрачно
 
-Created: July 13, 2022 2:09 AM
-Updated: August 13, 2023 1:04 PM
+
+
 
 - plainly looking
 - Plainly dressed

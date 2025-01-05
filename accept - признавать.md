@@ -1,7 +1,7 @@
 # Accept - признавать
 
-Created: February 20, 2023 10:20 PM
-Updated: September 16, 2023 1:16 PM
+
+
 
 - accept the mistake
 - accept the major role

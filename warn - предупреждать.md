@@ -1,7 +1,7 @@
 # Warn - предупреждать
 
-Created: June 20, 2022 7:17 PM
-Updated: August 28, 2023 9:53 PM
+
+
 
 - Sign warns visitors
 

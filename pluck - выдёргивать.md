@@ -1,7 +1,7 @@
 # Pluck - выдергивать
 
-Created: July 29, 2023 6:21 PM
-Updated: September 18, 2023 1:10 PM
+
+
 
 pluck the eyebrow
 Pluck the hair

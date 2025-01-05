@@ -1,7 +1,7 @@
 # Bother - потрудиться
 
-Created: January 30, 2023 12:04 AM
-Updated: December 19, 2023 6:11 AM
+
+
 
 - we must bother and do that
 

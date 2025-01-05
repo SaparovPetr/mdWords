@@ -1,7 +1,7 @@
 # brink  - грань
 
-Created: November 4, 2023 3:57 PM
-Updated: November 4, 2023 3:57 PM
+
+
 
 I think you meant to ask about the word "brink" instead of "bring". Here are 4 common collocations with "brink":
 

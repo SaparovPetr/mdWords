@@ -1,7 +1,7 @@
 # Pull off - добиваться, осуществлять, исполнять
 
-Created: November 10, 2023 11:46 AM
-Updated: December 10, 2023 1:13 PM
+
+
 
 Here are 4 more colloquial collocations with "pull off":
 

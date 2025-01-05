@@ -1,7 +1,7 @@
 # grasp - хватать
 
-Created: October 27, 2023 11:25 AM
-Updated: October 27, 2023 11:25 AM
+
+
 
 Here are 4 more simple collocations with "grasp" and an example sentence in different tenses with simplified vocabulary:
 

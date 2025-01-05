@@ -1,7 +1,7 @@
 # Preconceived - предвзятый
 
-Created: July 5, 2023 4:37 PM
-Updated: September 5, 2023 9:37 PM
+
+
 
 - preconceived beliefs
 - preconceived opinion

@@ -1,7 +1,7 @@
 # Justice - правосудие
 
-Created: August 5, 2023 6:29 PM
-Updated: August 5, 2023 6:34 PM
+
+
 
 - delivered justice
 - fake justice

@@ -1,7 +1,7 @@
 # Discarded - выброшенный
 
-Created: October 24, 2022 8:30 AM
-Updated: January 26, 2023 8:22 PM
+
+
 
 - discarded blue bucket
 - discarded trash

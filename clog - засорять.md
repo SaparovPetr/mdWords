@@ -1,7 +1,7 @@
 # Clog - засорять
 
-Created: January 26, 2023 8:21 PM
-Updated: April 30, 2023 4:52 PM
+
+
 
 - Clogged tube
 - Clogged plumbing

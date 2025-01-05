@@ -1,7 +1,7 @@
 # Grasp - понять
 
-Created: February 21, 2023 1:06 PM
-Updated: May 23, 2023 11:51 AM
+
+
 
 - grasp the material
 - Grasp the princip

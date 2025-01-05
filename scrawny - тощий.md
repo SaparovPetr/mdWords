@@ -1,7 +1,7 @@
 # Scrawny - тощий
 
-Created: September 9, 2023 9:35 PM
-Updated: September 9, 2023 9:35 PM
+
+
 
 Here are 4 more popular collocations with the word "scrawny":
 

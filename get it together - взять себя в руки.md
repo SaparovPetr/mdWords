@@ -1,7 +1,7 @@
 # Get it together - взять себя в руки
 
-Created: August 31, 2022 8:26 AM
-Updated: August 19, 2023 9:36 PM
+
+
 
 Stop crying and get you together!
 

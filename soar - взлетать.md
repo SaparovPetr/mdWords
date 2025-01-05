@@ -1,7 +1,7 @@
 # Soar - взлетать
 
-Created: January 25, 2023 1:48 PM
-Updated: September 7, 2023 10:57 PM
+
+
 
 - price soar
 - Aircraft soared quickly

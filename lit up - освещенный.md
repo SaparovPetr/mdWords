@@ -1,7 +1,7 @@
 # Lit up - освещенный
 
-Created: August 19, 2023 9:31 PM
-Updated: August 19, 2023 9:32 PM
+
+
 
 - lit up the street
 

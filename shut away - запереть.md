@@ -1,7 +1,7 @@
 # Shut away - запереть
 
-Created: August 19, 2022 6:26 PM
-Updated: August 24, 2023 8:13 PM
+
+
 
 - Shut away in the prison
 - Shut away in the cell

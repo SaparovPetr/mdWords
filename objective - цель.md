@@ -1,7 +1,7 @@
 # Objective - цель
 
-Created: September 3, 2023 11:53 AM
-Updated: September 3, 2023 11:54 AM
+
+
 
 Here are 4 common collocations using "objective" to mean "goal" or "aim":
 

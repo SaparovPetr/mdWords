@@ -1,7 +1,7 @@
 # Take after - быть похожим
 
-Created: July 14, 2022 4:27 PM
-Updated: July 14, 2022 4:27 PM
+
+
 
 She takes after her father.He takes after his brother.
 

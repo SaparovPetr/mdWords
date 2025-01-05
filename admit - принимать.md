@@ -1,7 +1,7 @@
 # Admit - принимать
 
-Created: October 26, 2022 9:36 AM
-Updated: January 16, 2023 8:36 AM
+
+
 
 - admit conditions
 - Admit an application

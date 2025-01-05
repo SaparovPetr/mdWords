@@ -1,7 +1,7 @@
 # facilitate - облегчать
 
-Created: October 14, 2023 10:15 PM
-Updated: October 14, 2023 10:16 PM
+
+
 
 Here are 4 more simple and popular collocations with "facilitate":
 

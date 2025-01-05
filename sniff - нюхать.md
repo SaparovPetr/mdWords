@@ -1,7 +1,7 @@
 # Sniff - нюхать
 
-Created: July 12, 2022 3:44 PM
-Updated: July 12, 2022 3:45 PM
+
+
 
 - sniff the perfume
 - Sniff coffee

@@ -1,7 +1,7 @@
 # Deduce - делать вывод
 
-Created: November 22, 2022 11:32 AM
-Updated: November 22, 2022 11:32 AM
+
+
 
 I deduce that it was a bad idea.
 

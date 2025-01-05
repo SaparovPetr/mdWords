@@ -1,7 +1,7 @@
 # Come out - проявляться
 
-Created: October 21, 2022 6:26 PM
-Updated: September 11, 2023 1:22 PM
+
+
 
 Symptoms came out several days ago.
 

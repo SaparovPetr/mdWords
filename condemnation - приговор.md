@@ -1,7 +1,7 @@
 # Condemnation - приговор
 
-Created: April 30, 2023 4:40 PM
-Updated: April 30, 2023 4:44 PM
+
+
 
 - cruel condemnation
 - Strict condemnation

@@ -1,7 +1,7 @@
 # feature - включать
 
-Created: September 16, 2023 11:49 AM
-Updated: September 16, 2023 1:13 PM
+
+
 
 Here are 4 more popular collocations with the phrase "feature" without translation:
 

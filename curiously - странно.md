@@ -1,7 +1,7 @@
 # Curiously - странно
 
-Created: February 5, 2023 7:08 PM
-Updated: February 5, 2023 7:08 PM
+
+
 
 Curiously, I saw her with the same boy.
 

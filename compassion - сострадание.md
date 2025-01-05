@@ -1,7 +1,7 @@
 # Compassion - сострадание
 
-Created: July 7, 2023 5:58 PM
-Updated: July 7, 2023 6:01 PM
+
+
 
 - compulsion and support
 

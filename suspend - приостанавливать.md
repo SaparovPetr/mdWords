@@ -1,7 +1,7 @@
 # Suspend - приостанавливать
 
-Created: July 19, 2022 7:14 PM
-Updated: July 27, 2023 10:47 AM
+
+
 
 - Suspend an entrance
 - Suspend a moving

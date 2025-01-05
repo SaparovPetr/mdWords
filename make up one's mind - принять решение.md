@@ -1,7 +1,7 @@
 # Make up one's mind - принять решение
 
-Created: August 21, 2023 1:12 PM
-Updated: August 21, 2023 1:18 PM
+
+
 
 I look at all sides of the issue before I make up my mind.
 

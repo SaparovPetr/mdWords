@@ -1,7 +1,7 @@
 # Evenly - равномерно
 
-Created: August 10, 2023 5:39 PM
-Updated: August 10, 2023 5:42 PM
+
+
 
 - evenly divided
 

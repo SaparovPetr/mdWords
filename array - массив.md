@@ -1,7 +1,7 @@
 # array - массив
 
-Created: November 16, 2023 11:35 AM
-Updated: November 16, 2023 11:35 AM
+
+
 
 Here are 4 more collocations with the word "array":
 

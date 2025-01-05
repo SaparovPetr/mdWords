@@ -1,7 +1,7 @@
 # Upbringing - воспитание
 
-Created: November 28, 2022 6:55 PM
-Updated: July 27, 2023 3:24 PM
+
+
 
 - traditional upbringing
 - children upbringing

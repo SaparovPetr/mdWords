@@ -1,7 +1,7 @@
 # delight - радовать
 
-Created: September 13, 2023 7:55 AM
-Updated: September 13, 2023 7:55 AM
+
+
 
 Here are 4 more popular collocations with the word "delight":
 

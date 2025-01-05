@@ -1,7 +1,7 @@
 # Handout - раздаточный материал
 
-Created: March 26, 2023 12:26 PM
-Updated: July 7, 2023 5:13 PM
+
+
 
 - handout for presentation
 

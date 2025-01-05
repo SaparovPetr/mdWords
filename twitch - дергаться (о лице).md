@@ -1,7 +1,7 @@
 # Twitch - дергаться (о лице)
 
-Created: July 31, 2022 8:50 PM
-Updated: August 11, 2023 12:05 AM
+
+
 
 - twitch on convulsions
 - Twitch by eyebrows

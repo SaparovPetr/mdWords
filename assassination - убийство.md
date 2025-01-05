@@ -1,7 +1,7 @@
 # Assassination - убийство
 
-Created: October 22, 2023 3:49 PM
-Updated: October 22, 2023 3:49 PM
+
+
 
 Here are 4 more collocations with the word "assassination" and example sentences in different tenses:
 

@@ -1,7 +1,7 @@
 # adecuate - достаточный
 
-Created: December 21, 2023 1:03 PM
-Updated: December 21, 2023 1:26 PM
+
+
 
 Here are 4 more collocations with the phrase "adequate" meaning "sufficient" or "enough":
 

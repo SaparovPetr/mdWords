@@ -1,7 +1,7 @@
 # Quiver - дрожать, вибрация
 
-Created: July 12, 2022 3:49 PM
-Updated: August 31, 2022 8:02 PM
+
+
 
 - quiver because of cold
 - Feel quiver

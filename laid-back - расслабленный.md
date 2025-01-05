@@ -1,7 +1,7 @@
 # Laid-back - расслабленный
 
-Created: June 22, 2022 8:44 AM
-Updated: February 19, 2023 9:02 PM
+
+
 
 - laid-back swimmer
 - Laid-back worker

@@ -1,7 +1,7 @@
 # Crook - изгибать
 
-Created: July 25, 2022 8:32 AM
-Updated: February 19, 2023 8:59 PM
+
+
 
 - crook the bar
 - Crook a stick

@@ -1,7 +1,7 @@
 # Speed bump - лежачий полицейский
 
-Created: December 12, 2023 3:09 PM
-Updated: December 12, 2023 3:12 PM
+
+
 
 Here are 4 more collocations with "speed bump":
 1. hit a speed bump

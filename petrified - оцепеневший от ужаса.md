@@ -1,7 +1,7 @@
 # Petrified - оцепеневший от ужаса
 
-Created: February 10, 2023 5:18 PM
-Updated: May 31, 2023 7:48 AM
+
+
 
 - petrified because of horror
 - Petrified of fear

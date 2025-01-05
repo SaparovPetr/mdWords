@@ -1,7 +1,7 @@
 # Stick around - оставаться
 
-Created: November 22, 2022 8:39 AM
-Updated: July 19, 2023 6:03 PM
+
+
 
 - stick around on the place
 - stick around on the hotel

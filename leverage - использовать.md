@@ -1,7 +1,7 @@
 # leverage - использовать
 
-Created: November 7, 2023 2:12 PM
-Updated: November 7, 2023 2:12 PM
+
+
 
 Here are 4 more collocations with "leverage" meaning "to use":
 

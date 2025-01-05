@@ -1,7 +1,7 @@
 # Dump - выбрасывать
 
-Created: August 9, 2022 10:27 AM
-Updated: August 26, 2023 12:33 PM
+
+
 
 - Dump the rubbish
 - Dump useless items

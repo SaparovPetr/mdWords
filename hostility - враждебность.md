@@ -1,7 +1,7 @@
 # hostility - враждебность
 
-Created: October 15, 2023 1:00 PM
-Updated: October 15, 2023 1:00 PM
+
+
 
 Here are 4 more collocations with the word "hostility" meaning animosity or unfriendliness:
 

@@ -1,7 +1,7 @@
 # Faintly - слабо
 
-Created: July 25, 2022 6:44 PM
-Updated: August 22, 2023 2:27 PM
+
+
 
 - faintly blow
 - faintly jab

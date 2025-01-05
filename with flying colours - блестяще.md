@@ -1,7 +1,7 @@
 # with flying colours - блестяще
 
-Created: August 21, 2023 1:49 PM
-Updated: August 21, 2023 1:51 PM
+
+
 
 Вот 4 распространенных словосочетания с выражением "with flying colours":
 

@@ -1,7 +1,7 @@
 # pinch - щипать, щепотка
 
-Created: September 11, 2023 1:27 PM
-Updated: September 11, 2023 1:29 PM
+
+
 
 Here are 4 more popular collocations with the word "pinch" meaning to squeeze something tightly:
 

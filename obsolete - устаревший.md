@@ -1,7 +1,7 @@
 # Obsolete - устаревший
 
-Created: August 2, 2023 12:36 PM
-Updated: August 2, 2023 12:38 PM
+
+
 
 - obsolete word
 - obsolete costume

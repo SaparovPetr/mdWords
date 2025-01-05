@@ -1,7 +1,7 @@
 # Obey - повиноваться
 
-Created: June 23, 2022 6:47 PM
-Updated: September 13, 2023 6:32 PM
+
+
 
 - Obey the rule
 - Obey somebody

@@ -1,7 +1,7 @@
 # Roughly - примерно, грубо
 
-Created: June 29, 2022 8:52 AM
-Updated: August 27, 2023 7:27 PM
+
+
 
 - Roughly the same
 - Roughly at five o'clock

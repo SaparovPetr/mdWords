@@ -1,7 +1,7 @@
 # affable - приветливый
 
-Created: December 22, 2023 1:27 PM
-Updated: December 23, 2023 3:50 PM
+
+
 
 Here are 4 more collocations with "affable" and example sentences in different tenses:
 

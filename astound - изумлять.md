@@ -1,7 +1,7 @@
 # Astound - изумлять
 
-Created: July 31, 2022 8:39 PM
-Updated: July 24, 2023 4:06 PM
+
+
 
 - astound by beautiful
 - astound by stupidness

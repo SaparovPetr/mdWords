@@ -1,7 +1,7 @@
 # Terminate - завершать
 
-Created: June 28, 2022 8:41 AM
-Updated: July 20, 2023 6:02 PM
+
+
 
 - terminate the tasks
 - terminate the project

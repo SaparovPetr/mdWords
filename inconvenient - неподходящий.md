@@ -1,7 +1,7 @@
 # Inconvenient - неподходящий
 
-Created: December 19, 2023 6:52 AM
-Updated: December 19, 2023 6:55 AM
+
+
 
 Here are some collocations for "inconvenient" with the meaning "неподходящий" (unsuitable, not appropriate) and example sentences:
 Collocations: 1. Inconvenient timing

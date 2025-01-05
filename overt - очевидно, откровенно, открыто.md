@@ -1,7 +1,7 @@
 # Overt - очевидно, откровенно, открыто
 
-Created: October 26, 2023 8:46 AM
-Updated: October 26, 2023 8:47 AM
+
+
 
 Here are 4 more collocations with the word "overt":
 

@@ -1,7 +1,7 @@
 # Hasten - торопиться
 
-Created: February 16, 2023 2:36 PM
-Updated: August 26, 2023 1:06 PM
+
+
 
 - hasten to the client
 - hasten to the airport

@@ -1,7 +1,7 @@
 # Specify - оговаривать
 
-Created: July 14, 2022 5:05 PM
-Updated: July 14, 2022 5:05 PM
+
+
 
 We have to specify all issues.
 

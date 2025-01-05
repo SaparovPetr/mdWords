@@ -1,7 +1,7 @@
 # Overstate - преувеличивать
 
-Created: July 16, 2023 9:44 PM
-Updated: July 16, 2023 9:45 PM
+
+
 
 1. Overstate the importance - преувеличивать важность
 

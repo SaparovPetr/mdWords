@@ -1,7 +1,7 @@
 # Rhino - носорог
 
-Created: December 18, 2023 6:02 PM
-Updated: December 18, 2023 6:05 PM
+
+
 
 Here are 4 more simple and popular collocations with "rhino" and an example sentence in different tenses:
 Rhino habitat, rhino conservation, rhino population, rhino horn

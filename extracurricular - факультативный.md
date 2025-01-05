@@ -1,7 +1,7 @@
 # Extracurricular - факультативный
 
-Created: October 25, 2022 8:45 AM
-Updated: October 25, 2022 8:54 PM
+
+
 
 - Extracurricular class
 

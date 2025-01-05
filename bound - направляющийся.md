@@ -1,7 +1,7 @@
 # Bound - направляющийся
 
-Created: July 25, 2023 4:55 PM
-Updated: July 25, 2023 4:57 PM
+
+
 
 - bound to the city
 

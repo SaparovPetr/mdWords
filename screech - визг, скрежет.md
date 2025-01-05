@@ -1,7 +1,7 @@
 # Screech - визг, скрежет
 
-Created: July 14, 2022 3:06 PM
-Updated: August 23, 2023 7:21 AM
+
+
 
 - pain screech
 - High screech

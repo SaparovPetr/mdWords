@@ -1,7 +1,7 @@
 # Performance - результаты
 
-Created: February 10, 2023 5:15 PM
-Updated: September 3, 2023 9:38 PM
+
+
 
 - performance of the competition
 - Swimming competition performance

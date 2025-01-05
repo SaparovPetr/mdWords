@@ -1,7 +1,7 @@
 # Reassure - уверять
 
-Created: June 23, 2022 6:49 PM
-Updated: June 23, 2022 6:56 PM
+
+
 
 I reassure you. It's good idea.
 

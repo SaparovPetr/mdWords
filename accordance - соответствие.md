@@ -1,7 +1,7 @@
 # Accordance - соответствие
 
-Created: June 15, 2022 6:52 PM
-Updated: July 20, 2023 5:42 PM
+
+
 
 - In accordance with a rule
 - In accordance with a report

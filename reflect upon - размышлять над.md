@@ -1,7 +1,7 @@
 # Reflect upon - размышлять над
 
-Created: July 3, 2023 3:58 PM
-Updated: July 3, 2023 3:59 PM
+
+
 
 1. reflect upon something: размышлять над чем-то
 

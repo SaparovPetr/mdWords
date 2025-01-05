@@ -1,7 +1,7 @@
 # Take - записывать
 
-Created: June 30, 2022 6:57 PM
-Updated: August 28, 2023 9:48 PM
+
+
 
 - Take an inscriptions
 - Take a guest's order

@@ -1,7 +1,7 @@
 # Huddle - совещание команды
 
-Created: July 12, 2022 3:53 PM
-Updated: July 13, 2023 1:30 PM
+
+
 
 We have to hold a huddle. There are a some issues.
 

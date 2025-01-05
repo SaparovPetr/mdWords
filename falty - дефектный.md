@@ -1,7 +1,7 @@
 # Falty - дефектный
 
-Created: July 30, 2023 5:30 PM
-Updated: July 30, 2023 5:32 PM
+
+
 
 - falty wheel
 

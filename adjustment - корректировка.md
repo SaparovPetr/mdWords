@@ -1,7 +1,7 @@
 # Adjustment - корректировка
 
-Created: November 21, 2022 8:38 AM
-Updated: August 31, 2023 11:59 AM
+
+
 
 - Vision adjustment
 - route adjustment

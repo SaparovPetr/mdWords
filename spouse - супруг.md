@@ -1,7 +1,7 @@
 # Spouse - супруг
 
-Created: April 13, 2023 2:13 PM
-Updated: April 30, 2023 5:28 PM
+
+
 
 - her spouse
 

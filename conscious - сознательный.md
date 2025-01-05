@@ -1,7 +1,7 @@
 # Conscious - сознательный
 
-Created: June 22, 2022 8:46 PM
-Updated: November 4, 2022 2:12 PM
+
+
 
 - Conscious violation
 - Conscious breach

@@ -1,7 +1,7 @@
 # Conform - подтверждать
 
-Created: October 20, 2023 1:42 PM
-Updated: October 20, 2023 1:43 PM
+
+
 
 Here are 4 more common collocations with "conform" without translation:
 

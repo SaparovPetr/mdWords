@@ -1,7 +1,7 @@
 # sit - сдавать
 
-Created: September 13, 2023 6:50 PM
-Updated: December 21, 2023 12:59 PM
+
+
 
 Here are 4 more popular collocations with the word "sit":
 

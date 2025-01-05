@@ -1,7 +1,7 @@
 # wery - осторожно
 
-Created: September 13, 2023 8:00 AM
-Updated: September 13, 2023 8:00 AM
+
+
 
 Here are 4 more popular collocations with the word "wery" meaning cautious or careful:
 

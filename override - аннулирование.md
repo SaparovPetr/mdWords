@@ -1,7 +1,7 @@
 # Override - аннулирование
 
-Created: November 4, 2023 3:01 PM
-Updated: December 22, 2023 1:50 PM
+
+
 
 Here are 4 more simple and popular collocations with the phrase "override" meaning "annulment" or "cancelation":
 

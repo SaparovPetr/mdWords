@@ -1,7 +1,7 @@
 # Mandatory - обязательный
 
-Created: October 26, 2022 9:53 AM
-Updated: January 27, 2023 6:44 PM
+
+
 
 - Education is mandatory
 - mandatory condition

@@ -1,7 +1,7 @@
 # Admiration - восхищение
 
-Created: July 7, 2023 5:40 PM
-Updated: July 7, 2023 5:42 PM
+
+
 
 - true admiration
 - False admiration

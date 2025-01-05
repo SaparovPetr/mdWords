@@ -1,7 +1,7 @@
 # Bilateral - двухсторонний
 
-Created: September 12, 2023 12:40 PM
-Updated: September 12, 2023 12:43 PM
+
+
 
 France and Germany have signed a bilateral agreement to help prevent drug smuggling.
 

@@ -1,8 +1,8 @@
 # general practitioner - врач-терапевт
 
 Tags: Past Continuous, Past Simple, and Past Perfect. Use a simplify vacablurary.
-Created: October 25, 2023 9:10 PM
-Updated: October 27, 2023 11:32 AM
+
+
 
 Here are 4 more collocations with "general practitioner" and an example sentence in different tenses:
 

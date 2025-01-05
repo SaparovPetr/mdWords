@@ -1,7 +1,7 @@
 # Harness - ремни безопасности
 
-Created: July 8, 2022 10:19 AM
-Updated: September 2, 2023 12:30 PM
+
+
 
 - seat harnesses
 - Lock seat harness

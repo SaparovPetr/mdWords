@@ -1,7 +1,7 @@
 # Ascend - подниматься
 
-Created: June 27, 2022 8:45 AM
-Updated: June 27, 2022 8:45 AM
+
+
 
 - ascend on the lift
 - Ascend to top

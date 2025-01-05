@@ -1,7 +1,7 @@
 # Shift - смена
 
-Created: July 9, 2023 3:43 PM
-Updated: July 9, 2023 3:46 PM
+
+
 
 "Shift" означает "смена", "перемена".
 

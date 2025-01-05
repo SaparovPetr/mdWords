@@ -1,7 +1,7 @@
 # Equality - равенство
 
-Created: March 2, 2023 4:15 AM
-Updated: July 11, 2023 1:04 PM
+
+
 
 - entitlement equality
 - Racial equality

@@ -1,7 +1,7 @@
 # Duck - пригибаться
 
-Created: June 29, 2022 8:56 AM
-Updated: August 27, 2023 7:33 PM
+
+
 
 Could you duck please. I need to open the door .
 

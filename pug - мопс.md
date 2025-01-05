@@ -1,7 +1,7 @@
 # pug  - мопс
 
-Created: November 7, 2023 1:54 PM
-Updated: November 7, 2023 1:54 PM
+
+
 
 Here are 4 more collocations with "pug":
 

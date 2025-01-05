@@ -1,7 +1,7 @@
 # Around - неподалеку
 
-Created: June 17, 2022 2:00 PM
-Updated: June 17, 2022 2:10 PM
+
+
 
 There's a little mall around my house. It's called Kachubey.
 

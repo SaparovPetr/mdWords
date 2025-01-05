@@ -1,7 +1,7 @@
 # Concern - затрагивать
 
-Created: January 30, 2023 12:22 PM
-Updated: January 30, 2023 12:24 PM
+
+
 
 - concern everyone
 - Concern all citizens

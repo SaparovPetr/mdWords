@@ -1,7 +1,7 @@
 # Touch base - пообщаться
 
-Created: April 13, 2023 2:11 PM
-Updated: September 11, 2023 1:47 PM
+
+
 
 - touch base with friends
 

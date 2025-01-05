@@ -1,7 +1,7 @@
 # apprehensive - испытывающий тревогу
 
-Created: August 7, 2023 3:18 PM
-Updated: August 7, 2023 3:21 PM
+
+
 
 - apprehensive person
 - apprehensive parent

@@ -1,7 +1,7 @@
 # Incentive - стимул
 
-Created: February 15, 2023 10:22 PM
-Updated: September 5, 2023 9:48 PM
+
+
 
 - incentive for training
 - financial incentive

@@ -1,7 +1,7 @@
 # Set up - обеспечивать материально
 
-Created: August 23, 2022 7:35 PM
-Updated: August 24, 2023 8:06 PM
+
+
 
 - set up child
 - Set up with some money

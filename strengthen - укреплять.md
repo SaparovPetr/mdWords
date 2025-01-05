@@ -1,7 +1,7 @@
 # Strengthen - укреплять
 
-Created: September 12, 2023 6:55 PM
-Updated: September 12, 2023 6:56 PM
+
+
 
 The two countries have signed several bilateral agreements over the years to strengthen their economic ties.
 

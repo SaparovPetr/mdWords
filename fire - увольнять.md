@@ -1,7 +1,7 @@
 # Fire - увольнять
 
-Created: November 30, 2022 7:58 AM
-Updated: September 12, 2023 1:13 PM
+
+
 
 You are fired!
 

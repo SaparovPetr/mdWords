@@ -1,7 +1,7 @@
 # mighty - могущественный
 
-Created: October 8, 2023 2:31 PM
-Updated: October 8, 2023 2:35 PM
+
+
 
 Here are 4 more popular collocations with the word "mighty":
 

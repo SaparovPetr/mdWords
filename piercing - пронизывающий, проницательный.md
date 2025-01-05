@@ -1,7 +1,7 @@
 # Piercing - пронизывающий, проницательный
 
-Created: July 22, 2022 10:09 AM
-Updated: August 22, 2023 2:34 PM
+
+
 
 - piercing wind
 - piercing sound

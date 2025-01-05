@@ -1,7 +1,7 @@
 # Continuously - непрерывно
 
-Created: January 19, 2023 6:43 PM
-Updated: May 17, 2023 10:03 AM
+
+
 
 - produce continuously
 - work continuously

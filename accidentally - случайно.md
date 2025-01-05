@@ -1,7 +1,7 @@
 # Accidentally - случайно
 
-Created: May 24, 2022 10:27 PM
-Updated: June 14, 2022 9:24 PM
+
+
 
 - accidentally met
 - Accidentally broke

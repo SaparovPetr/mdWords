@@ -1,7 +1,7 @@
 # Caring - заботливый
 
-Created: November 6, 2022 3:33 PM
-Updated: August 5, 2023 5:45 PM
+
+
 
 - caring pet owner
 - Caring parent

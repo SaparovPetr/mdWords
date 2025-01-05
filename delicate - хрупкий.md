@@ -1,7 +1,7 @@
 # Delicate - хрупкий
 
-Created: December 30, 2022 6:33 PM
-Updated: August 29, 2023 12:11 PM
+
+
 
 - delicate peace
 

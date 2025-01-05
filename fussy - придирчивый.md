@@ -1,7 +1,7 @@
 # Fussy - придирчивый
 
-Created: July 19, 2022 8:44 AM
-Updated: July 19, 2023 5:37 PM
+
+
 
 - fussy customer
 - Fussy guest

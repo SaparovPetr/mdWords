@@ -1,7 +1,7 @@
 # Override - преодолевать
 
-Created: October 22, 2023 3:27 PM
-Updated: October 22, 2023 3:29 PM
+
+
 
 Here are 4 more collocations with the phrase "override" and example sentences using different tenses:
 

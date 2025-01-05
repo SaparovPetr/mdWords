@@ -1,7 +1,7 @@
 # Decay - разрушаться
 
-Created: February 2, 2023 6:02 PM
-Updated: December 19, 2023 6:38 AM
+
+
 
 - decayded wall
 - make decay

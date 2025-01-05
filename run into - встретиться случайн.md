@@ -1,7 +1,7 @@
 # run into - встретиться случайн
 
-Created: October 27, 2023 11:33 AM
-Updated: October 27, 2023 11:34 AM
+
+
 
 Here are 4 more simple collocations with "run into" and an example sentence in different tenses with simplified vocabulary:
 

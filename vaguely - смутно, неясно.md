@@ -1,7 +1,7 @@
 # vaguely - смутно, неясно
 
-Created: November 4, 2023 3:37 PM
-Updated: November 7, 2023 1:54 PM
+
+
 
 Here are 4 common collocations with "vaguely":
 

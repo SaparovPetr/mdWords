@@ -1,7 +1,7 @@
 # Pass up - отказываться
 
-Created: August 25, 2022 8:30 AM
-Updated: August 9, 2023 3:39 PM
+
+
 
 - pass up of medicines.
 

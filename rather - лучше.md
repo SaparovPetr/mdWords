@@ -1,7 +1,7 @@
 # Rather - лучше
 
-Created: August 15, 2023 5:23 PM
-Updated: August 15, 2023 5:23 PM
+
+
 
 1. Rather than - вместо того, чтобы
 

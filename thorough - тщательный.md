@@ -1,7 +1,7 @@
 # thorough - тщательный
 
-Created: November 4, 2023 3:28 PM
-Updated: November 6, 2023 12:46 PM
+
+
 
 Here are 4 common collocations with "thorough":
 

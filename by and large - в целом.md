@@ -1,7 +1,7 @@
 # By and large - в целом
 
-Created: December 3, 2022 1:47 PM
-Updated: April 1, 2023 8:49 AM
+
+
 
 By and large I consider that it was a mistake.
 

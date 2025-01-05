@@ -1,7 +1,7 @@
 # flow  - недостаток
 
-Created: November 7, 2023 1:57 PM
-Updated: November 7, 2023 1:58 PM
+
+
 
 Here are 4 more collocations with "flow" in the meaning of "lack":
 

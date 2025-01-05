@@ -1,7 +1,7 @@
 # Shaggy - лохматый
 
-Created: August 2, 2022 9:27 PM
-Updated: August 2, 2022 9:27 PM
+
+
 
 - shaggy haircut
 - Shaggy dog

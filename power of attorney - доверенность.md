@@ -1,7 +1,7 @@
 # power of attorney - доверенность
 
-Created: December 22, 2023 1:26 PM
-Updated: December 22, 2023 1:27 PM
+
+
 
 Here are 4 more collocations with "power of attorney" and example sentences using various tenses:
 

@@ -1,7 +1,7 @@
 # Perfectly - совершенно
 
-Created: September 3, 2023 9:29 PM
-Updated: September 3, 2023 9:32 PM
+
+
 
 Here are 4 more popular collocations with "perfectly" meaning "completely" or "absolutely":
 

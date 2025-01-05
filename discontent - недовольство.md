@@ -1,7 +1,7 @@
 # Discontent - недовольство
 
-Created: February 4, 2023 9:16 PM
-Updated: February 4, 2023 9:16 PM
+
+
 
 - visible discontent
 - Show the discontent

@@ -1,7 +1,7 @@
 # Set off  - отправляться
 
-Created: July 11, 2022 3:47 PM
-Updated: August 24, 2023 7:19 PM
+
+
 
 - set off to the trip
 - set off to home

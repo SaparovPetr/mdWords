@@ -1,7 +1,7 @@
 # Appoint - назначать
 
-Created: July 25, 2022 6:33 PM
-Updated: April 30, 2023 8:54 AM
+
+
 
 - appoint the meeting
 - Appoint on the position

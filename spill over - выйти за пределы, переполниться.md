@@ -1,7 +1,7 @@
 # Spill over - выйти за пределы, переполниться
 
-Created: August 15, 2023 4:04 PM
-Updated: August 15, 2023 5:10 PM
+
+
 
 - spill over the country
 - Spill over the region

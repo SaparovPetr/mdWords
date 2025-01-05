@@ -1,7 +1,7 @@
 # Assemble - собирать
 
-Created: January 16, 2023 6:41 PM
-Updated: January 16, 2023 6:41 PM
+
+
 
 Here are 4 more simple and popular English collocations with the phrase "assemble furniture" and an intermediate level example sentence in different tenses:
 

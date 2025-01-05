@@ -1,7 +1,7 @@
 # Breakdown - крах
 
-Created: June 15, 2022 8:25 AM
-Updated: August 24, 2022 11:03 AM
+
+
 
 - Full breakdown
 

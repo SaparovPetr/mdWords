@@ -1,7 +1,6 @@
 # Admit - признавать
 
-Created: January 25, 2023 12:09 PM
-Updated: September 15, 2023 9:40 PM
+
 
 - admit the mistake
 - admit the defeat

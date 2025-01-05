@@ -1,7 +1,7 @@
 # Frostbite - обморожение
 
-Created: August 13, 2023 1:31 PM
-Updated: August 13, 2023 2:10 PM
+
+
 
 Самые распространённые словосочетания с "frostbite" и их перевод:
 

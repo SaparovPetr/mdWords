@@ -1,7 +1,7 @@
 # sweep - сметать
 
-Created: November 7, 2023 2:24 PM
-Updated: November 7, 2023 2:24 PM
+
+
 
 Here are 4 more collocations with "sweep" meaning "to brush away":
 

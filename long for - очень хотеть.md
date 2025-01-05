@@ -1,7 +1,7 @@
 # Long for - очень хотеть
 
-Created: July 20, 2023 6:06 PM
-Updated: July 20, 2023 6:06 PM
+
+
 
 1. Long for love - жаждать любви
 
