@@ -1,8 +1,5 @@
 # Rhyme - стихотворение
 
-
-
-
 Here are 4 popular collocations with "rhyme" meaning poem:
 
 1. Compose/write a rhyme - The poet composed a clever rhyme.

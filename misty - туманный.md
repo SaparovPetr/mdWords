@@ -1,13 +1,10 @@
 # Misty - туманный
 
-
-
-
 Here are 7 simple and popular collocations with "misty" and example sentences in different tenses:
 
 Collocations:
 
-- misty forest 
+- misty forest
 - misty morning
 - misty landscape
 - misty memory
@@ -15,9 +12,9 @@ Collocations:
 - misty eyes
 - misty weather
 
-Examples:  
+Examples:
 
-Present Perfect: Heavy fog has created misty conditions throughout the countryside. 
+Present Perfect: Heavy fog has created misty conditions throughout the countryside.
 
 Past Simple: She gazed at the misty horizon as the sun rose over the sea.
 
