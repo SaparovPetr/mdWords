@@ -1,8 +1,5 @@
 # Explicitly - детально, ясно
 
-
-
-
 - outline explicitly
 - Give details explicitly
 - Explain explicitly

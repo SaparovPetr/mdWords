@@ -1,6 +1,3 @@
 # Rotten - гнилой
 
-
-
-
 - rotten tomatoes

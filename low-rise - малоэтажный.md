@@ -1,10 +1,7 @@
-# Low-rise  - малоэтажный
-
-
-
+# Low-rise - малоэтажный
 
 - low-rise accomodation
-Collocations:
+  Collocations:
 
 1. low-rise building
 2. low-rise apartment

@@ -2,11 +2,11 @@
 
 Collocations with "lovely":
 
-lovely weather 
+lovely weather
 
-lovely smile 
+lovely smile
 
-lovely time 
+lovely time
 
 lovely place
 
@@ -15,7 +15,6 @@ lovely day
 lovely person
 
 lovely evening
-
 
 Present Perfect: We have had a lovely time at the beach house this week.
 

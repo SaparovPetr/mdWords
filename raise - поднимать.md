@@ -1,8 +1,5 @@
 # Raise - поднимать
 
-
-
-
 - raise a bid
 - raise a hand
 

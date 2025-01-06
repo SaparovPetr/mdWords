@@ -1,8 +1,5 @@
 # Demise - конец
 
-
-
-
 Here are 4 more common collocations with "demise" without translation:
 
 - the demise of the company

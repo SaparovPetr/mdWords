@@ -1,6 +1,5 @@
 # Susceptible - восприимчивый
 
-
 - susceptible to plant pollen
 
 1. susceptible to disease - восприимчивый к заболеваниям

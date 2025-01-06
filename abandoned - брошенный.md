@@ -1,7 +1,4 @@
 # Abandoned - брошенный
 
-
-
-
 - abandoned dog
-Abandoned pet
+  Abandoned pet

@@ -1,8 +1,5 @@
 # Preconceived - предвзятый
 
-
-
-
 - preconceived beliefs
 - preconceived opinion
 

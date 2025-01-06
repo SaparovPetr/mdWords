@@ -1,7 +1,7 @@
 # except - кроме
 
-
 Collocations:
+
 1. except for
 2. except that
 3. except when
@@ -11,6 +11,7 @@ Collocations:
 7. except if
 
 Examples:
+
 - **Present Perfect**: Everyone has arrived, except for the guest of honor.
 - **Past Simple**: The plan went smoothly, except that we underestimated the costs.
 - **Past Continuous**: The students were working diligently, except when they got distracted.

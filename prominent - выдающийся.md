@@ -1,6 +1,5 @@
 # Prominent - выдающийся
 
-
 1. Prominent feature
 2. Prominent figure
 3. Prominent role

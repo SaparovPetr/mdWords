@@ -1,8 +1,5 @@
 # Shut away - запереть
 
-
-
-
 - Shut away in the prison
 - Shut away in the cell
 - Shut away your mouth

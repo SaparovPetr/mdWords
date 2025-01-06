@@ -1,8 +1,5 @@
 # Dump - выбрасывать
 
-
-
-
 - Dump the rubbish
 - Dump useless items
 - Dump junk

@@ -1,8 +1,5 @@
 # Polite - вежливый
 
-
-
-
 Here are 4 common collocations with "polite" meaning "courteous" or "well-mannered":
 
 1. Polite speech - Speaking respectfully.

@@ -1,8 +1,5 @@
 # cuddle - обнимать
 
-
-
-
 Here are 4 more collocations with "cuddle":
 
 - Cuddle with a loved one

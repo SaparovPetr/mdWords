@@ -1,8 +1,5 @@
 # Laid-back - расслабленный
 
-
-
-
 - laid-back swimmer
 - Laid-back worker
 - Laid-back tourist
@@ -26,13 +23,13 @@ Collocations:
 
 Examples:
 
-Present Perfect: 
+Present Perfect:
 The resort has attracted many guests with its laid-back vibe.
 
 Past Simple:
-His laid-back demeanor belied his fierce competitiveness.  
+His laid-back demeanor belied his fierce competitiveness.
 
-Past Continuous: 
+Past Continuous:
 The band was performing mellow, laid-back songs for the crowd.
 
 Past Perfect:

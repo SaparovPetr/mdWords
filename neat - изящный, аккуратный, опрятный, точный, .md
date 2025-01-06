@@ -1,6 +1,5 @@
 # Neat - складный, искуссный
 
-
 - neat work
 - neat turn
 

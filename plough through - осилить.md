@@ -1,6 +1,5 @@
 # plough through - осилить
 
-
 1. Plough through a difficult book
 2. Plough through paperwork
 3. Plough through traffic

@@ -1,8 +1,5 @@
 # wery - осторожно
 
-
-
-
 Here are 4 more popular collocations with the word "wery" meaning cautious or careful:
 
 1. Be wery of strangers

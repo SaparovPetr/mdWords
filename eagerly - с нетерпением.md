@@ -1,8 +1,5 @@
 # eagerly - с нетерпением
 
-
-
-
 - eagerly want
 
 These people have some great treasures that they eagerly want to share with us.

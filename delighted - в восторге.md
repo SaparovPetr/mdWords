@@ -1,8 +1,5 @@
 # Delighted - в восторге
 
-
-
-
 - be delighted
 
 I was delighted at win.

@@ -1,8 +1,5 @@
 # adgeways - боком
 
-
-
-
 Okay, now I understand. Here are 4 collocations with "edgeways" meaning "sideways" or "at an angle":
 
 1. turn edgeways

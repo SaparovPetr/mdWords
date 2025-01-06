@@ -1,8 +1,5 @@
 # Draining - истощающий
 
-
-
-
 Here are 4 more simple and popular collocations with "draining":
 
 - mentally draining

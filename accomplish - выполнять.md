@@ -1,8 +1,5 @@
 # Accomplish - выполнять
 
-
-
-
 ❗accomplish exercise;  accomplish assignment
 
 🏂

@@ -1,8 +1,5 @@
 # Quiver - дрожать, вибрация
 
-
-
-
 - quiver because of cold
 - Feel quiver
 

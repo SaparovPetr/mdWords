@@ -1,8 +1,5 @@
 # Multistory - многоэтажный
 
-
-
-
 - Multistory house
 - Multistory parking
 - Multistory hotel

@@ -1,8 +1,5 @@
 # Multiple - кратное число
 
-
-
-
 - Multiple choice - a type of test or question where the respondent has to choose the correct answer from several options.
 - Multiple sclerosis - a chronic autoimmune disease that affects the central nervous system.
 - Multiple personality disorder - a psychological disorder characterized by the presence of two or more distinct personality states.

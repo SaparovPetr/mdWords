@@ -1,8 +1,5 @@
 # Discontented - недовольный
 
-
-
-
 - discontented cat
 - discontented looking
 - discontented face

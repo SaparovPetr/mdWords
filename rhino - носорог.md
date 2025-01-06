@@ -1,8 +1,5 @@
 # Rhino - носорог
 
-
-
-
 Here are 4 more simple and popular collocations with "rhino" and an example sentence in different tenses:
 Rhino habitat, rhino conservation, rhino population, rhino horn
 Present Perfect: The rangers have protected the rhino habitat from poachers over the last few years.  

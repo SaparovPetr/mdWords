@@ -1,8 +1,5 @@
 # Persistent - постоянный
 
-
-
-
 - persistent route
 - persistent girlfriend
 - persistent critic

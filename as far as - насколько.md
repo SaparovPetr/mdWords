@@ -1,8 +1,5 @@
 # As far as - насколько
 
-
-
-
 - as far as I can see
 - as far as it possible
 

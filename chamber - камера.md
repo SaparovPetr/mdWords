@@ -1,6 +1,3 @@
 # Chamber - камера
 
-
-
-
 - prison chambers

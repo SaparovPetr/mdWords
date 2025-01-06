@@ -1,8 +1,5 @@
 # Conceive - придумывать
 
-
-
-
 - conceive the solution
 
 1. Conceive an idea - придумывать идею
@@ -10,9 +7,9 @@
 3. Conceive a child - зачать ребенка
 4. Conceive a notion - образовывать представление
 
-1. "Conceive a concept" (Придумать концепцию)
+5. "Conceive a concept" (Придумать концепцию)
 
-1. "Conceive a solution" (Придумать решение)
+6. "Conceive a solution" (Придумать решение)
 
 Примеры:
 

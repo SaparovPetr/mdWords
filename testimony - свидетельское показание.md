@@ -1,8 +1,5 @@
 # Testimony - свидетельское показание
 
-
-
-
 - truth testimony
 - testimony against criminal
 

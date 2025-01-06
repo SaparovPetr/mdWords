@@ -1,4 +1,3 @@
-
 - disguise the face
 - Disguise the emotions
 
@@ -9,8 +8,6 @@
 3. Disguise a scent - маскировать запах
 
 4. Disguise a motive - скрывать мотив
-
-
 
 - Present Perfect: The criminal has disguised himself as a delivery person.
 

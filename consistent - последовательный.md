@@ -1,6 +1,5 @@
 # Consistent - последовательный
 
-
 1. Consistent approach - последовательный подход
 2. Consistent results - последовательные результаты
 3. Consistent performance - последовательная производительность

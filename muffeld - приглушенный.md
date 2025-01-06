@@ -1,8 +1,5 @@
 # Muffeld - приглушенный
 
-
-
-
 - muffeld tune
 - Muffeld light
 - Muffeld sound

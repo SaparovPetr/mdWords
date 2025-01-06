@@ -1,8 +1,5 @@
 # exasperated - раздраженный
 
-
-
-
 - exasperated man
 - Exasperated by failure
 - Exasperated by rudeness

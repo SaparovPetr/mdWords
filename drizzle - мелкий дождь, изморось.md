@@ -1,8 +1,5 @@
 # Drizzle - мелкий дождь, изморось
 
-
-
-
 - Autumn drizzle
 - Annoying drizzle
 

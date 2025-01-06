@@ -1,6 +1,3 @@
 # Confident - уверенный
 
-
-
-
 - confident rider

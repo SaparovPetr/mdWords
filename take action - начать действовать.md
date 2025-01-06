@@ -1,8 +1,5 @@
 # take action - начать действовать
 
-
-
-
 Here are 4 more collocations with "take action" meaning "to start doing something":
 
 1. take decisive action

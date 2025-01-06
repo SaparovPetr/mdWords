@@ -1,8 +1,5 @@
 # Strength - сила
 
-
-
-
 - Physical strength
 - Strength of will
 

@@ -1,8 +1,5 @@
 # Highlight - запоминающийся момент
 
-
-
-
 - highlight of the performance
 - Highlight of speech
 

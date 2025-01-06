@@ -1,8 +1,5 @@
 # Terminate - завершать
 
-
-
-
 - terminate the tasks
 - terminate the project
 - terminate the marathon

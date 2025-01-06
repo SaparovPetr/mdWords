@@ -1,8 +1,5 @@
 # Postpone - откладывать
 
-
-
-
 - postpone matters
 - Postpone issue
 - Postpone decision

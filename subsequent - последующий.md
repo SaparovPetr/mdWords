@@ -1,6 +1,5 @@
 # Subsequent - последующий
 
-
 1. subsequent events - последующие события
 
 2. in subsequent years - в последующие годы

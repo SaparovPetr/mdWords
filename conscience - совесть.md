@@ -1,8 +1,5 @@
 # Conscience - совесть
 
-
-
-
 You just don't have a conscience.
 
 Here are 4 popular collocations with the word "conscience" and example sentences in different verb tenses:

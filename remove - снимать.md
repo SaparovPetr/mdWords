@@ -1,7 +1,5 @@
 # Remove - снимать
 
-
-
 - remove the lid from jar
 - Remove the underwear
 

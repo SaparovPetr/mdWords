@@ -1,6 +1,6 @@
 # Hurt - расстроенный
-# Hurt - расстроенный
 
+# Hurt - расстроенный
 
 Вот 4 распространенных словосочетания с выражением "hurt" в значении "расстроенный":
 
@@ -26,8 +26,6 @@ The girl was hurt when her parents scolded her unfairly.
 Past Perfect:
 
 He had been hurt emotionally before meeting his new friends.
-
-
 
 - hurt because insult
 

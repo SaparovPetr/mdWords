@@ -1,8 +1,5 @@
 # Discarded - выброшенный
 
-
-
-
 - discarded blue bucket
 - discarded trash
 - Discarded time
@@ -11,10 +8,10 @@
 
 Properly discarded waste.
 
- Here are 7 simple and popular collocations with the word "discarded" meaning "выброшенный":
+Here are 7 simple and popular collocations with the word "discarded" meaning "выброшенный":
 
 1. Discarded trash
-2. Discarded clothes 
+2. Discarded clothes
 3. Discarded furniture
 4. Discarded food
 5. Discarded appliances
@@ -27,27 +24,27 @@ Present Perfect:
 The city has discarded trash in overflowing landfills.
 
 Past Simple:
-They discarded clothes they no longer wore.  
+They discarded clothes they no longer wore.
 
 Past Continuous:
 The supermarket was discarding food after the power went out.
 
-Past Perfect: 
+Past Perfect:
 He had discarded appliances before moving houses.
 
 Here are 4 more simple and popular collocations:
 
 1. Discarded toys
-2. Discarded equipment 
+2. Discarded equipment
 3. Discarded parts
 4. Discarded leftovers
 
 Examples:
 
-Present Perfect: 
+Present Perfect:
 She has discarded toys her kids no longer use.
 
-Past Simple: 
+Past Simple:
 The factory discarded equipment that was broken.
 
 Past Continuous:

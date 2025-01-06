@@ -1,8 +1,5 @@
 # Lay (laid-laid) down - устанавливать
 
-
-
-
 - lay down a time on the wristwatch
 - lay down a low
 - Lay down a rule

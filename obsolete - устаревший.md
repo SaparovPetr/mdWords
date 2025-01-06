@@ -1,8 +1,5 @@
 # Obsolete - устаревший
 
-
-
-
 - obsolete word
 - obsolete costume
 

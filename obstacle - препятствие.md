@@ -1,6 +1,5 @@
 # Obstacle - препятствие
 
-
 - obstacle for dog
 - Obstacle for settlement
 - artificial obstacle

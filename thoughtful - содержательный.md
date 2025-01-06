@@ -1,8 +1,3 @@
-
-
-
-
-
 Here are 4 more common collocations with "thoughtful" without translation:
 
 - thoughtful analysis

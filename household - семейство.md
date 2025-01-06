@@ -1,8 +1,5 @@
 # Household - семейство
 
-
-
-
 Here are 4 more popular collocations with "household" meaning family:
 
 1. household members

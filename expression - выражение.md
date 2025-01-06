@@ -1,6 +1,3 @@
 # Expression - выражение
 
-
-
-
 - Face expression

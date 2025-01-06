@@ -1,8 +1,5 @@
 # liability - обязательство
 
-
-
-
 Here are 4 more simple collocations with "liability" and an example sentence in different tenses with simplified vocabulary:
 
 Collocations:

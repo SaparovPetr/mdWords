@@ -1,8 +1,5 @@
 # Dedicated - специально предназначенный
 
-
-
-
 - dedicated tool
 - dedicated chanel
 - dedicated machine

@@ -1,8 +1,5 @@
 # leverage - использовать
 
-
-
-
 Here are 4 more collocations with "leverage" meaning "to use":
 
 - Leverage skills

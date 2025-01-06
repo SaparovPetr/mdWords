@@ -1,8 +1,5 @@
 # Breakdown - крах
 
-
-
-
 - Full breakdown
 
 I had breakdown in the Sheregesh with a snowboard.

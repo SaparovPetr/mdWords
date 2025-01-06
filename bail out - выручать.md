@@ -1,8 +1,5 @@
 # Bail out - выручать
 
-
-
-
 - Bail out in a hard time
 - Bail out from natural disaster
 
@@ -17,6 +14,6 @@ Could you bail out me? Give me an advance.
 - **Present Perfect**: They have had to bail out several companies to avoid economic collapse.
 - **Past Simple**: The government bailed out the struggling airline last year.
 - **Past Continuous**: The organization was bailing out local businesses during the economic downturn.
-- **Past Perfect**: By the time the crisis hit, they had already bailed out multiple pension funds. 
+- **Past Perfect**: By the time the crisis hit, they had already bailed out multiple pension funds.
 
 This term is commonly associated with financial aid and support, especially in times of crisis.

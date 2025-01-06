@@ -1,6 +1,3 @@
 # Position - ситуация
 
-
-
-
 - unlikeable position

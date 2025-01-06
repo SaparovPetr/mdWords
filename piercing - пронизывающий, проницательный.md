@@ -1,8 +1,5 @@
 # Piercing - пронизывающий, проницательный
 
-
-
-
 - piercing wind
 - piercing sound
 

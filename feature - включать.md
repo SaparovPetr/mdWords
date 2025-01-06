@@ -1,8 +1,5 @@
 # feature - включать
 
-
-
-
 Here are 4 more popular collocations with the phrase "feature" without translation:
 
 Present Perfect:

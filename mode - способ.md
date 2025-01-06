@@ -1,8 +1,5 @@
 # Mode - способ
 
-
-
-
 - mode of existence
 - Mode of upbringing
 - Mode of management

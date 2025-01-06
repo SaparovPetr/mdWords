@@ -1,8 +1,5 @@
 # Stay tuned - следить за новостями
 
-
-
-
 Here are 4 more popular collocations with the phrase "stay tuned":
 
 - stay tuned for more

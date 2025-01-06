@@ -1,8 +1,5 @@
 # Bring up - воспитывать
 
-
-
-
 - bring up children
 - Bring up a conscience
 

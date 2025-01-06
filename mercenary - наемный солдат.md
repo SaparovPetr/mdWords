@@ -1,8 +1,5 @@
 # Mercenary - наемный солдат
 
-
-
-
 Here are 4 more common collocations with "mercenary" without translation:
 
 - mercenary soldier

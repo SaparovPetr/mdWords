@@ -1,8 +1,5 @@
 # Grant - разрешать
 
-
-
-
 - grant to act
 - grant to built
 

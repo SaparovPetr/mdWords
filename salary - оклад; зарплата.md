@@ -1,6 +1,5 @@
 # salary - оклад; зарплата
 
-
 Collocations:
 
 1. monthly salary

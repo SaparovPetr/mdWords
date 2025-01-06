@@ -1,8 +1,5 @@
 # Steady - постоянный
 
-
-
-
 - steady problems
 - steady girl
 - steady job

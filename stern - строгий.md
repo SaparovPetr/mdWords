@@ -1,8 +1,5 @@
 # Stern - строгий
 
-
-
-
 - stern deadline
 - stern rule
 - Stern law

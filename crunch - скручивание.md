@@ -1,6 +1,3 @@
 # Crunch - скручивание
 
-
-
-
 - abdominal crunch

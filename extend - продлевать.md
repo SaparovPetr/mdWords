@@ -1,8 +1,5 @@
 # Extend - продлевать
 
-
-
-
 - extend the lifetime
 - Extend the time of using
 

@@ -1,8 +1,5 @@
 # Accordance - соответствие
 
-
-
-
 - In accordance with a rule
 - In accordance with a report
 

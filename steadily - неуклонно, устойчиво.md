@@ -1,8 +1,5 @@
 # Steadily - неуклонно, устойчиво
 
-
-
-
 - steadily increasing
 - Steadily rising
 - Steadily transforming

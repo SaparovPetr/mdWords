@@ -1,8 +1,5 @@
 # Damp - сырой
 
-
-
-
 - damp dog
 - damp hair
 - damp arm

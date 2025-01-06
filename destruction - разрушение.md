@@ -1,6 +1,3 @@
 # Destruction - разрушение
 
-
-
-
 - building destruction

@@ -1,8 +1,5 @@
 # Skid - скользить
 
-
-
-
 - skid on ice
 - Skid on the floor
 

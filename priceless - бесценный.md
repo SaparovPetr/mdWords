@@ -1,8 +1,5 @@
 # priceless - бесценный
 
-
-
-
 - priceless necklace
 - Priceless remembering
 - Priceless experience

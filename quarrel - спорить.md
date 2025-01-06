@@ -1,8 +1,5 @@
 # Quarrel - спорить
 
-
-
-
 - Quarrel about reasons
 - Quarrel with wife
 

@@ -1,8 +1,5 @@
 # Conform - подтверждать
 
-
-
-
 Here are 4 more common collocations with "conform" without translation:
 
 - conform to standards

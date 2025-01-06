@@ -1,8 +1,5 @@
 # Fussy - придирчивый
 
-
-
-
 - fussy customer
 - Fussy guest
 

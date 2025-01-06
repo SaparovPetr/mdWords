@@ -1,8 +1,5 @@
 # Manufacture - производить
 
-
-
-
 Here are 4 popular collocations with "manufacture" meaning to produce/make:
 
 1. Manufacture products - The company manufactures electronic products.

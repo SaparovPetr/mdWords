@@ -1,8 +1,5 @@
 # Faintly - слабо
 
-
-
-
 - faintly blow
 - faintly jab
 - faintly lamp lighting

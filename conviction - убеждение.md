@@ -1,8 +1,5 @@
 # Conviction - убеждение
 
-
-
-
 - deep conviction
 - Old conviction
 

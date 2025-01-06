@@ -1,8 +1,5 @@
 # Bilateral - двухсторонний
 
-
-
-
 France and Germany have signed a bilateral agreement to help prevent drug smuggling.
 
 Here are 4 more popular collocations with the word "bilateral" in the meaning двухсторонний:

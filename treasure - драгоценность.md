@@ -1,6 +1,3 @@
 # Treasure - драгоценность
 
-
-
-
 - family treasure

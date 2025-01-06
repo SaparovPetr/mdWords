@@ -1,8 +1,5 @@
 # Sensible - чувствительный
 
-
-
-
 - Sensible tooth
 - Sensible gum
 

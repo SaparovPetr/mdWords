@@ -1,8 +1,5 @@
 # Myriad - несметное число
 
-
-
-
 Here are 4 more collocations with "myriad" and example sentences in different tenses:
 
 Collocations:

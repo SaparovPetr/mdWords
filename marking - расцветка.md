@@ -1,8 +1,5 @@
 # Marking - расцветка
 
-
-
-
 - vivid marking
 - Shrill marking
 

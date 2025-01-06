@@ -1,6 +1,3 @@
 # Endless - бесконечный
 
-
-
-
-* Endless way* Endless road
+- Endless way\* Endless road

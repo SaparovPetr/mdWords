@@ -1,8 +1,5 @@
 # Complaint - заболевание
 
-
-
-
 - throat complaint
 - Back complaint
 - Serious complaint

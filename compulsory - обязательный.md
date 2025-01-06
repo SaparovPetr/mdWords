@@ -7,8 +7,6 @@
 3. Compulsory vaccination - обязательная вакцинация
 4. Compulsory insurance - обязательная страховка
 
-
-
 - Present Perfect: I have completed all the compulsory coursework for my degree.
 - Past Simple: She realized she had missed a compulsory meeting last week.
 - Past Continuous: The students were complaining about the compulsory reading assignment during class yesterday.

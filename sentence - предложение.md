@@ -1,8 +1,5 @@
 # sentence - предложение
 
-
-
-
 Here are 4 more simple collocations with "sentence" and an example sentence in different tenses with simplified vocabulary:
 
 Collocations:

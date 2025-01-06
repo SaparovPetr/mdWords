@@ -1,6 +1,3 @@
 # Spectacles - очки
 
-
-
-
 - pink spectacles

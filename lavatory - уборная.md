@@ -1,6 +1,5 @@
 # lavatory - уборная
 
-
 Collocations:
 
 1. public lavatory

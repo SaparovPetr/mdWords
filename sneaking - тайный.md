@@ -1,8 +1,5 @@
 # Sneaking - тайный
 
-
-
-
 - sneacking desire
 - Sneacking feelings
 - Sneacking visit

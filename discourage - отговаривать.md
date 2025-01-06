@@ -1,8 +1,5 @@
 # discourage - отговаривать
 
-
-
-
 Here are 4 more popular collocations with the word "discourage" meaning to persuade against something:
 
 - Discourage bad behavior

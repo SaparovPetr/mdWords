@@ -1,8 +1,5 @@
 # Disposal - избавление
 
-
-
-
 - disposal of rubbish
 - Disposal of waste
 - Disposal of useless things

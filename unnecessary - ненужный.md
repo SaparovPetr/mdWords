@@ -1,8 +1,5 @@
 # Unnecessary - ненужный
 
-
-
-
 - Unnecessary disagreement
 - Unnecessary leavings
 - Unnecessary junk

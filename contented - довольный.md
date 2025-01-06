@@ -1,6 +1,3 @@
-# contented -  довольный
-
-
-
+# contented - довольный
 
 she looks contented.

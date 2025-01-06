@@ -1,8 +1,5 @@
 # Take over - брать верх ( побеждать)
 
-
-
-
 - take over competitors
 - Take over the enemy
 

@@ -1,6 +1,3 @@
 # Supporter - сторонник
 
-
-
-
 - confirmed supporter

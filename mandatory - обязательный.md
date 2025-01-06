@@ -1,8 +1,5 @@
 # Mandatory - обязательный
 
-
-
-
 - Education is mandatory
 - mandatory condition
 - Mandatory subject

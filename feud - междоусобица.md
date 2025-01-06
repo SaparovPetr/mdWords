@@ -1,6 +1,3 @@
 # Feud - междоусобица
 
-
-
-
 - medieval feud

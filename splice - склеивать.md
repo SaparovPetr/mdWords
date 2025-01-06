@@ -1,8 +1,5 @@
 # Splice - склеивать
 
-
-
-
 Here are 4 more collocations with "splice" and examples in different tenses:
 
 Collocations:

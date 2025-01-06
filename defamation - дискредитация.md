@@ -1,8 +1,5 @@
 # Defamation - дискредитация
 
-
-
-
 Here are 4 more common collocations with "defamation" without translation:
 
 - defamation of character

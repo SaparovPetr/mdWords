@@ -1,6 +1,5 @@
 # Exile - изгнанник
 
-
 - political exiles
 
 #### Definition of Exile

@@ -1,8 +1,5 @@
 # Farther - дальше
 
-
-
-
 Here are 4 common collocations with the word "farther":
 
 1. Go farther - идти дальше

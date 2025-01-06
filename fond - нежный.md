@@ -1,8 +1,5 @@
 # Fond - нежный
 
-
-
-
 - fond kiss
 - fond attitude
 

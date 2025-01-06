@@ -1,8 +1,5 @@
 # Charge - стремительно атаковать
 
-
-
-
 - charged by enemy
 
 He was charged by a dog.

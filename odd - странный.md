@@ -1,8 +1,6 @@
 # Odd - странный
 
-
-
-- odd man 
+- odd man
 - Odd behavior
 - Odd name
 

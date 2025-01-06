@@ -5,7 +5,6 @@
 - Propagate a hoax
 - Hoax designed to spread fear
 
-
 Present Perfect: The journalist has uncovered the propaganda as a political hoax.
 
 Past Simple: Many people fell victim to the email hoax and gave away personal information.

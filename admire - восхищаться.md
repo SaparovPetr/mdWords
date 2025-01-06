@@ -1,8 +1,5 @@
 # Admire - восхищаться
 
-
-
-
 Here are 4 popular English collocations with the word "admire" meaning to admire or be impressed by someone or something:
 
 1. admire someone's talent/skill/work - He admires her musical talent.

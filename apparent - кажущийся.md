@@ -1,8 +1,5 @@
 # Apparent - кажущийся
 
-
-
-
 - Apparent indifference
 - Apparent success
 - Apparent calmness

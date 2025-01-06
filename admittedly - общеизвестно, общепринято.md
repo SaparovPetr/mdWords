@@ -1,8 +1,5 @@
 # Admittedly - общеизвестно, общепринято
 
-
-
-
 - it's admittedly.
 
 Here are 4 more popular collocations with the phrase "admittedly" meaning "общеизвестно":

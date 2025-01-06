@@ -1,8 +1,5 @@
 # Shortly - скоро
 
-
-
-
 She had read the book and was asleep shortly.
 
 I will complete it shortly.

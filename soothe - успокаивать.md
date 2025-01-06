@@ -1,6 +1,4 @@
-
 - soothe the baby
-
 
 1. Soothe someone's pain - утешить чью-то боль
 2. Soothe a crying baby - успокоить плачущего ребенка

@@ -1,8 +1,5 @@
 # Delight - удовольствие
 
-
-
-
 - read with delight
 - Meet with delight
 

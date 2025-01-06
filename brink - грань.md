@@ -1,7 +1,4 @@
-# brink  - грань
-
-
-
+# brink - грань
 
 I think you meant to ask about the word "brink" instead of "bring". Here are 4 common collocations with "brink":
 

@@ -1,6 +1,5 @@
 # obliged - обязанный
 
-
 Collocations:
 
 1. financial obligations
@@ -15,4 +14,3 @@ Examples:
 
 - Present Perfect: The company has fulfilled its tax obligations for the first quarter.
 - Past Simple: After the divorce, he had new obligations as a single father.
-

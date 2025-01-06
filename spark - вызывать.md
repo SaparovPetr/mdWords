@@ -1,13 +1,11 @@
 # Spark - вызывать
 
-
 - spark the domino effect
 - spark the reaction
 - Spark the desaster
 - spark the problems
 - Spark debates
 - Spark criticism
-
 
 1. Spark interest (возбуждать интерес) - это означает, что что-то вызывает интерес у людей или пробуждает их любопытство.
 

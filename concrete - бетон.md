@@ -1,8 +1,5 @@
 # Concrete - бетон
 
-
-
-
 - skate park of concrete
 - Concrete skatepark
 

@@ -1,8 +1,5 @@
 # Eagerness - рвение, стремление
 
-
-
-
 I like her eagerness to learning.
 
 Collocations:

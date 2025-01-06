@@ -1,8 +1,5 @@
 # Get across - донести
 
-
-
-
 - get across the opinion
 
 • get a point across
@@ -16,7 +13,7 @@
 Present Perfect:
 She has gotten her concerns about the project across to the team.
 
-Past Simple: 
+Past Simple:
 He got the instructions across clearly to the new employees.
 
 Past Continuous:

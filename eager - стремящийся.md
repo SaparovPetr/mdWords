@@ -1,11 +1,9 @@
 # eager - стремящийся
 
-
 - Eager to please
 - Eager to learn
 - Eagerly waiting
 - Eager anticipation
-
 
 Present Perfect:
 

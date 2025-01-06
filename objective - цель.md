@@ -1,8 +1,5 @@
 # Objective - цель
 
-
-
-
 Here are 4 common collocations using "objective" to mean "goal" or "aim":
 
 1. Primary objective - The main goal.

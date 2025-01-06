@@ -1,6 +1,3 @@
 # Shrill - пронзительный
 
-
-
-
 - shrill sound

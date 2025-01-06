@@ -1,8 +1,5 @@
 # Witty - остроумный
 
-
-
-
 - Witty joke
 - Witty gay
 - Witty quote

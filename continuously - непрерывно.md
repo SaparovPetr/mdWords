@@ -1,8 +1,5 @@
 # Continuously - непрерывно
 
-
-
-
 - produce continuously
 - work continuously
 

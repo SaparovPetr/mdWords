@@ -1,8 +1,5 @@
 # Rather - лучше
 
-
-
-
 1. Rather than - вместо того, чтобы
 
 2. Would rather - предпочел бы

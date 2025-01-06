@@ -1,8 +1,5 @@
 # Mundane - обыденный
 
-
-
-
 1. Mundane tasks - обыденные задачи
 
 2. Mundane job - скучная работа

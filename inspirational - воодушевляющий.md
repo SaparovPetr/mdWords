@@ -1,8 +1,5 @@
 # Inspirational - воодушевляющий
 
-
-
-
 - inspirational speech
 - Inspirational example
 

@@ -1,10 +1,8 @@
 It's questionable but okey.
 
-
-
 Collocations:
 
-- questionable behavior 
+- questionable behavior
 - questionable practices
 - questionable methods
 - questionable decisions
@@ -14,14 +12,14 @@ Collocations:
 
 Examples:
 
-Present Perfect: 
+Present Perfect:
 The business has made questionable claims about its products before.
 
-Past Simple: 
+Past Simple:
 He made extra income through questionable means.
 
 Past Continuous:
-The scientist was using questionable methods that compromised her research.  
+The scientist was using questionable methods that compromised her research.
 
 Past Perfect:  
 The jury remained unconvinced, as the witness had relied on questionable sources.

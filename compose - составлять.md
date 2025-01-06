@@ -1,8 +1,5 @@
 # Compose - составлять
 
-
-
-
 - composed from members
 - Composed from warriors
 

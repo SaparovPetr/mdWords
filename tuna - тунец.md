@@ -1,6 +1,5 @@
 # tuna - тунец
 
-
 1. canned tuna
 2. fresh tuna
 3. raw tuna
@@ -8,7 +7,6 @@
 5. tuna steaks
 6. tuna fish
 7. bluefin tuna
-
 
 Examples:
 

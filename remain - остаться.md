@@ -1,8 +1,5 @@
 # Remain - остаться
 
-
-
-
 - remain of friends
 - Remain without job
 

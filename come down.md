@@ -1,8 +1,5 @@
 # Come down
 
-
-
-
 Come down - спускаться
 
 🏂Come down from peack of mountain.

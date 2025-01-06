@@ -1,6 +1,5 @@
 # take over - брать верх
 
-
 1. take over the reins
 2. take over the business
 3. take over the company

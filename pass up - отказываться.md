@@ -1,8 +1,5 @@
 # Pass up - отказываться
 
-
-
-
 - pass up of medicines.
 
 She passed up of pills.

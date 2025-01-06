@@ -1,8 +1,5 @@
 # Impose - навязывать
 
-
-
-
 - Impose an opinion
 - Impose a point of view
 - Impose government

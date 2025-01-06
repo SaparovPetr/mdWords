@@ -1,8 +1,5 @@
 # Go in for - увлекаться
 
-
-
-
 - go in for running
 
 She went in for tennis.

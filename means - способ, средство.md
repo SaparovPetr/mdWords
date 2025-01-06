@@ -1,8 +1,5 @@
 # Means - способ, средство
 
-
-
-
 - means of creating
 - means of remembering
 - Means of payment

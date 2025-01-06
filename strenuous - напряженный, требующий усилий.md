@@ -1,8 +1,5 @@
 # strenuous - напряженный, требующий усилий
 
-
-
-
 Here are 4 more collocations with "strenuous":
 
 - Strenuous exercise

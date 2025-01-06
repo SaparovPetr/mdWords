@@ -1,6 +1,3 @@
 # Identical - одинаковый
 
-
-
-
 - Identical kids

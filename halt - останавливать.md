@@ -1,7 +1,5 @@
 # Halt - останавливать
 
-
-
 - halt move
 - halt on the road
 

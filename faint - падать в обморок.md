@@ -1,12 +1,9 @@
 # faint - падать в обморок
 
-
 1. Faint from exhaustion
 2. Faint with fever
 3. Faint from hunger
 4. Faint due to shock
-
-
 
 Present Perfect:
 

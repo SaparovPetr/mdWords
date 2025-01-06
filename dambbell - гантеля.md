@@ -1,8 +1,5 @@
 # Dambbell - гантеля
 
-
-
-
 Here are 4 collocations with "dumbbell" and example sentences using different verb tenses:
 
 Collocations:

@@ -1,8 +1,5 @@
 # Faint - слабый
 
-
-
-
 - faint light
 - Faint ray
 - faint smile

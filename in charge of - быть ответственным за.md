@@ -1,8 +1,5 @@
 # In charge of - быть ответственным за
 
-
-
-
 Here are 4 more common collocations with "in charge of" without translation:
 
 - in charge of the project

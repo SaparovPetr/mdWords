@@ -1,8 +1,5 @@
 # Fair - порядочный
 
-
-
-
 - fair amount of time
 - Fair amount of money
 

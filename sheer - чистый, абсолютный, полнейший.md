@@ -1,8 +1,5 @@
 # Sheer - чистый, абсолютный, полнейший
 
-
-
-
 - sheer hanny
 - Sheer fun
 - sheer idiot

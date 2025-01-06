@@ -1,8 +1,5 @@
 # Fold - складывать
 
-
-
-
 - fold the paper
 - Fold the origami
 - Fold in half

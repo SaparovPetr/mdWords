@@ -1,8 +1,5 @@
 # Strengthen - укреплять
 
-
-
-
 The two countries have signed several bilateral agreements over the years to strengthen their economic ties.
 
 Here are 4 more popular collocations with the word "strengthen":

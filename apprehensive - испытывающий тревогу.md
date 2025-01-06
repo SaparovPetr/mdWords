@@ -1,8 +1,5 @@
 # apprehensive - испытывающий тревогу
 
-
-
-
 - apprehensive person
 - apprehensive parent
 

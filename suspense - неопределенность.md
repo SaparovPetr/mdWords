@@ -1,8 +1,5 @@
 # Suspense - неопределенность
 
-
-
-
 - feel suspense
 - Suspense time
 

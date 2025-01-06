@@ -1,8 +1,5 @@
 # Generous - щедрый
 
-
-
-
 1. Generous donation - Щедрое пожертвование
 
 2. Generous tip - Щедрая чаевая

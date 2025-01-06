@@ -1,8 +1,5 @@
 # Obey - повиноваться
 
-
-
-
 - Obey the rule
 - Obey somebody
 

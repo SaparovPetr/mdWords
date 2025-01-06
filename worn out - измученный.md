@@ -1,8 +1,5 @@
 # Worn out - измученный
 
-
-
-
 - worn-out the boredom
 
 You look worn out.

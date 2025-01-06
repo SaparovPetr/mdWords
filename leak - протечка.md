@@ -1,8 +1,5 @@
 # Leak - протечка
 
-
-
-
 - water Leak
 - Gas leak
 

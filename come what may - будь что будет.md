@@ -1,6 +1,5 @@
 # Come what may - будь что будет
 
-
 - come what may with that problem
 
 1. Come what may attitude - Настрой "будь что будет"

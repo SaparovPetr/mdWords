@@ -1,8 +1,5 @@
 # Decay - разрушаться
 
-
-
-
 - decayded wall
 - make decay
 - Bridge was decayded

@@ -1,6 +1,3 @@
 # Astonishing - поразительный
 
-
-
-
 - astonishing face

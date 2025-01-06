@@ -1,6 +1,5 @@
 # Bonnet - капот
 
-
 Cats love sleep at car's bonnets
 
 Collocations:

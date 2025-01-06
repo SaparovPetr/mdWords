@@ -1,8 +1,5 @@
 # Suspend - приостанавливать
 
-
-
-
 - Suspend an entrance
 - Suspend a moving
 - Suspend a traffic

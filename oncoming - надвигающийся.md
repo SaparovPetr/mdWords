@@ -1,8 +1,6 @@
 # Oncoming - надвигающийся
 
-
 - Oncoming thunderstorm
-
 
 1. Oncoming traffic - Надвигающийся транспорт
 

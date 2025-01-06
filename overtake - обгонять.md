@@ -15,9 +15,6 @@
 - Past Continuous: They were overtaking each other throughout the entire race. (Они обгоняли друг друга на протяжении всей гонки.)
 - Past Perfect: By the time I caught up with them, they had already overtaken the slow-moving vehicle. (К тому моменту, когда я догнал их, они уже обогнали медленно движущееся транспортное средство.)
 
-
-
-
 1. Overtake with emotion - He was overtaken with joy when he heard the news.
 
 2. Overtake the competition - Our company overtook the competition with superior products.

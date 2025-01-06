@@ -1,8 +1,5 @@
 # Intently - внимательно
 
-
-
-
 - Hear intently
 - Follow intently
 - Outlook intently

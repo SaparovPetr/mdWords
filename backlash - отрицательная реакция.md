@@ -1,7 +1,4 @@
-# backlash -  отрицательная реакция
-
-
-
+# backlash - отрицательная реакция
 
 Here are 4 more popular collocations with the phrase "backlash":
 

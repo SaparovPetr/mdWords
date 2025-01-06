@@ -1,8 +1,5 @@
 # Strainer - сито
 
-
-
-
 Here are 4 popular collocations with "strainer" meaning sieve:
 
 1. pasta strainer

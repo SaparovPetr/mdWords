@@ -1,8 +1,5 @@
 # Get along - справляться
 
-
-
-
 How do you get along with your homework?
 
 We can get along with this issues!

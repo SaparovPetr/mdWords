@@ -1,8 +1,5 @@
 # From the sidelines - со стороны
 
-
-
-
 Here are 4 more popular collocations with the phrase "from the sidelines":
 
 - watch from the sidelines

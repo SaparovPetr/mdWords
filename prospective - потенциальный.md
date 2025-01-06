@@ -1,6 +1,3 @@
 # Prospective - потенциальный
 
-
-
-
 - prospective increase

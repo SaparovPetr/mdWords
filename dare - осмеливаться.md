@@ -1,8 +1,5 @@
 # Dare - осмеливаться
 
-
-
-
 - dare to stunt
 - dare to drop down on skateboard
 

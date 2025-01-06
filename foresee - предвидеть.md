@@ -1,8 +1,5 @@
 # foresee - предвидеть
 
-
-
-
 Admittedly, I did not foresee how popular the product would become.
 
 Here are 4 more popular collocations with the word "foresee" meaning to predict or see in advance:

@@ -1,8 +1,5 @@
 # Charitable - благотворительный
 
-
-
-
 The phrase "charitable" in the meaning: благотворительный.
 
 4 simple and popular collocations with "charitable":

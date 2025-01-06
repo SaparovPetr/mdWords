@@ -1,8 +1,5 @@
 # Keep on - продолжать
 
-
-
-
 - keep on the moving
 - Keep on the rithm
 

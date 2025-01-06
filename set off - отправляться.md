@@ -1,7 +1,4 @@
-# Set off  - отправляться
-
-
-
+# Set off - отправляться
 
 - set off to the trip
 - set off to home

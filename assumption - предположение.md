@@ -1,8 +1,5 @@
 # Assumption - предположение
 
-
-
-
 - make an assumption
 - brave assumption
 - mere assumption

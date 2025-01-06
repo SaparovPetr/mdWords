@@ -1,7 +1,5 @@
 # Prompt - подсказывать
 
-
-
 Could you prompt me answer for that task?
 
 Collocations with "prompt":

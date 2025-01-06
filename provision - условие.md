@@ -1,8 +1,5 @@
 # Provision - условие
 
-
-
-
 - accept plan with a provision
 
 Provision about a labor condition.

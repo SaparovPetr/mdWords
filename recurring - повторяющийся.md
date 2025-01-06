@@ -1,8 +1,5 @@
 # Recurring - повторяющийся
 
-
-
-
 - recurring dream
 - Recurring chore
 - Recurring routine

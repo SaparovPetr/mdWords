@@ -1,11 +1,9 @@
 # Carry on - продолжать
 
-
 - carry on exercise
-- Carry on efforts 
+- Carry on efforts
 
 We must carry on our efforts.
-
 
 • carry on with
 • carry on regardless

@@ -1,8 +1,5 @@
 # affable - приветливый
 
-
-
-
 Here are 4 more collocations with "affable" and example sentences in different tenses:
 
 Collocations:

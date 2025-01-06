@@ -1,8 +1,5 @@
 # thorough - тщательный
 
-
-
-
 Here are 4 common collocations with "thorough":
 
 - a thorough investigation

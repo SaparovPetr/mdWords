@@ -1,8 +1,5 @@
 # muddy - грязный
 
-
-
-
 Here are 4 more popular collocations with the word "muddy" meaning dirty:
 
 - Muddy boots

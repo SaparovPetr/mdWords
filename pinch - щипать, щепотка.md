@@ -1,8 +1,5 @@
 # pinch - щипать, щепотка
 
-
-
-
 Here are 4 more popular collocations with the word "pinch" meaning to squeeze something tightly:
 
 - Pinch someone's cheek

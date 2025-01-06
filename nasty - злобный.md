@@ -1,8 +1,5 @@
 # Nasty - злобный
 
-
-
-
 ## Collocations with "Nasty" (злобный):
 
 1. Nasty temper - злобный характер

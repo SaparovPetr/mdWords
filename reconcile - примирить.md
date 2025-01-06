@@ -1,8 +1,5 @@
 # Reconcile - примирить
 
-
-
-
 Here are 4 more collocations with "reconcile" and example sentences in different tenses:
 
 Collocations:

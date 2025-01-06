@@ -1,8 +1,5 @@
 # Coil - спираль
 
-
-
-
 - Coil stair
 
 This type of pasta has a coil form.

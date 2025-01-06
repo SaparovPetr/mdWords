@@ -1,8 +1,5 @@
 # Devour - пожирать
 
-
-
-
 - devour donats
 - Devour sweetness
 

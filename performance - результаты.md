@@ -1,8 +1,5 @@
 # Performance - результаты
 
-
-
-
 - performance of the competition
 - Swimming competition performance
 

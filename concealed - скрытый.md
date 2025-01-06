@@ -8,7 +8,6 @@
 
 The biggest part of the iceberg was concealed under water.
 
-
 Collocations:
 
 - Concealed weapon

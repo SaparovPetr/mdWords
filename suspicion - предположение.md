@@ -1,8 +1,5 @@
 # suspicion - предположение
 
-
-
-
 Here are 4 more popular collocations with the phrase "suspicion" without translation:
 
 1. arouse suspicion

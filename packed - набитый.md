@@ -1,8 +1,5 @@
 # Packed - набитый
 
-
-
-
 - packed traincar
 
 Here are 4 additional popular collocations with "packed":

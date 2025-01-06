@@ -1,8 +1,5 @@
 # Excel - преуспевать
 
-
-
-
 Here are 4 more popular collocations with the word "excel":
 
 - excel at sports

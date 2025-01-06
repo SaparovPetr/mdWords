@@ -1,8 +1,5 @@
 # Way - намного
 
-
-
-
 Here are 4 more popular collocations with "way" meaning "much more/far more":
 
 - way better

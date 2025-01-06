@@ -1,8 +1,5 @@
 # Belittle - принижать
 
-
-
-
 - belittle capabilities
 - belittle opinion
 

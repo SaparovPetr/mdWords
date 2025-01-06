@@ -1,6 +1,5 @@
 # disabled - нетрудоспособный
 
-
 • permanently disabled
 • partially disabled
 • physically disabled

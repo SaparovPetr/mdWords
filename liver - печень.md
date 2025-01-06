@@ -1,6 +1,3 @@
 # Liver - печень
 
-
-
-
 - liver disease

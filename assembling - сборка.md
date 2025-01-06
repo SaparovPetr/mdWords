@@ -1,8 +1,5 @@
 # Assembling - сборка
 
-
-
-
 - Assembling of cars
 - Manual assembling
 - Automatically assembling

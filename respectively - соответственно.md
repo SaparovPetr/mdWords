@@ -1,10 +1,5 @@
 # Respectively - соответственно
 
-
-
-
-
-
 1. John and Mary are 20 and 18 years old, respectively. - Джон и Мэри соответственно 20 и 18 лет (буквально "Джон и Мэри имеют возраст 20 и 18 лет соответственно").
 
 2. The winners were awarded gold, silver, and bronze medals, respectively. - Победителям были вручены золотые, серебряные и бронзовые медали соответственно.

@@ -1,8 +1,5 @@
 # Tell off - отчитывать
 
-
-
-
 1. Tell someone off - отчитать кого-либо
 
 2. Get told off - получить выговор

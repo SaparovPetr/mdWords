@@ -1,6 +1,3 @@
 # current - течение
 
-
-
-
 - ocean current

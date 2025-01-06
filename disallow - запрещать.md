@@ -1,8 +1,5 @@
 # Disallow - запрещать
 
-
-
-
 Here are 4 more common collocations with "disallow" without translation:
 
 - disallow certain behavior

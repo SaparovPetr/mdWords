@@ -1,8 +1,5 @@
 # Along the way - по дороге
 
-
-
-
 - along the way to the station
 - Along the way to the shop
 

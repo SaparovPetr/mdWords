@@ -1,8 +1,5 @@
 # Estate - имущество
 
-
-
-
 My estate
 
 - Property estate

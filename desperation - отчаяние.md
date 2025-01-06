@@ -1,8 +1,5 @@
 # Desperation - отчаяние
 
-
-
-
 - Sense of desperation
 - Feel desperation
 - be in desperation

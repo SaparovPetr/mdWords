@@ -1,8 +1,5 @@
 # Succession - череда
 
-
-
-
 - succession of occasions
 
 1. in succession - подряд, один за другим
@@ -13,13 +10,13 @@
 
 4. succession planning - планирование преемственности
 
-1. Succession of events - череда событий
+5. Succession of events - череда событий
 
-2. Hereditary succession - наследственная преемственность
+6. Hereditary succession - наследственная преемственность
 
-3. Apostolic succession - апостольское преемство
+7. Apostolic succession - апостольское преемство
 
-4. Succession to the throne - престолонаследие
+8. Succession to the throne - престолонаследие
 
 Present Perfect:
 

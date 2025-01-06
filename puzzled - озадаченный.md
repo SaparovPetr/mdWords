@@ -1,7 +1,5 @@
 # Puzzled - озадаченный
 
-
-
 What the matter are you so puzzled about?
 
 • deeply puzzled

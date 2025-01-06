@@ -1,8 +1,5 @@
 # Severe - суровый, невыносимый
 
-
-
-
 - Severe winter
 - Severe looking
 - Severe glance

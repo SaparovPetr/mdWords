@@ -1,8 +1,5 @@
 # Override - преодолевать
 
-
-
-
 Here are 4 more collocations with the phrase "override" and example sentences using different tenses:
 
 Collocations:

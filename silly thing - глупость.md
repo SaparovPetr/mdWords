@@ -1,8 +1,5 @@
 # Silly thing - глупость
 
-
-
-
 Don't tell me that silly things.
 
 I have done a silly thing.

@@ -1,8 +1,5 @@
 # Oddly - необычно
 
-
-
-
 - was made oddly
 - oddly behavior
 

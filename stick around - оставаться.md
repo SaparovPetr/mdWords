@@ -1,14 +1,12 @@
 # Stick around - оставаться
 
-
-
-
 - stick around on the place
 - stick around on the hotel
 
 Stick around and you learn something.
 
 Выражение "stick around" в значении "оставаться" используется, когда человек хочет остаться на месте после того, как другие люди ушли. Вот некоторые распространенные словосочетания с "stick around":
+
 1. Stick around after the party - оставаться после вечеринки (буквально "остаться вокруг после вечеринки").
 2. Stick around for a while - оставаться на какое-то время (буквально "остаться рядом на какое-то время").
 3. Stick around and help - оставаться и помочь (буквально "остаться рядом и помочь").

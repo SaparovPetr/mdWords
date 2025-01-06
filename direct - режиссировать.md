@@ -1,11 +1,9 @@
 # Direct - режиссировать
 
-
-
-
 - direct a filmDirect a clip
 
 - Collocations:
+
 1. direct film
 2. direct play
 3. direct movie
@@ -15,6 +13,7 @@
 7. direct production
 
 Examples:
+
 - **Present Perfect**: The acclaimed filmmaker has directed several blockbuster movies.
 - **Past Simple**: She directed a groundbreaking play that challenged societal norms.
 - **Past Continuous**: The veteran director was directing a pivotal scene when the storm interrupted the shoot.

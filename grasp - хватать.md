@@ -1,8 +1,5 @@
 # grasp - хватать
 
-
-
-
 Here are 4 more simple collocations with "grasp" and an example sentence in different tenses with simplified vocabulary:
 
 Collocations:

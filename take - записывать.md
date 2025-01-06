@@ -1,8 +1,5 @@
 # Take - записывать
 
-
-
-
 - Take an inscriptions
 - Take a guest's order
 

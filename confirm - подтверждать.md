@@ -1,8 +1,5 @@
 # Confirm - подтверждать
 
-
-
-
 - confirm by evidence
 - confirm the date
 - Confirm an appointment

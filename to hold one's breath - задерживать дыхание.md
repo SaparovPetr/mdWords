@@ -1,7 +1,4 @@
-# to hold one's breath  -  задерживать дыхание
-
-
-
+# to hold one's breath - задерживать дыхание
 
 Here are 4 more collocations with "to hold one's breath":
 

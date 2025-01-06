@@ -1,8 +1,5 @@
 # Syllable - слог
 
-
-
-
 - Unstressed syllable
 - Short syllable
 

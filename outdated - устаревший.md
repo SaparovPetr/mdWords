@@ -1,8 +1,5 @@
 # Outdated - устаревший
 
-
-
-
 Here are 4 more popular collocations with "outdated" meaning "old-fashioned/obsolete":
 
 - outdated technology

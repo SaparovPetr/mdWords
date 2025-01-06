@@ -1,8 +1,5 @@
 # mighty - могущественный
 
-
-
-
 Here are 4 more popular collocations with the word "mighty":
 
 - Mighty empire

@@ -1,8 +1,5 @@
 # Corollary - следствие
 
-
-
-
 1. Логическое следствие - Logical corollary
 
 2. Неожиданное следствие - Unexpected corollary

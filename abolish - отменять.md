@@ -1,8 +1,5 @@
 # Abolish - отменять
 
-
-
-
 - abolish the flight
 - abolish a concert
 

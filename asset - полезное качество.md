@@ -1,8 +1,5 @@
 # Asset - полезное качество
 
-
-
-
 Here are 4 more popular collocations with the phrase "asset":
 
 - valuable asset

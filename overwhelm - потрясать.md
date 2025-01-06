@@ -1,8 +1,5 @@
 # Overwhelm - потрясать
 
-
-
-
 - Overwhelm by beauty
 - overwhelm by fresh view
 

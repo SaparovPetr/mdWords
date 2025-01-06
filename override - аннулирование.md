@@ -1,8 +1,5 @@
 # Override - аннулирование
 
-
-
-
 Here are 4 more simple and popular collocations with the phrase "override" meaning "annulment" or "cancelation":
 
 1. override a law
@@ -17,7 +14,7 @@ And here are some examples using "override" in different tenses:
 
 Present Perfect: The president has overridden the old law banning certain imports.
 
-Past Simple:The manager overrode the company rule about dress code. 
+Past Simple:The manager overrode the company rule about dress code.
 
 Past Continuous: The pilot was overriding air traffic control's orders when the accident occurred.
 

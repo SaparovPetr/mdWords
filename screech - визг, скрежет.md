@@ -1,8 +1,5 @@
 # Screech - визг, скрежет
 
-
-
-
 - pain screech
 - High screech
 

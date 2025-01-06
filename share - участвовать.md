@@ -1,8 +1,5 @@
 # share - участвовать
 
-
-
-
 Here are 4 more popular collocations with the phrase "share" meaning "to participate" and an example sentence in each tense:
 
 Collocations:

@@ -7,7 +7,6 @@ Collocations:
 - duration of treatment
 - duration of stay
 
-
 Present Perfect:
 
 The duration of the meeting has been 3 hours so far.

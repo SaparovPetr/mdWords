@@ -1,8 +1,5 @@
 # @ Be in awe of - восхищаться
 
-
-
-
 - be in awe of gorgeousness
 
 Словосочетания с выражением "be in awe of" (восхищаться):

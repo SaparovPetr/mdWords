@@ -1,6 +1,3 @@
 # approximate - приблизительный
 
-
-
-
 - approximate calculated

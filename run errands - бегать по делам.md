@@ -1,8 +1,5 @@
 # run errands - бегать по делам
 
-
-
-
 Here are 4 more popular collocations with "run errands":
 
 - run simple errands

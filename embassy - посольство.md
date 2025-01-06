@@ -1,8 +1,5 @@
 # Embassy - посольство
 
-
-
-
 Where is located Russian embassy?
 
 Here are 7 simple and popular collocations with "embassy" and example sentences in different tenses:
@@ -10,22 +7,22 @@ Here are 7 simple and popular collocations with "embassy" and example sentences 
 Embassy collocations:
 
 - Embassy official
-- Embassy statement 
+- Embassy statement
 - Embassy website
 - Embassy letter
 - Embassy cable
-- Embassy personnel 
+- Embassy personnel
 - Embassy attack
 
-Examples:   
+Examples:
 
-Present Perfect: 
+Present Perfect:
 Several countries have closed embassies as a safety precaution.
 
 Past Simple:
-The embassy released a statement condemning the actions of the opposition group.  
+The embassy released a statement condemning the actions of the opposition group.
 
-Past Continuous: 
+Past Continuous:
 Protesters were gathered outside the embassy demanding policy changes.
 
 Past Perfect:  

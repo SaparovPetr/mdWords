@@ -1,8 +1,5 @@
 # Favourable - благоприятный
 
-
-
-
 - favourable environment
 
 Слово "favourable" (благоприятный) часто используется в таких словосочетаниях:

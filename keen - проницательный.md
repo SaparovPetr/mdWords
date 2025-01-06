@@ -1,10 +1,9 @@
 # Keen - проницательный
 
-
 1. keen observer
 2. keen interest
 3. keen senses
- 4. keen insight
+4. keen insight
 
 Present Perfect: She has been a keen student of politics ever since she was young.  
 Past Simple:She was keen to learn more about how the government worked.

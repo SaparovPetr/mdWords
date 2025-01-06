@@ -1,8 +1,5 @@
 # Twitch - дергаться (о лице)
 
-
-
-
 - twitch on convulsions
 - Twitch by eyebrows
 

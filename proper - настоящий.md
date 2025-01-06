@@ -1,8 +1,5 @@
 # Proper - настоящий
 
-
-
-
 - proper job
 - Proper result
 - Proper research

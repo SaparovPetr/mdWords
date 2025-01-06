@@ -1,6 +1,5 @@
 # leisurely - неторопливый
 
-
 - Leisurely stroll
 - Leisurely pace
 - Leisurely lunch

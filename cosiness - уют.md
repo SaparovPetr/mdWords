@@ -1,6 +1,3 @@
 # Cosiness - уют
 
-
-
-
 - home cosiness

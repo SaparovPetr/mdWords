@@ -1,8 +1,5 @@
 # Peculiar - странный
 
-
-
-
 - Peculiar haircut
 - peculiar idea
 - peculiar smell

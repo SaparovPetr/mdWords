@@ -1,8 +1,5 @@
 # Inhibit - сдерживать
 
-
-
-
 - inhibit emotions
 - inhibit the rush
 

@@ -1,8 +1,8 @@
 # Draw - привлекать
 
-
 - draw visitors
 - Draw customers
+
 1. draw attention
 2. draw interest
 3. draw a crowd

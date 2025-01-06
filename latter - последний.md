@@ -1,6 +1,5 @@
 # latter - последний
 
-
 1. the latter part
 2. the latter half
 3. the latter stages

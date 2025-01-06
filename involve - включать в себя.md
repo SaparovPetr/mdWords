@@ -1,8 +1,5 @@
 # Involve - включать в себя
 
-
-
-
 This decision involves many changes.
 
 1. Involve in - вовлекать в, участвовать в

@@ -1,6 +1,5 @@
 # commitment - преданность
 
-
 1. business commitment
 2. emotional commitment
 3. financial commitment

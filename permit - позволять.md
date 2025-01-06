@@ -1,8 +1,5 @@
 # Permit - позволять
 
-
-
-
 - permit signal
 - Permit the movement
 

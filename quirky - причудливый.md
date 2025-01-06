@@ -1,8 +1,5 @@
 # quirky - причудливый
 
-
-
-
 - quirky haircut
 
 Here are 4 more simple collocations with "quirky" and an example sentence in different tenses with simplified vocabulary:

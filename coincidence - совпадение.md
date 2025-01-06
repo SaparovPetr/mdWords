@@ -1,9 +1,6 @@
 # Coincidence - совпадение
 
-
 Coincidence? I don't think!
-
-
 
 1. By coincidence - случайно, совершенно случайно
 2. Coincidence theory - теория случайностей

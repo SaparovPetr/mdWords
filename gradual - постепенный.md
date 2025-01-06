@@ -1,6 +1,3 @@
 # Gradual - постепенный
 
-
-
-
 - Gradual increase

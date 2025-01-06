@@ -1,6 +1,3 @@
 # Youngster - ребенок
 
-
-
-
 - Her youngster

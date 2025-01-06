@@ -1,8 +1,5 @@
 # Reflect upon - размышлять над
 
-
-
-
 1. reflect upon something: размышлять над чем-то
 
 2. reflect upon one's actions: обдумать свои действия

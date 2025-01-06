@@ -1,7 +1,4 @@
-# flow  - недостаток
-
-
-
+# flow - недостаток
 
 Here are 4 more collocations with "flow" in the meaning of "lack":
 

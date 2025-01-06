@@ -1,7 +1,4 @@
-# Leap - скачок,  резкое увеличение
-
-
-
+# Leap - скачок, резкое увеличение
 
 - inflation leap
 - Unemployment leap

@@ -1,8 +1,5 @@
 # Grasp - понять
 
-
-
-
 - grasp the material
 - Grasp the princip
 

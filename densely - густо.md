@@ -1,8 +1,5 @@
 # Densely - густо
 
-
-
-
 - densely growing
 
 1. Densely populated - Плотно населённый

@@ -1,8 +1,5 @@
 # Adjustment - корректировка
 
-
-
-
 - Vision adjustment
 - route adjustment
 

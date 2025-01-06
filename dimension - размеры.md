@@ -1,8 +1,5 @@
 # Dimension - размеры
 
-
-
-
 - measure a dimensions
 - Room dimensions
 - board dimensions

@@ -1,7 +1,5 @@
 # Admit - признавать
 
-
-
 - admit the mistake
 - admit the defeat
 - admit errors

@@ -1,8 +1,5 @@
 # Enclose - вложить
 
-
-
-
 Enclose the pepper into the box.
 
 What sence do you enclose in this picture?

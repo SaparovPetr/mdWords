@@ -1,8 +1,5 @@
 # missile - реактивный снаряд
 
- 
-
-
 missile - реактивный снаряд
 
 Collocations:

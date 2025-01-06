@@ -1,8 +1,5 @@
 # Outskirts - окраина, окрестности
 
-
-
-
 - outskirts of Moscow
 
 1. Outskirts of the city - окраины города

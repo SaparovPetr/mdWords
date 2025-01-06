@@ -1,8 +1,5 @@
 # Overt - очевидно, откровенно, открыто
 
-
-
-
 Here are 4 more collocations with the word "overt":
 
 - Overt hostility

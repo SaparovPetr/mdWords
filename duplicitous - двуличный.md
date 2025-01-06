@@ -1,8 +1,5 @@
 # Duplicitous - двуличный
 
-
-
-
 Here are 4 popular collocations with the word "duplicitous" and example sentences in different tenses:
 
 Collocations:

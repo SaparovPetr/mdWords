@@ -1,8 +1,5 @@
 # Pile-up - столкновение
 
-
-
-
 - pile-up of cars
 - pile-up on the road
 

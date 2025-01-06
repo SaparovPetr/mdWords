@@ -1,4 +1,3 @@
-
 1. alleged crime
 2. alleged perpetrator
 3. alleged incident
@@ -6,7 +5,6 @@
 5. alleged violation
 6. alleged wrongdoing
 7. alleged offense
-
 
 - **Present Perfect**: The police have arrested the alleged mastermind behind the robbery.
 - **Past Simple**: The company denied the alleged claims of unethical practices.

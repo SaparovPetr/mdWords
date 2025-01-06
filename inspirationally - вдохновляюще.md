@@ -1,8 +1,5 @@
 # Inspirationally - вдохновляюще
 
-
-
-
 - art looks inspirationally
 
 Collocations:

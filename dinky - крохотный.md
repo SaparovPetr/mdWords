@@ -1,8 +1,5 @@
 # Dinky - крохотный
 
-
-
-
 - dinky single room
 - dinky hotel
 - dinky baby

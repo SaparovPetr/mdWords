@@ -1,6 +1,3 @@
 # Inside - понимание
 
-
-
-
 - profound inside

@@ -1,6 +1,5 @@
 # Rusty - забытый
 
-
 - rusty book
 - Rusty language
 

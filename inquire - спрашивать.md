@@ -1,8 +1,5 @@
 # Inquire - спрашивать
 
-
-
-
 - Inquire the route
 - Inquire the road.
 

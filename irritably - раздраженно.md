@@ -1,6 +1,5 @@
 # Irritably - раздраженно
 
-
 - irritably looking
 - Irritably chuckle
 

@@ -1,8 +1,5 @@
 # Justice - правосудие
 
-
-
-
 - delivered justice
 - fake justice
 

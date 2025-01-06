@@ -1,8 +1,5 @@
 # recite - читать наизусть
 
-
-
-
 Here are 4 more popular collocations with "recite" meaning "to say or read aloud from memory":
 
 - recite a poem

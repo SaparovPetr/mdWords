@@ -1,6 +1,5 @@
 # Slant - уклон
 
-
 Here are 4 more common collocations with "slant" without translation:
 
 - political slant

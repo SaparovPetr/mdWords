@@ -1,8 +1,5 @@
 # sweep - сметать
 
-
-
-
 Here are 4 more collocations with "sweep" meaning "to brush away":
 
 - Sweep the floor

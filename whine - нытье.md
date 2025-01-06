@@ -1,8 +1,5 @@
 # Whine - нытье
 
-
-
-
 - Child's whine
 - Shrill whine
 - Loud whine

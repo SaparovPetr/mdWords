@@ -1,8 +1,5 @@
 # Try on - примерять
 
-
-
-
 - try on the shoes
 
 You must to try on that T-shirt.

@@ -1,8 +1,5 @@
 # Towards - по направлению к
 
-
-
-
 - towards the door
 - towards the exit
 

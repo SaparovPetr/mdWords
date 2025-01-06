@@ -1,7 +1,4 @@
-# reimbursement  - компенсация
-
-
-
+# reimbursement - компенсация
 
 Here are 4 more popular collocations with "reimbursement":
 

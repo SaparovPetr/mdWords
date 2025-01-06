@@ -1,8 +1,5 @@
 # Considerably - значительно
 
-
-
-
 1. considerably higher/lower - значительно выше/ниже
 
 2. considerably improve - значительно улучшить

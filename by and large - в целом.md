@@ -1,8 +1,5 @@
 # By and large - в целом
 
-
-
-
 By and large I consider that it was a mistake.
 
 Collocations:

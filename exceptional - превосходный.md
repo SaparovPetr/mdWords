@@ -1,8 +1,5 @@
 # Exceptional - превосходный
 
-
-
-
 1. exceptional talent - исключительный талант
 2. exceptional service - превосходное обслуживание
 3. exceptional quality - исключительное качество

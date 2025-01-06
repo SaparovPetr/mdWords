@@ -1,8 +1,5 @@
 # Mend - чинить
 
-
-
-
 "Mend" означает "чинить", "ремонтировать".
 
 Некоторые самые распространенные словосочетания с "mend":
@@ -14,14 +11,18 @@
 
 Примеры предложений в разных временах:
 
-Present Perfect: 
-- I have mended my bike. 
+Present Perfect:
 
-Past Simple: 
+- I have mended my bike.
+
+Past Simple:
+
 - She mended her dress yesterday. (Она починила свое платье вчера.)
 
-Past Continuous: 
+Past Continuous:
+
 - They were mending the roof when it started to rain. (Они чинили крышу, когда начался дождь.)
 
-Past Perfect: 
+Past Perfect:
+
 - By the time he arrived, she had already mended the fence. (К тому времени, когда он прибыл, она уже починила забор.)

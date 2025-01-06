@@ -1,8 +1,5 @@
 # hands-on - вовлеченный
 
-
-
-
 Here are 4 more simple and popular collocations with the phrase "hands-on":
 
 1. hands-on experience

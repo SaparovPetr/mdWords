@@ -1,6 +1,3 @@
 # Circular - круглый
 
-
-
-
 - circular rug

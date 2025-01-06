@@ -1,8 +1,5 @@
 # Pull off - добиваться, осуществлять, исполнять
 
-
-
-
 Here are 4 more colloquial collocations with "pull off":
 
 - pull off a win

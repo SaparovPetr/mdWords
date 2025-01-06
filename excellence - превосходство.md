@@ -1,8 +1,5 @@
 # Excellence - превосходство
 
-
-
-
 - excellence in the fire power
 - Excellence in the intelligence
 

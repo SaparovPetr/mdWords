@@ -1,8 +1,5 @@
 # Show - выражать
 
-
-
-
 - show the dissatisfaction
 - Show the discontent
 - Show the complaint

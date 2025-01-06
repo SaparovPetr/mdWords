@@ -1,8 +1,5 @@
 # Astound - изумлять
 
-
-
-
 - astound by beautiful
 - astound by stupidness
 

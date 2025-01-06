@@ -2,8 +2,6 @@
 
 Tags: Past Continuous, Past Simple, and Past Perfect. Use a simplify vacablurary.
 
-
-
 Here are 4 more collocations with "general practitioner" and an example sentence in different tenses:
 
 Collocations:

@@ -1,8 +1,5 @@
 # Condemnation - приговор
 
-
-
-
 - cruel condemnation
 - Strict condemnation
 - Court condemnation

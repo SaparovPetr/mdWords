@@ -1,6 +1,5 @@
 # Soaking - промокший
 
-
 - soaking dog
 - soaking under the rain
 

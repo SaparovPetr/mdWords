@@ -1,6 +1,5 @@
 # Overcome - преодолевать
 
-
 - Overcome barriers
 - overcome problems
 - Overcome difficulties

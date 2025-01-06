@@ -1,6 +1,3 @@
 # Courgette - кабачек
 
-
-
-
 - conserved courgettes

@@ -1,19 +1,16 @@
 # Graveyard - кладбище
 
-
-
-
 - the old graveyard
 
 3. Pet graveyard - кладбище для животных
 
 4. Deserted graveyard - заброшенное кладбище
 
-2. Abandoned graveyard - заброшенное кладбище
+5. Abandoned graveyard - заброшенное кладбище
 
-3. Pet graveyard - кладбище домашних животных
+6. Pet graveyard - кладбище домашних животных
 
-4. National graveyard - национальное кладбище
+7. National graveyard - национальное кладбище
 
 Примеры:
 

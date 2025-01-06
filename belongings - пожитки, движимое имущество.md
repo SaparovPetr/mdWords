@@ -1,7 +1,4 @@
-# Belongings - пожитки, движимое  имущество
-
-
-
+# Belongings - пожитки, движимое имущество
 
 - Carry out belongings
 - move with belongings

@@ -1,8 +1,5 @@
 # Relay - эстафета
 
-
-
-
 - the relay is a kind of competition
 
 1. relay race - эстафетный бег

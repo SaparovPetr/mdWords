@@ -1,8 +1,5 @@
 # Dash - рывок
 
-
-
-
 - make a dash
 - Last dash
 - Push with dash

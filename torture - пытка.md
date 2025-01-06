@@ -1,8 +1,5 @@
 # Torture - пытка
 
-
-
-
 - sadistic torture
 
 Словосочетания с "torture" в значении "пытка":

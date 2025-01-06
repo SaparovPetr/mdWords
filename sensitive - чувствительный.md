@@ -1,6 +1,3 @@
 # Sensitive - чувствительный
 
-
-
-
 - sensitive question

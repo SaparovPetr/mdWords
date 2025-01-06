@@ -1,9 +1,9 @@
 # Overt - очевидный
+
 - overt signs
 - overt hostility
 - overt discrimination
 - overt threat
-
 
 Present Perfect:
 The company has shown overt favoritism to certain employees.

@@ -1,8 +1,5 @@
 # charge - цена
 
-
-
-
 Here are 4 more simple collocations with "charge" and an example sentence in different tenses with simplified vocabulary:
 
 Collocations:

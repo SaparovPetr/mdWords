@@ -1,8 +1,5 @@
 # Around - неподалеку
 
-
-
-
 There's a little mall around my house. It's called Kachubey.
 
 I will be around.

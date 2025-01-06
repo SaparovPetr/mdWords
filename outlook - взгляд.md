@@ -1,5 +1,4 @@
 # Outlook - взгляд
 
-
-- fresh outlook 
+- fresh outlook
 - We need a fresh outlook on this issue.

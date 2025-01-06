@@ -5,8 +5,6 @@ Here are 4 more simple and popular collocations with "put differently":
 - In other words,
 - That is to say,
 
-
-
 Present Perfect:
 
 I have not seen my friend for several months. Put differently, I have not spent time with her recently.

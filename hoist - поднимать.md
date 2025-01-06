@@ -1,8 +1,5 @@
 # Hoist - поднимать
 
-
-
-
 - hoist baby over head
 - Hoist the flag
 - Hoist the weight

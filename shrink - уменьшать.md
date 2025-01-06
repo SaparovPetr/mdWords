@@ -1,8 +1,5 @@
 # Shrink - уменьшать
 
-
-
-
 - shrink the measure
 - Shrink portions
 

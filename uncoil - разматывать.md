@@ -1,11 +1,5 @@
 uncoil the reel
 
- 
-
-
-
-
-
 promt: uncoil
 
 answer:

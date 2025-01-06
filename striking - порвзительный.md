@@ -1,6 +1,4 @@
 # Striking - порвзительный
 
-
-
-
-- Striking landscapeStriking preciseness
+- Striking landscape
+- Striking preciseness

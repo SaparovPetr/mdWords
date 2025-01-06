@@ -1,6 +1,3 @@
 # Forbidden - запрещённый
 
-
-
-
 - Forbidden act

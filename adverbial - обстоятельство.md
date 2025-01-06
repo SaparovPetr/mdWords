@@ -1,7 +1,4 @@
-# adverbial  - обстоятельство
-
-
-
+# adverbial - обстоятельство
 
 Here are 4 more collocations with "adverbial":
 

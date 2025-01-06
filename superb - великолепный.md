@@ -1,8 +1,5 @@
 # Superb - великолепный
 
-
-
-
 - superb dance
 - Superb ballerina
 

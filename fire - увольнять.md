@@ -1,8 +1,5 @@
 # Fire - увольнять
 
-
-
-
 You are fired!
 
 Here are 4 more popular collocations with the phrase "fire" meaning to dismiss from a job:

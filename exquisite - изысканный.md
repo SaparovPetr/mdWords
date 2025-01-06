@@ -1,14 +1,11 @@
 # exquisite - изысканный
 
-
 - exquisite picture frame
 
-1. Exquisite taste 
+1. Exquisite taste
 2. Exquisite cuisine
 3. Exquisite jewelry
 4. Exquisite beauty
-
-
 
 - Present Perfect: She has bought an exquisite dress for the wedding.
 - Past Simple: He bought an exquisite painting at the auction last week.

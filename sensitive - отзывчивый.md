@@ -1,6 +1,3 @@
 # Sensitive - отзывчивый
 
-
-
-
 - sensitive friend

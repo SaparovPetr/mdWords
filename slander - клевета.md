@@ -1,7 +1,3 @@
-
-
-
-
 Here are 4 more popular collocations with the word "slander":
 
 - spread slander

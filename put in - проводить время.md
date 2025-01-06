@@ -1,12 +1,12 @@
 # Put in - уделять время
 
-
 - put in two hours with book
 - Put in on reading
 
 I put in two hours every day doing exercises.
 
 Collocations:
+
 1. put in effort
 2. put in hours
 3. put in time
@@ -16,6 +16,7 @@ Collocations:
 7. put in dedication
 
 Examples:
+
 - **Present Perfect**: The athlete has put in countless hours of training for the upcoming competition.
 - **Past Simple**: The students put in extra effort to complete the project on time.
 - **Past Continuous**: The team was putting in hard work to meet the deadline.

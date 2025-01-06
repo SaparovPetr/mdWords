@@ -1,8 +1,5 @@
 # Preference - предпочтение
 
-
-
-
 - a have preference for shirts
 - preference for a diplomatic solution
 

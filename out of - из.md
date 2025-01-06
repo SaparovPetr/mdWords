@@ -1,8 +1,5 @@
 # Out of - из
 
-
-
-
 - out of wood
 - Out of metal
 - Out of gold

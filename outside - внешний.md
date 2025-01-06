@@ -1,6 +1,3 @@
 # Outside - внешний
 
-
-
-
 - outside management

@@ -1,8 +1,5 @@
 # sweep - нестись
 
-
-
-
 Here are 4 more collocations with "sweep" meaning "to rush":
 
 - Sweep down the stairs

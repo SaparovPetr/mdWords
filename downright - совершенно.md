@@ -1,8 +1,5 @@
 # Downright - совершенно
 
-
-
-
 - downright right
 - Downright useless
 - downright nude

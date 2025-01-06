@@ -1,8 +1,5 @@
 # Pop out - выскакивать
 
-
-
-
 ## Simple and Popular Collocations with "Pop out" (выскакивать)
 
 1. Pop out of nowhere - suddenly appear, often unexpectedly.

@@ -1,8 +1,5 @@
 # all-importan - крайне важный
 
-
-
-
 Here are 4 more collocations with "all-important":
 
 - All-important deadline

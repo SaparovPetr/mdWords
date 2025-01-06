@@ -1,8 +1,5 @@
 # Roughly - примерно, грубо
 
-
-
-
 - Roughly the same
 - Roughly at five o'clock
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4104639bed9ea8",
+        "id": "41652e1d4b818df5",
         "type": "tabs",
         "children": [
           {
-            "id": "76e63869018ad82a",
+            "id": "feb568ae056fe078",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "addition - дополнение.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "addition - дополнение"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Created",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76e63869018ad82a",
+  "active": "feb568ae056fe078",
   "lastOpenFiles": [
+    "benefit - преимущество.md",
+    "addition - дополнение.md",
     "abolish - отменять.md",
     "abuse - злоупотребление.md",
     "adoption - принятие.md",
@@ -200,8 +197,6 @@
     "take over - брать верх.md",
     "tuna - тунец.md",
     "year - год.md",
-    "sneeze - чихать.md",
-    "translation - перевод.md",
     "Без названия.canvas"
   ]
 }

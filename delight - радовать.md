@@ -1,8 +1,5 @@
 # delight - радовать
 
-
-
-
 Here are 4 more popular collocations with the word "delight":
 
 - Delight in something

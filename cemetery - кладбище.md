@@ -1,6 +1,3 @@
 # Cemetery - кладбище
 
-
-
-
 - old cemetery

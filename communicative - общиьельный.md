@@ -1,6 +1,3 @@
 # Communicative - общиьельный
 
-
-
-
 - communicative person

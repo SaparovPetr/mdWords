@@ -1,8 +1,5 @@
 # Accidentally - случайно
 
-
-
-
 - accidentally met
 - Accidentally broke
 

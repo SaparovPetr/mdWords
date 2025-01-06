@@ -1,6 +1,3 @@
-# tramp -  бродяга
-
-
-
+# tramp - бродяга
 
 - poor tramp

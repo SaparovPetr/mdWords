@@ -1,5 +1,4 @@
-# cautionary  - предупреждающий
-
+# cautionary - предупреждающий
 
 Here are 4 common collocations with "cautionary":
 

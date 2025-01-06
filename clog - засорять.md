@@ -1,8 +1,5 @@
 # Clog - засорять
 
-
-
-
 - Clogged tube
 - Clogged plumbing
 - Clogged canalisation

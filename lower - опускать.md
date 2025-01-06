@@ -1,8 +1,5 @@
 # Lower - опускать
 
-
-
-
 - to lower the bridge arch.
 - To lower on the bottom
 

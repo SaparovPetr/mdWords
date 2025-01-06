@@ -1,6 +1,3 @@
 # Fond - приятный
 
-
-
-
 - fond atmosphere

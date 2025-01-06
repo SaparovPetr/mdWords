@@ -1,8 +1,5 @@
 # run into - встретиться случайн
 
-
-
-
 Here are 4 more simple collocations with "run into" and an example sentence in different tenses with simplified vocabulary:
 
 Collocations:

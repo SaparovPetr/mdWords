@@ -1,8 +1,5 @@
 # Turn up - увеличивать
 
-
-
-
 - Turn up the volume
 - Turn up a gain
 - Turn up resistance

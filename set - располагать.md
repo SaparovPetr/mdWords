@@ -1,6 +1,3 @@
 # Set - располагать
 
-
-
-
 - set camping

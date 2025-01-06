@@ -1,10 +1,7 @@
 # Shrill - кричащий (в значении яркий)
 
-
-
-
 - shrill and vivid socks
-Collocations:
+  Collocations:
 
 1. shrill colors
 2. shrill tones

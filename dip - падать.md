@@ -1,8 +1,5 @@
 # Dip - падать
 
-
-
-
 - prices dipped
 
 Here are 4 more popular collocations with the word "dip" meaning to fall or drop:

@@ -1,8 +1,5 @@
 # Conscious - сознательный
 
-
-
-
 - Conscious violation
 - Conscious breach
 - Conscious violation

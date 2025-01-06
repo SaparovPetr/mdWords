@@ -1,8 +1,5 @@
 # Sane - вменяемый, адекватный
 
-
-
-
 Experts told that criminal is sane.
 
 - Sane cost

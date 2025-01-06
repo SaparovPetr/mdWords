@@ -1,6 +1,3 @@
 # Swallow - глотать
 
-
-
-
 - swallow food

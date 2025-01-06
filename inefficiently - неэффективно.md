@@ -1,8 +1,5 @@
 # Inefficiently - неэффективно
 
-
-
-
 1. Inefficiently designed - Неэффективно спроектированный
 
 2. Inefficiently managed - Неэффективно управляемый

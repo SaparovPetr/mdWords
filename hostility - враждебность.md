@@ -1,8 +1,5 @@
 # hostility - враждебность
 
-
-
-
 Here are 4 more collocations with the word "hostility" meaning animosity or unfriendliness:
 
 1. Open hostility

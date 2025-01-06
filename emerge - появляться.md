@@ -1,8 +1,5 @@
 # Emerge - появляться
 
-
-
-
 Crawny cat emerged on the fence.
 
 Woman emerged in the window.

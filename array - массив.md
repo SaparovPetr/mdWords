@@ -1,8 +1,5 @@
 # array - массив
 
-
-
-
 Here are 4 more collocations with the word "array":
 
 1. Array of data

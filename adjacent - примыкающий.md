@@ -1,7 +1,5 @@
 # adjacent - примыкающий
 
-
-
 Here are 4 more collocations with "adjacent" and example sentences in different tenses:
 
 Collocations:

@@ -1,6 +1,5 @@
 # Knuckle - ударять
 
-
 - knuckle to somebody by fist
 
 Here are 7 collocations with "knuckle" meaning "ударять" and example sentences in different tenses:

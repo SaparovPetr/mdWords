@@ -1,8 +1,5 @@
 # Breed - порождать
 
-
-
-
 - to breed life
 
 1. Breed confidence - порождать уверенность

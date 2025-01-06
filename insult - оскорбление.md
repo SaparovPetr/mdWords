@@ -1,6 +1,3 @@
 # Insult - оскорбление
 
-
-
-
 - serious insult

@@ -1,8 +1,5 @@
 # Blatant - явный
 
-
-
-
 Here are 4 popular collocations with "blatant" and example sentences in different tenses:
 
 Collocations:

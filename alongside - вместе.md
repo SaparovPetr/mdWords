@@ -1,8 +1,5 @@
 # Alongside - вместе
 
-
-
-
 - Work alongside
 
 We walked alongside.

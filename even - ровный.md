@@ -1,8 +1,5 @@
 # Even - ровный
 
-
-
-
 - even floor
 - Even surface
 

@@ -1,8 +1,5 @@
 # Insane - невменяемый, сумасшедший
 
-
-
-
 - clinically insane
 
 Mad and insane are synonyms.

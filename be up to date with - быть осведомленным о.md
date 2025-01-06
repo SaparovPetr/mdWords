@@ -1,12 +1,9 @@
-
-
 Here are 4 more collocations with the phrase "be up to date with":
 
 1. Be informed about
 2. Be aware of
 3. Be knowledgeable about
 4. Be familiar with
-
 
 Present Perfect:
 I've tried to keep up to date with the latest research on effective teaching methods.

@@ -1,6 +1,3 @@
 # Unwelcome - нежелательный
 
-
-
-
 - unwelcome organization

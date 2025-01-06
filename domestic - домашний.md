@@ -1,6 +1,3 @@
 # Domestic - домашний
 
-
-
-
 - domestic pet

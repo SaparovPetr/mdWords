@@ -1,15 +1,13 @@
 # Stand by - поддерживать
 
-
-
-
 Here are 4 collocations with "stand by" and example sentences in different tenses:
 Collocations:
+
 - stand by someone (support someone)
 
-- stand by a decision (continue to support a decision) 
+- stand by a decision (continue to support a decision)
 
- - stand by your beliefs (hold firmly to your beliefs)
+- stand by your beliefs (hold firmly to your beliefs)
 
 - stand by and do nothing (refuse to get involved)
 

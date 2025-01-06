@@ -1,8 +1,5 @@
 # Unsettling - неотложный, тревожащий
 
-
-
-
 - unsettling noise
 - unsettling question
 - Unsettling ring

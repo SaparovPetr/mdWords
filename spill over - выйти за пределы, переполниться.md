@@ -1,8 +1,5 @@
 # Spill over - выйти за пределы, переполниться
 
-
-
-
 - spill over the country
 - Spill over the region
 

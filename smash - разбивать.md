@@ -1,8 +1,5 @@
 # Smash - разбивать
 
-
-
-
 - smash a piggy bank
 - smash a plate
 - smash a heart

@@ -1,8 +1,5 @@
 # Precious - драгоценный
 
-
-
-
 - precious ring
 - precious time
 - precious material

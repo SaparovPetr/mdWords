@@ -1,8 +1,5 @@
 # Equality - равенство
 
-
-
-
 - entitlement equality
 - Racial equality
 - Sexual equality

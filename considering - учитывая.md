@@ -1,8 +1,5 @@
 # Considering - учитывая
 
-
-
-
 - considering circumstances
 - considering facts
 

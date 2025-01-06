@@ -1,8 +1,5 @@
 # Wound - рана
 
-
-
-
 - bloody wound
 
 Here are 4 popular collocations with the word "wound" and example sentences in different verb tenses:

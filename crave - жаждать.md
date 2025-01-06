@@ -1,8 +1,5 @@
 # Crave - жаждать
 
-
-
-
 - crave of water
 
 I crave our meeting.

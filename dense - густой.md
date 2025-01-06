@@ -1,8 +1,5 @@
 # Dense - густой
 
-
-
-
 - dense forest
 - Dense smoke
 - Dense crowd

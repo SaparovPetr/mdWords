@@ -1,6 +1,3 @@
 # Inexplicable - необъяснимый
 
-
-
-
 - inexplicable phenomena

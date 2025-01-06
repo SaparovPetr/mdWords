@@ -1,6 +1,3 @@
 # Closely - тесно
 
-
-
-
 - closely related

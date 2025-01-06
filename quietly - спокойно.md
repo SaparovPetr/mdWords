@@ -1,6 +1,3 @@
 # Quietly - спокойно
 
-
-
-
 - quietly read

@@ -1,8 +1,5 @@
 # Allot - раздавать, распределять
 
-
-
-
 - allot plants
 
 1. to allot time - распределять время

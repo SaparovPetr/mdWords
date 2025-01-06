@@ -1,8 +1,5 @@
 # Upbringing - воспитание
 
-
-
-
 - traditional upbringing
 - children upbringing
 - part of upbringing

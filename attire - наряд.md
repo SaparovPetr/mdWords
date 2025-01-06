@@ -1,8 +1,5 @@
 # attire - наряд
 
-
-
-
 Вот 4 распространенных словосочетания с словом attire и их переводы:
 
 1. formal attire - официальная одежда
@@ -14,7 +11,6 @@
 4. appropriate attire - подходящая одежда
 
 5. Proper attire
-
 
 Present Perfect:
 The bride has chosen a beautiful wedding attire for the ceremony.

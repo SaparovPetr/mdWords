@@ -1,8 +1,5 @@
 # Fascinated - очарованный
 
-
-
-
 - fascinated by her beautiful
 - fascinated by woman
 - Fascinated by girl

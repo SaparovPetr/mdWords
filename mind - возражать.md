@@ -1,8 +1,5 @@
 # Mind - возражать
 
-
-
-
 - Do you mind?
 - do you mind if I take your pen?
 

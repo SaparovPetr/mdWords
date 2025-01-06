@@ -1,8 +1,5 @@
 # Assertive - напористый
 
-
-
-
 - Assertive kid
 - assertive behavior
 - Assertive tone

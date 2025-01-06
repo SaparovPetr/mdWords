@@ -1,8 +1,5 @@
 # Appoint - назначать
 
-
-
-
 - appoint the meeting
 - Appoint on the position
 

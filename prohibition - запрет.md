@@ -1,25 +1,21 @@
 # prohibition - запрет
 
-
-
-
 - prohibition of walking the dog
 - smoking prohibition
 
 He have hated prohibitions.
 
-
- Here are 7 simple and popular collocations with the word "prohibition" meaning "запрет":
+Here are 7 simple and popular collocations with the word "prohibition" meaning "запрет":
 
 1. Impose prohibitions
 2. Defy prohibitions
-3. Violate prohibitions  
+3. Violate prohibitions
 4. Enforce prohibitions
 5. Lift prohibitions
 6. Circumvent prohibitions
 7. Disregard prohibitions
 
-Examples:  
+Examples:
 
 Present Perfect:
 The government has imposed prohibitions on public gatherings.
@@ -37,18 +33,18 @@ Here are 4 more simple and popular collocations:
 
 1. Flout prohibitions
 2. Remove prohibitions
-3. Challenge prohibitions 
+3. Challenge prohibitions
 4. Protest prohibitions
 
 Examples:
 
 Present Perfect:  
-He has flouted prohibitions on free speech. 
+He has flouted prohibitions on free speech.
 
 Past Simple:
 Officials removed prohibitions after reviewing the case.
 
-Past Continuous: 
+Past Continuous:
 Activists were challenging prohibitions in court.
 
 Past Perfect:

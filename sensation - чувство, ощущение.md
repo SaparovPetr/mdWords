@@ -1,8 +1,5 @@
 # Sensation - чувство, ощущение
 
-
-
-
 - sensation of dangerous
 
 Here are 4 common collocations with the word "sensation":

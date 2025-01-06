@@ -1,8 +1,5 @@
 # Snigger - хихикать
 
-
-
-
 - don't snigger at me
 
 I'm afraid the word "snihger" does not seem to be an actual English word. Perhaps you meant "snigger" meaning to laugh in a half-suppressed, typically scornful way?

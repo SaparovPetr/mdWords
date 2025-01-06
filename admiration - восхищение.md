@@ -1,8 +1,5 @@
 # Admiration - восхищение
 
-
-
-
 - true admiration
 - False admiration
 

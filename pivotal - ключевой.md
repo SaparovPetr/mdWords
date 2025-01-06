@@ -1,17 +1,15 @@
 # Pivotal - ключевой
 
-
-
-
 Here are 4 collocations with "pivotal" and example sentences using different verb tenses:
 Collocations:
+
 - pivotal moment
 
 - pivotal role
 
 - pivotal decision
 
- - pivotal point
+- pivotal point
 
 Present Perfect:The election has been a pivotal moment for the country's future.
 Past Simple: The queen played a pivotal role in the negotiations last year.

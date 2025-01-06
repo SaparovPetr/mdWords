@@ -1,8 +1,5 @@
 # luminosity - свечение
 
-
-
-
 Here are 4 more collocations with "luminosity":
 
 - Bright luminosity

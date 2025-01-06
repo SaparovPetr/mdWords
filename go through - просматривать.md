@@ -1,6 +1,5 @@
 # go through - просматривать
 
-
 Here are 4 more collocations with "go through" meaning "to look over":
 
 - Go through paperwork

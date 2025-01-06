@@ -1,6 +1,3 @@
 # Scheduled - регулярный
 
-
-
-
 - scheduled train

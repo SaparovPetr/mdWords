@@ -4,7 +4,6 @@
 - Ominous storm cloud
 - Ominous lough
 
-
 Некоторые распространенные словосочетания с "ominous" в английском языке:
 
 1. Ominous clouds - зловещие облака

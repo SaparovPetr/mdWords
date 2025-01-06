@@ -1,8 +1,5 @@
 # mess up - сделать ошибку
 
-
-
-
 Here are 4 more collocations with "mess up":
 
 - Really mess up

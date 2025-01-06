@@ -1,8 +1,5 @@
 # Assure - уверять
 
-
-
-
 He assured me in his innocent.
 
 Here are 4 more popular collocations with the word "assure" meaning to tell someone something to remove their doubts:

@@ -1,5 +1,4 @@
 # Splatter - брызгать
 
-
-- splatter to each other 
+- splatter to each other
 - I need to splatter!

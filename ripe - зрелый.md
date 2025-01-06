@@ -1,8 +1,5 @@
 # Ripe - зрелый
 
-
-
-
 - ripe cherry
 - Ripe fruit
 

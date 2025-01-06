@@ -1,8 +1,5 @@
 # Keep someone posted - держать в курсе
 
-
-
-
 Самые распространенные словосочетания с "keep someone posted" и их перевод:
 
 1. "Keep me posted" (Держи меня в курсе)

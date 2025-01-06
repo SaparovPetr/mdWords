@@ -1,8 +1,5 @@
 # Parcel - часть
 
-
-
-
 - parcel of cake
 
 1. A parcel of land - Участок земли

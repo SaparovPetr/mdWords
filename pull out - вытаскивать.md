@@ -1,11 +1,11 @@
 # Pull out - вытаскивать
 
-
 - pull out the laptop from the bag
 
 Here are 7 collocations with "pull out" meaning "вытаскивать" and example sentences in different tenses:
 
 Collocations:
+
 - pull out a splinter
 - pull out weeds
 - pull out a tooth

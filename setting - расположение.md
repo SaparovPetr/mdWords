@@ -1,8 +1,5 @@
 # Setting - расположение
 
-
-
-
 I need to know about the setting place of the concert.
 
 Самые распространенные словосочетания с "setting" в значении "расположение" могут быть следующими:

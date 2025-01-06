@@ -1,8 +1,5 @@
 # Assign - поручать
 
-
-
-
 - assign to an inspection
 - Assign to workers
 - assign to subordinate

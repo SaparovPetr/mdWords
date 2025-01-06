@@ -1,8 +1,5 @@
 # Claim - требовать
 
-
-
-
 - claim documents
 - claim money back
 - Claim the compensation

@@ -1,8 +1,5 @@
 # Overstate - преувеличивать
 
-
-
-
 1. Overstate the importance - преувеличивать важность
 
 2. Overstate the benefits - преувеличивать выгоды

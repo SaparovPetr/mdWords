@@ -1,8 +1,5 @@
 # Soar - взлетать
 
-
-
-
 - price soar
 - Aircraft soared quickly
 - sales soared

@@ -1,8 +1,5 @@
 # Satisfactory - удовлетворяющий требованиям
 
-
-
-
 - satisfactory decision
 - satisfactory service
 - satisfactory salary

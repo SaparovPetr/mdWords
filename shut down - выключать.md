@@ -1,8 +1,5 @@
 # Shut down - выключать
 
-
-
-
 - shut down the TV
 - shut down the light
 

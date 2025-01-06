@@ -1,8 +1,5 @@
 # Brass - хамство
 
-
-
-
 - typical brass
 
 Don't angry me by your brass.

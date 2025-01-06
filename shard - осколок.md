@@ -1,8 +1,5 @@
 # Shard - осколок
 
-
-
-
 - Shard of ice
 - shard of stone
 - Shard of glass

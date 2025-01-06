@@ -6,7 +6,6 @@
 - Pose remarks
 - Pose all problems
 
-
 Here are 7 simple and popular collocations with "pose" and example sentences in different tenses:
 
 Collocations:
@@ -22,13 +21,13 @@ Collocations:
 Examples:
 
 Present Perfect:
-The new developments have posed difficulties for the research team.  
+The new developments have posed difficulties for the research team.
 
 Past Simple:
 The criminal's escape posed a danger to the community.
 
-Past Continuous: 
+Past Continuous:
 The journalist was posing tough questions to the minister over the scandal.
 
-Past Perfect: 
+Past Perfect:
 The flooding had posed a major threat to the village before emergency crews arrived.

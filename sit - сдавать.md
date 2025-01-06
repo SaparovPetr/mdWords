@@ -1,8 +1,5 @@
 # sit - сдавать
 
-
-
-
 Here are 4 more popular collocations with the word "sit":
 
 - sit an exam

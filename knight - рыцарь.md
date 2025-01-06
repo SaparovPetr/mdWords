@@ -1,8 +1,5 @@
 # Knight - рыцарь
 
-
-
-
 - artificial knight
 - medieval knight
 - Knight's sword

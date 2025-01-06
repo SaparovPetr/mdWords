@@ -1,8 +1,5 @@
 # Selection - подборка
 
-
-
-
 Here are 4 common collocations with the word "selection":
 
 1. Wide selection

@@ -1,6 +1,5 @@
 # Revoke - аннулировать
 
-
 - Revoke the visa
 - Revoke efforts
 - Revoke an achievement

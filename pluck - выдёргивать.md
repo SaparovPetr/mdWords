@@ -1,8 +1,5 @@
 # Pluck - выдергивать
 
-
-
-
 pluck the eyebrow
 Pluck the hair
 Pluck a flower - сорвать цветок

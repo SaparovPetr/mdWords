@@ -1,8 +1,5 @@
 # Incentive - стимул
 
-
-
-
 - incentive for training
 - financial incentive
 - Increase incentive

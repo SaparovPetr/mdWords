@@ -1,8 +1,5 @@
 # Tame - приручать
 
-
-
-
 - Tame the tiger
 - Tame the pet
 - Tame the wild animal

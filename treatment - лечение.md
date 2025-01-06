@@ -1,6 +1,5 @@
 # Treatment - лечение
 
-
 I know that in this clinic you get a the best treatment.
 
 Collocations:

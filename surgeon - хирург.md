@@ -1,8 +1,5 @@
 # Surgeon - хирург
 
-
-
-
 My grandma was an assistant of  surgeon.
 
 Here are 4 popular collocations with the word "surgeon" and example sentences using different verb tenses:

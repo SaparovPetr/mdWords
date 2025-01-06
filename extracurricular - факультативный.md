@@ -1,8 +1,5 @@
 # Extracurricular - факультативный
 
-
-
-
 - Extracurricular class
 
 So, when universities are considering whether or not to admit applicants into their

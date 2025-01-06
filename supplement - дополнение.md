@@ -1,5 +1,4 @@
-# Supplement -  дополнение
-
+# Supplement - дополнение
 
 - eating supplement
 - food supplement

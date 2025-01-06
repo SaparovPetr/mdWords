@@ -1,8 +1,5 @@
 # Jab - толкать
 
-
-
-
 - jab a car
 - Jab the stone
 

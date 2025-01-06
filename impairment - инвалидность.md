@@ -1,8 +1,5 @@
 # Impairment - инвалидность
 
-
-
-
 Here are 4 more common collocations with "impairment" without translation:
 
 - hearing impairment

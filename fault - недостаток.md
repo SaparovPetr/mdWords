@@ -1,6 +1,3 @@
 # Fault - недостаток
 
-
-
-
 - external faults

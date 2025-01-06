@@ -1,8 +1,5 @@
 # Accomplishment - достижение
 
-
-
-
 - first accomplishment
 - Largest accomplishment
 

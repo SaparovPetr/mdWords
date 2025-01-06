@@ -1,8 +1,5 @@
 # Savage - дикий
 
-
-
-
 - savage pig
 - Savage animal
 

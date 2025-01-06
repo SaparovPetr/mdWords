@@ -1,7 +1,5 @@
 # Desperate - испытывающий острую нужду
 
-
-
 1. Desperate need (отчаянная нужда)
 
 1. Desperate attempt (отчаянная попытка)

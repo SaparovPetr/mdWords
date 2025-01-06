@@ -1,8 +1,5 @@
 # Finely - мелко
 
-
-
-
 - cut finely
 - mince finely
 
@@ -14,9 +11,9 @@ The finely minced garlic.
 
 3. Finely tuned - точно настроенный
 
-3. finely grated - мелко натертый
+4. finely grated - мелко натертый
 
-4. finely diced - мелко нарезанный кубиками
+5. finely diced - мелко нарезанный кубиками
 
 Примеры:
 

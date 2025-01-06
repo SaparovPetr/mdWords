@@ -1,6 +1,3 @@
 # Fairly - справедливо
 
-
-
-
-* To judge fairly
+- To judge fairly

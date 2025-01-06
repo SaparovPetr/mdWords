@@ -1,8 +1,5 @@
 # litter - мусор
 
-
-
-
 Here are 4 more popular collocations with the phrase "litter":
 
 - litter box

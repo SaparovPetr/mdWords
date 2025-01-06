@@ -1,6 +1,3 @@
 # Appliance - устройство
 
-
-
-
-Electric stove is common  appliance.
+Electric stove is common appliance.

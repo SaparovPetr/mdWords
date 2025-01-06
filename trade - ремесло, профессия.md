@@ -1,8 +1,5 @@
 # Trade - ремесло, профессия
 
-
-
-
 - tradeschool
 
 It was my trade, after all.

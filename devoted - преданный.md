@@ -1,8 +1,5 @@
 # Devoted - преданный
 
-
-
-
 - devoted friend
 - devoted dog
 

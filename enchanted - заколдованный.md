@@ -1,6 +1,3 @@
 # Enchanted - заколдованный
 
-
-
-
 - enchanted forest

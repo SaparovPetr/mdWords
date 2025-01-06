@@ -1,6 +1,5 @@
 # Grab - привлечь внимание
 
-
 She grabbed my attention by her look.
 
 • grab attention

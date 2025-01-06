@@ -1,8 +1,5 @@
 # Equal - одинаковый
 
-
-
-
 We both have an equal problem.
 
 Equal containers with lunch.

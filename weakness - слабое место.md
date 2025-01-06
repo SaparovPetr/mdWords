@@ -1,8 +1,6 @@
 # Weakness - слабое место
 
-
 The English grammar is my weakness.
-
 
 Collocations:
 

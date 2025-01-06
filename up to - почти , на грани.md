@@ -1,8 +1,5 @@
 # Up to - почти , на грани
 
-
-
-
 - up to ideal
 - Up to run out
 - Up to limit

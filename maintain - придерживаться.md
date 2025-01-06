@@ -1,10 +1,9 @@
 # maintain - придерживаться
 
-
 The 7 most simple and popular collocations with the phrase "maintain":
 
 - maintain code
-- maintain consistency 
+- maintain consistency
 - maintain standards
 - maintain security
 - maintain compatibility

@@ -1,6 +1,5 @@
 # Insult - оскорблять
 
-
 - insult a someone
 
 That insulted me.

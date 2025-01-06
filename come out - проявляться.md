@@ -1,8 +1,5 @@
 # Come out - проявляться
 
-
-
-
 Symptoms came out several days ago.
 
 She came out well in the last game.

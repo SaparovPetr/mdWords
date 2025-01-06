@@ -1,8 +1,5 @@
 # Prohibit - запрещать
 
-
-
-
 - Prohibit a meeting
 - prohibit by law
 

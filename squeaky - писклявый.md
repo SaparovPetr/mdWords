@@ -1,8 +1,5 @@
 # Squeaky - писклявый
 
-
-
-
 - squeaky voice
 - Squeaky mouse
 

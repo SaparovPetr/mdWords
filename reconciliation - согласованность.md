@@ -1,8 +1,5 @@
 # Reconciliation - согласованность
 
-
-
-
 - reconciliation in decisions
 - Reconciliation in movements
 

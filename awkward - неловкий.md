@@ -1,8 +1,5 @@
 # Awkward - неловкий
 
-
-
-
 - awkward moment
 - Awkward situation
 
@@ -14,7 +11,7 @@
 
 4. Awkward conversation - неловкий разговор
 
-4. Socially awkward - Социально неловкий
+5. Socially awkward - Социально неловкий
 
 Примеры:
 

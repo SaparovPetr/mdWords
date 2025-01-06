@@ -1,6 +1,3 @@
 # Deep - низкий
 
-
-
-
 - Deep voice

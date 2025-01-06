@@ -1,10 +1,7 @@
 # Disrupt - разрушать
 
-
-
-
 - disrupted house
-Collocations:
+  Collocations:
 
 1. disrupt operations
 2. disrupt traffic

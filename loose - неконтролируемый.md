@@ -1,6 +1,3 @@
 # Loose - неконтролируемый
 
-
-
-
 - loose increase

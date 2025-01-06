@@ -1,16 +1,11 @@
 # Facilitator - посредник
 
-
-
-
 Here are 4 more popular collocations with the word "facilitator":
 
 - group facilitator
 - workshop facilitator
 - training facilitator
 - discussion facilitator
-
-
 
 Present Perfect:
 She has worked as a facilitator for team-building workshops over the past few years.

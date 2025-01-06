@@ -1,8 +1,5 @@
 # Long for - очень хотеть
 
-
-
-
 1. Long for love - жаждать любви
 
 2. Long for home - тосковать по дому

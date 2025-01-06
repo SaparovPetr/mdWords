@@ -1,8 +1,5 @@
 # Plainly - невзрачно
 
-
-
-
 - plainly looking
 - Plainly dressed
 

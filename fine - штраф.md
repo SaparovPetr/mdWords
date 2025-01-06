@@ -1,6 +1,5 @@
 # fine - штраф
 
-
 Collocations:
 
 1. traffic fine

@@ -1,8 +1,5 @@
 # Tantrum - приступ гнева, истерика
 
-
-
-
 - Noncontrol tantrum
 - threw a tantrum
 

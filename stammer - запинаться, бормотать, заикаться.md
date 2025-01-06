@@ -1,8 +1,5 @@
 # Stammer - запинаться, бормотать, заикаться
 
-
-
-
 - slowly stammer
 - to have tendency to stummer
 

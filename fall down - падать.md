@@ -1,8 +1,5 @@
 # fall down - падать
 
-
-
-
 Here are 4 more collocations with "fall down":
 
 - Trip and fall down

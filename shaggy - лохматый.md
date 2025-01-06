@@ -1,8 +1,5 @@
 # Shaggy - лохматый
 
-
-
-
 - shaggy haircut
 - Shaggy dog
 - Shaggy girl
@@ -16,20 +13,20 @@ Shaggy collocations:
 - shaggy hair
 - shaggy dog
 - shaggy carpet
-- shaggy brows  
+- shaggy brows
 - shaggy beard
 - shaggy coat
 - shaggy mane
 
 Examples:
 
-Present Perfect: 
+Present Perfect:
 His shaggy hair has grown very long as he hasn't had a haircut in months.
 
 Past Simple:
-The stray dog with a shaggy coat wandered into our yard.  
+The stray dog with a shaggy coat wandered into our yard.
 
-Past Continuous: 
+Past Continuous:
 The sheepdog was looking quite shaggy before his grooming appointment.
 
 Past Perfect:

@@ -1,8 +1,5 @@
 # Disguise - маскировка
 
-
-
-
 - army disguise
 - military disguise
 - green disguise

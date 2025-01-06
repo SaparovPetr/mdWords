@@ -1,8 +1,5 @@
 # facilitate - облегчать
 
-
-
-
 Here are 4 more simple and popular collocations with "facilitate":
 
 - facilitate learning

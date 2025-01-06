@@ -1,6 +1,3 @@
 # Trait - черта
 
-
-
-
 - trait character

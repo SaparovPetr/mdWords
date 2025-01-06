@@ -5,7 +5,6 @@
 
 Leafs were plaummeting on her.
 
-
 1. Stock prices plummet - цены на акции резко падают
 2. Temperatures plummet - температура резко падает
 3. Sales plummet - продажи резко снижаются

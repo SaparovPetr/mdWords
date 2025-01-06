@@ -1,8 +1,5 @@
 # Nasty - мерзкий
 
-
-
-
 - Nasty smell
 - Nasty taste
 - Nasty looking

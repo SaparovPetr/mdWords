@@ -1,8 +1,5 @@
 # substitute - заменять, замещать
 
-
-
-
 - substitute the filter
 - Substitute the server
 - Substitute the tools

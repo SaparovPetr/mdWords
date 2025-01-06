@@ -1,6 +1,3 @@
 # Shallow - мелкий
 
-
-
-
 - Shallow scratch

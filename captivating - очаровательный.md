@@ -1,15 +1,12 @@
 # Captivating - очаровательный
 
-
-
-
 - captivating resort
 - captivating island
 
 Collocations:
 
 - captivating smile
-- captivating eyes 
+- captivating eyes
 - captivating voice
 - captivating personality
 - captivating story
@@ -18,13 +15,13 @@ Collocations:
 
 Example sentences:
 
-Present Perfect: 
+Present Perfect:
 His captivating voice has won over audiences all around the world.
 
 Past Simple:  
-She told a captivating story that enthralled the children. 
+She told a captivating story that enthralled the children.
 
-Past Continuous: 
+Past Continuous:
 The actress was captivating the audience with her charming stage presence throughout the entire play.
 
 Past Perfect:

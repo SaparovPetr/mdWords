@@ -1,6 +1,3 @@
 # dusk - сумерки
 
-
-
-
 - early dusk

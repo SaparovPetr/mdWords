@@ -1,7 +1,5 @@
 # Destiny - судьба
 
-
-
 - it's a destiny.
 
 Your my destiny.

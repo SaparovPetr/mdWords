@@ -1,6 +1,3 @@
-
-
-
 Collocations:
 
 - loathe doing something

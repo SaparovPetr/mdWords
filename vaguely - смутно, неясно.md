@@ -1,8 +1,5 @@
 # vaguely - смутно, неясно
 
-
-
-
 Here are 4 common collocations with "vaguely":
 
 - vaguely familiar

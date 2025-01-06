@@ -1,8 +1,5 @@
 # forthcoming - грядущий
 
-
-
-
 Here are 4 more collocations with "forthcoming" and example sentences in various tenses:
 
 Collocations:

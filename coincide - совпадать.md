@@ -1,7 +1,5 @@
 # Coincide - совпадать
 
-
-
 - coincide in time - совпадать во времени
 - views coincide - взгляды совпадают
 - dates coincide - даты совпадают

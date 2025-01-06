@@ -1,7 +1,5 @@
 # Redundant - уволенный по сокращению
 
-
-
 - She was made redundant
 
 Collocations with "redundant":

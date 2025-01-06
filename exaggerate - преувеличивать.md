@@ -1,8 +1,5 @@
 # Exaggerate - преувеличивать
 
-
-
-
 - Don't exaggerate!
 - You exaggerate the problem.
 

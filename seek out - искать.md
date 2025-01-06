@@ -1,8 +1,5 @@
 # seek out - искать
 
-
-
-
 Here are 4 more collocations with "seek out":
 
 - Seek out opportunities

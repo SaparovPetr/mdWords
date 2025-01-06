@@ -1,8 +1,5 @@
 # Assets - активы
 
-
-
-
 Here are 4 popular collocations with the word "assets" and example sentences using different tenses:
 
 Collocations:

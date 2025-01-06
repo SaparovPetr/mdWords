@@ -1,8 +1,5 @@
 # Negotiation - переговоры
 
-
-
-
 - To sum up negotiation
 - fruitful negotiation
 

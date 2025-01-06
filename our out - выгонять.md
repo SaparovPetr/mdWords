@@ -1,8 +1,5 @@
 # Our out - выгонять
 
-
-
-
 - put out from football field
 - Put out of room
 - Put out of houses

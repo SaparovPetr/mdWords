@@ -1,8 +1,5 @@
 # Cheeky - дерзкий
 
-
-
-
 - cheeky tyke
 - Cheeky boy
 - Cheek act

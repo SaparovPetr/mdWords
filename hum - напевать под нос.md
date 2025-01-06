@@ -1,12 +1,12 @@
 # Hum - напевать под нос
 
-
 She hummed a familiar melody.
 I love to hum something when I do housework.
 
 Here are 7 collocations with "hum" meaning "напевать под нос" and example sentences in different tenses:
 
 Collocations:
+
 - hum a tune
 - hum along
 - hum absentmindedly

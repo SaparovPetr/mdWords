@@ -1,6 +1,3 @@
 # Huge - огромный
 
-
-
-
 - Huge mistake

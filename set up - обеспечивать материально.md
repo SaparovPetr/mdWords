@@ -1,8 +1,5 @@
 # Set up - обеспечивать материально
 
-
-
-
 - set up child
 - Set up with some money
 

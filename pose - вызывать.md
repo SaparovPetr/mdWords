@@ -1,8 +1,5 @@
 # Pose - вызывать
 
-
-
-
 - Pose problems
 - Pose difficulties
 

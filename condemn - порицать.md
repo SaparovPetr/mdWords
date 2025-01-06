@@ -1,8 +1,5 @@
 # Condemn - порицать
 
-
-
-
 - condemn the government
 - condemn the police
 - Condemn criminals

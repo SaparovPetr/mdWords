@@ -1,8 +1,5 @@
 # Lunacy - безумие
 
-
-
-
 Here are 4 more popular collocations with "lunacy" and example sentences in different tenses:
 
 Collocations:

@@ -1,8 +1,5 @@
 # with flying colours - блестяще
 
-
-
-
 Вот 4 распространенных словосочетания с выражением "with flying colours":
 
 1. To pass an exam with flying colours - сдать экзамен на отлично

@@ -1,8 +1,5 @@
 # Rest - остаток
 
-
-
-
 - rest of food
 - Rest of day
 - Rest of prior life

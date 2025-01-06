@@ -1,8 +1,5 @@
 # sacurity seeker - осторожный человек
 
-
-
-
 Here are 4 more collocations with "security seeker" and example sentences in different tenses:
 
 Collocations:

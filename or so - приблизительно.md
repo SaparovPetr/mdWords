@@ -1,8 +1,5 @@
 # or so - приблизительно
 
-
-
-
 Here are 4 more collocations with "or so":
 
 - A minute or so

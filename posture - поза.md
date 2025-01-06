@@ -1,6 +1,3 @@
 # Posture - поза
 
-
-
-
 - inconvenient posture

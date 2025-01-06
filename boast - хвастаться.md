@@ -1,8 +1,5 @@
 # Boast - хвастаться
 
-
-
-
 - Boast by whelth
 - Boast by a new purchase
 - Boast by a new car

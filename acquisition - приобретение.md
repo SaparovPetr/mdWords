@@ -1,24 +1,22 @@
 # acquisition - приобретение
 
-
 - acquisition of language
 - congratulation you with your new acquisition
 - Acquisition of whelth
-
 
 Here are 7 simple and popular collocations with "acquisition" and example sentences with different tenses:
 
 Collocations:
 
 - recent acquisition
-- major acquisition 
+- major acquisition
 - strategic acquisition
 - acquisition talks
-- acquisition deal  
+- acquisition deal
 - acquisition target
 - acquisition plans
 
-Examples:  
+Examples:
 
 Present Perfect:
 The tech company has recently announced the acquisition of a promising start-up.

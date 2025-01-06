@@ -1,8 +1,5 @@
 # Coastal - прибрежный
 
-
-
-
 - coastal breeze
 - Coastal path
 - Coastal waters

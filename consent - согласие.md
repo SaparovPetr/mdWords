@@ -1,9 +1,8 @@
 # Consent - согласие
 
-
 - written consent
 - owners consent
 - Withhold consent
-- Parents consent 
- 
+- Parents consent
+
 - You must give us your written consent.

@@ -1,8 +1,5 @@
 # Assassination - убийство
 
-
-
-
 Here are 4 more collocations with the word "assassination" and example sentences in different tenses:
 
 Collocations:

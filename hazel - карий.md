@@ -1,6 +1,3 @@
 # Hazel - карий
 
-
-
-
 - Hazel eyes

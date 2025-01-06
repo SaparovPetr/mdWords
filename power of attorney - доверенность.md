@@ -1,8 +1,5 @@
 # power of attorney - доверенность
 
-
-
-
 Here are 4 more collocations with "power of attorney" and example sentences using various tenses:
 
 Collocations:

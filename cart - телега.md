@@ -1,6 +1,3 @@
 # Cart - телега
 
-
-
-
 - garden cart

@@ -1,8 +1,5 @@
 # Handful - горстка
 
-
-
-
 1. A handful of nuts
 
 2. A handful of people

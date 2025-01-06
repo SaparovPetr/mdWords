@@ -1,8 +1,5 @@
 # Cite - цитировать
 
-
-
-
 Here are 4 more popular collocations with "cite" meaning "to quote":
 
 - cite sources

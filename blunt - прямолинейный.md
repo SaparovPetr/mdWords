@@ -1,8 +1,5 @@
 # Blunt - прямолинейный
 
-
-
-
 - blunt question
 - blunt answer
 - blunt message

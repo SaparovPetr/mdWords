@@ -1,6 +1,5 @@
 # Cheerful - привлекательный
 
-
 - cheerful room
 
 There seems to be a slight misunderstanding in the translation. "Cheerful" in English typically means "happy" or "full of good spirits" rather than "attractive" (привлекательный in Russian). Let me provide collocations and examples for "cheerful" in its correct English meaning:

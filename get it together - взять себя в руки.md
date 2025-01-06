@@ -1,8 +1,5 @@
 # Get it together - взять себя в руки
 
-
-
-
 Stop crying and get you together!
 
 Get you together and go to the gym!

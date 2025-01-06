@@ -1,8 +1,5 @@
 # Swear off - отказываться
 
-
-
-
 - swear off smoking
 - swear off cigarettes
 - swear off alcohol

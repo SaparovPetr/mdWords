@@ -1,8 +1,5 @@
 # Harness - ремни безопасности
 
-
-
-
 - seat harnesses
 - Lock seat harness
 - fix harness

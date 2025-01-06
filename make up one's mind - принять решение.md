@@ -1,8 +1,5 @@
 # Make up one's mind - принять решение
 
-
-
-
 I look at all sides of the issue before I make up my mind.
 
 You can spend an eternity before making up you mind.

@@ -1,8 +1,5 @@
 # Pass down - передавать по наследству
 
-
-
-
 Here are 4 more popular collocations with the phrase "pass down":
 
 - pass down traditions

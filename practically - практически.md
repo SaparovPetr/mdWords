@@ -1,6 +1,3 @@
 # Practically - практически
 
-
-
-
 - practically completed

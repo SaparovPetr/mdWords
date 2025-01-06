@@ -1,8 +1,5 @@
 # Blush - краснеть
 
-
-
-
 I often blush when I perform on public.
 
 Don't compel blush me!

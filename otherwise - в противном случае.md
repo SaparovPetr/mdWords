@@ -1,8 +1,5 @@
 # Otherwise - в противном случае
 
-
-
-
 1. Otherwise, - В противном случае.
 
 2. Otherwise than - Иначе чем.

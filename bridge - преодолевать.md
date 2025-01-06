@@ -1,6 +1,5 @@
 # bridge - преодолевать
 
-
 7 collocations:
 
 1. financial bridge

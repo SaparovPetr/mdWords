@@ -1,8 +1,5 @@
 # Delightful - восхитительный
 
-
-
-
 - delightful outlook
 - delightful news
 

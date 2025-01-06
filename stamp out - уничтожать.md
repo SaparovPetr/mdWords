@@ -1,8 +1,5 @@
 # Stamp out - уничтожать
 
-
-
-
 - stamp out the fire
 - stamp out the poverty
 

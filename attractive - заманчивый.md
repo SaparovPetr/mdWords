@@ -1,6 +1,3 @@
 # Attractive - заманчивый
 
-
-
-
 - attractive cake

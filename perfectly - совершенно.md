@@ -1,8 +1,5 @@
 # Perfectly - совершенно
 
-
-
-
 Here are 4 more popular collocations with "perfectly" meaning "completely" or "absolutely":
 
 - perfectly clear

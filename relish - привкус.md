@@ -1,8 +1,5 @@
 # Relish - привкус
 
-
-
-
 Here are 4 more popular collocations with the word "relish" meaning a distinctive flavor or taste:
 
 - relish the flavor/taste

@@ -1,8 +1,5 @@
 # remuneration - вознаграждение
 
-
-
-
 Here are 4 more collocations with "remuneration":
 
 - Fair remuneration

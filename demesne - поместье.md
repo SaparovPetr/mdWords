@@ -1,8 +1,5 @@
 # Demesne - поместье
 
-
-
-
 - king demesne
 - Family demesne
 

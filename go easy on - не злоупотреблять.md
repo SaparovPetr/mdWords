@@ -1,8 +1,5 @@
 # @ Go easy on - не злоупотреблять
 
-
-
-
 - go easy on sweets
 - go easy on smocking
 - go easy on alcohol

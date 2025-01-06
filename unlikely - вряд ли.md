@@ -1,8 +1,5 @@
 # Unlikely - вряд ли
 
-
-
-
 - unlikely useful
 - Unlikely possible
 

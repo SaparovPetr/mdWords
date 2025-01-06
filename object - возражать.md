@@ -1,12 +1,10 @@
 # Object - возражать
 
-
-
-
 - object against reform
-Here are 7 collocations with "object" meaning "возражать" and example sentences in different tenses:
+  Here are 7 collocations with "object" meaning "возражать" and example sentences in different tenses:
 
 Collocations:
+
 - object strongly
 - object vehemently
 - object politely

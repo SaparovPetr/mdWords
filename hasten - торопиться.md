@@ -1,8 +1,5 @@
 # Hasten - торопиться
 
-
-
-
 - hasten to the client
 - hasten to the airport
 - hasten to work

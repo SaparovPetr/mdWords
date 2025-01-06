@@ -1,6 +1,3 @@
 # Dislike - неприязнь
 
-
-
-
 - mutual dislike

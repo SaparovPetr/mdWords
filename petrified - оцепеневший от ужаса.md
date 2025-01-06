@@ -1,8 +1,5 @@
 # Petrified - оцепеневший от ужаса
 
-
-
-
 - petrified because of horror
 - Petrified of fear
 

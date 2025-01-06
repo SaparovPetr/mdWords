@@ -1,8 +1,5 @@
 # highland - возвышенность
 
-
-
-
 Here are 4 common collocations with "highland":
 
 - highland meadows

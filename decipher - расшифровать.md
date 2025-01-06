@@ -1,13 +1,9 @@
 # Decipher - расшифровать
 
-
-
-
 - decipher a code
 - Decipher a meaning
 
 Knorozov is the Soviet scientist who deciphered Mayan writing.
-
 
 1. Decipher a code - Расшифровывать код.
 

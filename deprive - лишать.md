@@ -1,8 +1,5 @@
 # Deprive - лишать
 
-
-
-
 - deprive of freedom
 - deprive of entitlements
 - Deprive of possess

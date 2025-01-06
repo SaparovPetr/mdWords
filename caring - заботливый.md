@@ -1,8 +1,5 @@
 # Caring - заботливый
 
-
-
-
 - caring pet owner
 - Caring parent
 - caring partner

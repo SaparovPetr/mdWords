@@ -1,11 +1,8 @@
 # Owing to - по причине
 
-
-
-
 - owing to the bad weather
 
- Here are some collocations for the phrase "owing to" meaning "по причине" (due to, because of) and example sentences:
+Here are some collocations for the phrase "owing to" meaning "по причине" (due to, because of) and example sentences:
 Collocations:1. Owing to bad weather2. Owing to an illness 3. Owing to lack of funds4. Owing to difficult circumstances
 Examples:
 Present Perfect: The event has been postponed owing to bad weather conditions.  

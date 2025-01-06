@@ -1,8 +1,5 @@
 # Boldly - смело
 
-
-
-
 - going boldly
 - Move boldly
 

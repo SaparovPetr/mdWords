@@ -3,14 +3,12 @@
 A black widow.
 That kind of spiders called a black widow.
 
-
-
 Collocations with "widow":
 
 1. widow woman
 2. wealthy widow
 3. war widow
-4. young widow 
+4. young widow
 5. grieving widow
 6. remarried widow
 7. widowed mother

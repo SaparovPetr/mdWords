@@ -1,8 +1,5 @@
 # Take advantage of - воспользоваться
 
-
-
-
 - take advantage of advantage
 
 You can  take advantage of my cycle.

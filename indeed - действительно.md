@@ -1,8 +1,5 @@
 # Indeed - действительно
 
-
-
-
 Here are 4 popular colloquial expressions using the word "indeed" to mean "truly" or "really":
 
 1. Indeed so - Used to agree with something just stated.

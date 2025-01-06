@@ -1,7 +1,4 @@
-# stunt -  останавливать рост
-
-
-
+# stunt - останавливать рост
 
 Here are 4 more simple collocations with "stunt" and an example sentence in different tenses with simplified vocabulary:
 

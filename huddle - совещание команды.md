@@ -1,8 +1,5 @@
 # Huddle - совещание команды
 
-
-
-
 We have to hold a huddle. There are a some issues.
 
 We are planning a huddle on this week.

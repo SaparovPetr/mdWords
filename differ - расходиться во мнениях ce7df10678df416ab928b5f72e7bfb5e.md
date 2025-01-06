@@ -1,8 +1,5 @@
 # Differ - расходиться во мнениях
 
-
-
-
 - differ in opinions
 
 We differed about our future.

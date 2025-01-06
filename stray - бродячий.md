@@ -1,8 +1,5 @@
 # Stray - бродячий
 
-
-
-
 - stray dog
 - Stray man
 - Stray calf

@@ -1,8 +1,5 @@
 # Scrawny - тощий
 
-
-
-
 Here are 4 more popular collocations with the word "scrawny":
 
 - scrawny child

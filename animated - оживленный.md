@@ -1,8 +1,5 @@
 # Animated - оживленный
 
-
-
-
 - Animated conversation
 - animated street
 

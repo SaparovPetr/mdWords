@@ -1,7 +1,4 @@
-# pug  - мопс
-
-
-
+# pug - мопс
 
 Here are 4 more collocations with "pug":
 
@@ -23,4 +20,3 @@ The playful baby pug was running around in the yard.
 
 Past Perfect:
 She had never seen a pug puppy before that day.
-

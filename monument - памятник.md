@@ -1,6 +1,3 @@
 # Monument - памятник
 
-
-
-
 - architectural monument

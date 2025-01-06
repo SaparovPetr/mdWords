@@ -1,8 +1,5 @@
 # Hold out - протягивать
 
-
-
-
 - hold out the tablet with blank
 - hold out a hand
 - hold out a mug

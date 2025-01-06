@@ -1,8 +1,5 @@
 # Admit - принимать
 
-
-
-
 - admit conditions
 - Admit an application
 - admit a present

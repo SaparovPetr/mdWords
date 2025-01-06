@@ -1,8 +1,5 @@
 # Amongst - среди
 
-
-
-
 - amongst rubbish
 - Amongst friends
 

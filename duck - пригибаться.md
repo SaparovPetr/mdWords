@@ -1,8 +1,5 @@
 # Duck - пригибаться
 
-
-
-
 Could you duck please. I need to open the door .
 
 Вот 4 распространенных словосочетания со словом duck и их переводы:

@@ -1,8 +1,5 @@
 # Flock - стая
 
-
-
-
 - Flock of birds
 - Flock of wolfs
 

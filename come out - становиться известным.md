@@ -1,8 +1,5 @@
 # Come out - становиться известным
 
-
-
-
 - the fact came out
 
 That fact came out several months ago.

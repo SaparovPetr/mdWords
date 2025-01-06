@@ -1,27 +1,24 @@
 # Due - ожидаемый
 
-
-
-
 - due train
-Here are 7 simple and popular collocations with "due" and example sentences in different tenses:
+  Here are 7 simple and popular collocations with "due" and example sentences in different tenses:
 
 Due collocations:
 
 - Due date
 - Due time
-- Due process 
+- Due process
 - Due diligence
 - Due course
-- Due to arrive  
+- Due to arrive
 - Long overdue
 
-Examples:  
+Examples:
 
 Present Perfect:
 The package has not arrived yet despite being due to arrive yesterday.
 
-Past Simple: 
+Past Simple:
 He did not finish the work report by the due date.
 
 Past Continuous:

@@ -1,8 +1,5 @@
 # Keep - задерживать
 
-
-
-
 What problem was kept you? I waited you very long.
 
 I were kept after work.

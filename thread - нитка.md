@@ -1,8 +1,5 @@
 # Thread - нитка
 
-
-
-
 - Thread and needle
 - Reel with threads
 

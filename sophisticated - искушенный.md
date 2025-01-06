@@ -1,6 +1,5 @@
 # Sophisticated - искушенный
 
-
 - sophisticated mechanism
 - Sophisticated taste
 - Sophisticated spectator
