@@ -1,3 +1,5 @@
 # Howl - вой
 
-- long howlWolf's howl Dog's howl
+- long howl
+- Wolf's howl
+- Dog's howl
