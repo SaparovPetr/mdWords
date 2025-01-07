@@ -1,3 +1,5 @@
 # Jerky - глупый
 
-I made jerky thing.\* Jerky joke
+I made jerky thing.
+
+Jerky joke
