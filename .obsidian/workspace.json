@@ -134,15 +134,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "abandon - оставлять.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура abandon - оставлять"
+              "title": "Outline"
             }
           },
           {
-            "id": "785c47adbce489fc",
+            "id": "37972b3a3dc5eb10",
             "type": "leaf",
             "state": {
               "type": "git-view",
