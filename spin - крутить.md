@@ -1,3 +1,4 @@
 # Spin - крутить
 
-- spin the pedalsSpin the spinner
+- spin the pedals
+- Spin the spinner
