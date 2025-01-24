@@ -1,4 +1,11 @@
-This is Rock and Roll English. Real people. Real English. Here's your host, Martin Johnson.
+This is Rock and Roll English. Real people.
+
+
+
+
+
+
+Real English. Here's your host, Martin Johnson.
 Hello everyone and welcome to another episode of Rock and Roll English. Episode number 346, baby. Oh yeah.
 In today's episode we speak to the Hellraiser about... not a lot really, I mean, what else do we talk about on Rock and Roll English?
 We talk about a lot, do we? So it's kind of about our hopes, dreams, life in general or just... that might be a nice way of saying we just talk about nothing, okay? Whatever you want to believe.
