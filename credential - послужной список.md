@@ -1,4 +1,3 @@
-Here are 7 collocations with "credential" meaning "послужной список" (track record, credentials) in Russian:
 
 Credentials:
 

@@ -1,3 +1,4 @@
 # Quantity - количество
 
-- quantity against qualityA big quantity
+- quantity against quality
+- A big quantity
