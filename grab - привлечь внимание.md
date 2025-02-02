@@ -2,13 +2,13 @@
 
 She grabbed my attention by her look.
 
-• grab attention
-• grab interest
-• grab headlines
-• grab spotlight
-• grab focus
-• grab eyeballs
-• grab notice
+grab attention
+grab interest
+grab headlines
+grab spotlight
+grab focus
+grab eyeballs
+grab notice
 
 Present Perfect: The new campaign has grabbed everyone's attention.
 Past Simple: His speech grabbed the audience's interest immediately.
