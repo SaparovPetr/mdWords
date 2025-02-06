@@ -1,1 +1,3 @@
 # curve - изгиб
+
+rode curve
