@@ -1,3 +1,5 @@
 # doubtful - маловероятный
 
-- doubtful caseDoubtful occasiondoubtful circumstance
+- doubtful case
+- Doubtful occasion
+- doubtful circumstance
